@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="_res_0x7f1302a5" parent="@style/_res_0x7f130342">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:background">@drawable/splash_v23</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="res_0x7f040118">@color/res_0x7f060584</item>
+    </style>
+</resources>

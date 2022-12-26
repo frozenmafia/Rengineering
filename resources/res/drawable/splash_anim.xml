@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:drawable="@drawable/res_0x7f0800e5_splash_anim__0">
+    <target android:name="d11" android:animation="@drawable/res_0x7f0800e6_splash_anim__1"/>
+    <target android:name="cup" android:animation="@drawable/res_0x7f0800e7_splash_anim__2"/>
+    <target android:name="path_9" android:animation="@drawable/res_0x7f0800e8_splash_anim__3"/>
+</animated-vector>

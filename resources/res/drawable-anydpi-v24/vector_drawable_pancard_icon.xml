@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="30dp" android:width="44dp" android:viewportWidth="44" android:viewportHeight="30">
+    <group android:name="Pancard-icon" android:translateX="2" android:translateY="2">
+        <path android:name="Stroke-923" android:fillColor="#00000000" android:pathData="M39.6331859,22.4024167 C39.6331859,24.4405705 38.0988983,26.0947243 36.2084367,26.0947243 L3.67331967,26.0947243 C1.78285813,26.0947243 0.248570504,24.4405705 0.248570504,22.4024167 L0.248570504,3.9408782 C0.248570504,1.90272435 1.78285813,0.248570504 3.67331967,0.248570504 L36.2084367,0.248570504 C38.0988983,0.248570504 39.6331859,1.90272435 39.6331859,3.9408782 L39.6331859,22.4024167 L39.6331859,22.4024167 Z" android:strokeColor="#4a4a4a" android:strokeWidth="3" android:strokeLineCap="round" android:strokeLineJoin="round" android:fillType="evenOdd"/>
+        <path android:name="Stroke-926" android:fillColor="#00000000" android:pathData="M19.6793613,9.84615385 L5.53846154,9.84615385" android:strokeColor="#4a4a4a" android:strokeWidth="3" android:strokeLineCap="round" android:strokeLineJoin="round" android:fillType="evenOdd"/>
+        <path android:name="Stroke-927" android:fillColor="#00000000" android:pathData="M10.841299,15.3846154 L5.53846154,15.3846154" android:strokeColor="#4a4a4a" android:strokeWidth="3" android:strokeLineCap="round" android:strokeLineJoin="round" android:fillType="evenOdd"/>
+    </group>
+</vector>

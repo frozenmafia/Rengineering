@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:topLeftRadius="@dimen/d11_size_s" android:topRightRadius="@dimen/d11_size_s"/>
+            <gradient android:startColor="#ffce7a" android:endColor="#ffeed1" android:angle="270"/>
+        </shape>
+    </item>
+    <item android:drawable="@drawable/quick_join_pattern" android:top="@dimen/res_0x7f0701b0"/>
+</layer-list>

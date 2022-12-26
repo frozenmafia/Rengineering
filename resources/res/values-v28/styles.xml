@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="_res_0x7f130068" parent="@style/_res_0x7f1300cc">
+    </style>
+    <style name="_res_0x7f13006f" parent="@style/_res_0x7f1300cd">
+    </style>
+    <style name="_res_0x7f1300b5" parent="@style/_res_0x7f1303aa">
+        <item name="android:backgroundDimAmount">0.32</item>
+        <item name="android:checkedTextViewStyle">@style/_res_0x7f13054e</item>
+        <item name="android:dialogCornerRadius">@null</item>
+        <item name="res_0x7f040037">@style/_res_0x7f1301e0</item>
+        <item name="res_0x7f04009b">@style/_res_0x7f130546</item>
+        <item name="res_0x7f04009c">@style/_res_0x7f130546</item>
+        <item name="res_0x7f04009d">@style/_res_0x7f130547</item>
+        <item name="res_0x7f04009e">@style/_res_0x7f130546</item>
+        <item name="res_0x7f04035f">@style/_res_0x7f1301e1</item>
+        <item name="materialAlertDialogButtonSpacerVisibility">@integer/mtrl_view_invisible</item>
+    </style>
+    <style name="_res_0x7f1300cc" parent="@style/_res_0x7f1300c9">
+        <item name="res_0x7f0401a1">?android:attr/dialogCornerRadius</item>
+    </style>
+    <style name="_res_0x7f1300cd" parent="@style/_res_0x7f1300ca">
+        <item name="res_0x7f0401a1">?android:attr/dialogCornerRadius</item>
+    </style>
+    <style name="_res_0x7f1304a7" parent="@style/_res_0x7f130533">
+        <item name="android:outlineSpotShadowColor">@android:color/transparent</item>
+        <item name="android:outlineAmbientShadowColor">@android:color/transparent</item>
+        <item name="res_0x7f040331">true</item>
+    </style>
+    <style name="_res_0x7f13052b" parent="@style/_res_0x7f13052a">
+        <item name="android:background">?attr/res_0x7f040120</item>
+        <item name="android:outlineSpotShadowColor">@android:color/transparent</item>
+        <item name="android:outlineAmbientShadowColor">@android:color/transparent</item>
+    </style>
+</resources>

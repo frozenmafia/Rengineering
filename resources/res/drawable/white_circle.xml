@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <size android:height="120dp" android:width="120dp"/>
+            <solid android:color="@color/res_0x7f0605d5"/>
+        </shape>
+    </item>
+    <item android:gravity="center" android:drawable="@drawable/ic_pick_image"/>
+    <item>
+        <ripple android:color="@color/res_0x7f060064">
+            <shape android:shape="oval">
+                <size android:height="120dp" android:width="120dp"/>
+            </shape>
+        </ripple>
+    </item>
+</layer-list>

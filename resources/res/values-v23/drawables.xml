@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="abc_control_background_material">ik.xml</drawable>
+    <drawable name="compat_splash_screen">eY.xml</drawable>
+    <drawable name="compat_splash_screen_no_icon_background">fa.xml</drawable>
+    <drawable name="m3_appbar_background">cM.xml</drawable>
+    <drawable name="m3_popupmenu_background_overlay">O.xml</drawable>
+    <drawable name="m3_radiobutton_ripple">ie.xml</drawable>
+    <drawable name="m3_selection_control_ripple">sx.xml</drawable>
+    <drawable name="m3_tabs_background">bL.xml</drawable>
+    <drawable name="m3_tabs_transparent_background">oo.xml</drawable>
+    <drawable name="mtrl_popupmenu_background_overlay">rl.xml</drawable>
+</resources>

@@ -1,0 +1,39 @@
+package com.app.dream11.core.service.graphql.api;
+
+import com.app.dream11.core.service.graphql.api.PlayerInfoQuery;
+import kotlin.jvm.internal.Lambda;
+import o.Styleable;
+import o.removeCancellable;
+import o.runAnimators;
+/* JADX INFO: Access modifiers changed from: package-private */
+/* loaded from: classes2.dex */
+public final class PlayerInfoQuery$Squad$Companion$invoke$1$flag$1 extends Lambda implements Styleable.ChangeBounds<removeCancellable.values, PlayerInfoQuery.Flag> {
+    public static final PlayerInfoQuery$Squad$Companion$invoke$1$flag$1 INSTANCE = new PlayerInfoQuery$Squad$Companion$invoke$1$flag$1();
+
+    PlayerInfoQuery$Squad$Companion$invoke$1$flag$1() {
+        super(1);
+    }
+
+    /* JADX INFO: Access modifiers changed from: package-private */
+    /* renamed from: com.app.dream11.core.service.graphql.api.PlayerInfoQuery$Squad$Companion$invoke$1$flag$1$1  reason: invalid class name */
+    /* loaded from: classes2.dex */
+    public static final class AnonymousClass1 extends Lambda implements Styleable.ChangeBounds<removeCancellable, PlayerInfoQuery.Flag> {
+        public static final AnonymousClass1 INSTANCE = new AnonymousClass1();
+
+        AnonymousClass1() {
+            super(1);
+        }
+
+        @Override // o.Styleable.ChangeBounds
+        public final PlayerInfoQuery.Flag invoke(removeCancellable removecancellable) {
+            runAnimators.ag$a(removecancellable, "reader");
+            return PlayerInfoQuery.Flag.Companion.invoke(removecancellable);
+        }
+    }
+
+    @Override // o.Styleable.ChangeBounds
+    public final PlayerInfoQuery.Flag invoke(removeCancellable.values valuesVar) {
+        runAnimators.ag$a(valuesVar, "reader");
+        return (PlayerInfoQuery.Flag) valuesVar.ag$a(AnonymousClass1.INSTANCE);
+    }
+}

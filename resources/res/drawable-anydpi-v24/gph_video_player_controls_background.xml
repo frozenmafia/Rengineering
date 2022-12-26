@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="100dp" android:width="100dp" android:viewportWidth="100" android:viewportHeight="100">
+    <path android:fillColor="@drawable/res_0x7f080019_gph_video_player_controls_background__0" android:pathData="M0,100l0,-100l100,0l0,100z"/>
+</vector>

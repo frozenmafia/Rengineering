@@ -1,0 +1,24 @@
+package o;
+
+import java.math.BigInteger;
+/* loaded from: classes7.dex */
+public class getBindArgs {
+    public static byte[] values(BigInteger bigInteger) {
+        int bitLength = ((bigInteger.bitLength() + 7) >> 3) << 3;
+        byte[] byteArray = bigInteger.toByteArray();
+        int i = 1;
+        if (bigInteger.bitLength() % 8 == 0 || (bigInteger.bitLength() / 8) + 1 != bitLength / 8) {
+            int length = byteArray.length;
+            if (bigInteger.bitLength() % 8 == 0) {
+                length--;
+            } else {
+                i = 0;
+            }
+            int i2 = bitLength / 8;
+            byte[] bArr = new byte[i2];
+            System.arraycopy(byteArray, i, bArr, i2 - length, length);
+            return bArr;
+        }
+        return byteArray;
+    }
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="32dp" android:width="228dp" android:viewportWidth="228" android:viewportHeight="32">
+    <group>
+        <clip-path android:pathData="M0,0h228v32h-228z"/>
+        <path android:fillColor="@drawable/res_0x7f08000a_background_group_leaderboard_odd_item__0" android:pathData="M0.62,5.19C-0.18,2.62 1.74,0 4.44,0H223.54C226.24,0 228.17,2.63 227.35,5.21L220.64,26.41C219.59,29.74 216.5,32 213.01,32H14.87C11.37,32 8.28,29.72 7.23,26.38L0.62,5.19Z"/>
+        <path android:fillColor="@drawable/res_0x7f08000b_background_group_leaderboard_odd_item__1" android:pathData="M152.01,2.54C152.6,1.01 154.08,0 155.73,0H223.56C226.26,0 228.18,2.62 227.38,5.19L220.75,26.39C219.71,29.73 216.62,32 213.12,32H146.36C143.54,32 141.61,29.17 142.63,26.54L152.01,2.54Z"/>
+        <path android:fillColor="@drawable/res_0x7f08000c_background_group_leaderboard_odd_item__2" android:pathData="M152.01,2.54C152.6,1.01 154.08,0 155.73,0H223.56C226.26,0 228.18,2.62 227.38,5.19L220.75,26.39C219.71,29.73 216.62,32 213.12,32H146.36C143.54,32 141.61,29.17 142.63,26.54L152.01,2.54Z"/>
+    </group>
+</vector>

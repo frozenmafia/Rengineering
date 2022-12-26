@@ -1,0 +1,378 @@
+{
+  "data": {
+    "me": {
+      "__typename": "User",
+      "userGuid": "0765f05f-aed9-11ea-8282-0af0af9569c5",
+      "userType": "EMPLOYEE",
+      "officialTick": [
+        {
+          "__typename": "Artwork",
+          "src": ""
+        }
+      ],
+      "id": 123,
+      "teamName": "TheTrueAvenger",
+      "city": "Mumbai",
+      "countOfFollowers": {
+        "__typename": "Count",
+        "count": 1
+      },
+      "countOfFollowing": {
+        "__typename": "Count",
+        "count": 1
+      },
+      "profilePic": [
+        {
+          "__typename": "Artwork",
+          "src": "https://userassets.dream11.com/fbprofilepic/3cbc5eef562167067daa728b4f9f8eba35ce2419_profilepic.jpg?id=9ed4c7f0-e2be-11ea-bf61-cec038c90022"
+        }
+      ],
+      "coverPic": [
+        {
+          "__typename": "Artwork",
+          "src": "https://assets.dream11.com/public/imgs/profile/PROFILE-COVER-PIC.png"
+        }
+      ],
+      "coverPicColorCode": "#2E4012",
+      "name": "Nikhil Agrawal",
+      "mobileNumber": "8*******15",
+      "verified": "IN_PROGRESS",
+      "isTeamNameAutoAssigned": true,
+      "referralCode": "ABCD01234",
+      "currentLevel": {
+        "__typename": "LoyaltyLevel",
+        "level": 3
+      },
+      "nextLevel": {
+        "__typename": "LoyaltyLevel",
+        "level": 4,
+        "completedPercentage": 6.67,
+        "rulesRelation": "AND",
+        "rules": [
+          {
+            "__typename": "LevelRule",
+            "description": "Entry Fees",
+            "type": "paidLeagueCount",
+            "completedPercentage": 0,
+            "isCompleted": false,
+            "remaining": 10.0,
+            "typeEnum": "entryFee",
+            "miniArtwork": [
+              {
+                "__typename": "Artwork",
+                "src": "https://assets.dream11.com/imgs/cash-contest-icon.png"
+              }
+            ]
+          },
+          {
+            "__typename": "LevelRule",
+            "description": "Entry Fees",
+            "type": "paidLeagueCount",
+            "completedPercentage": 0,
+            "isCompleted": false,
+            "remaining": 12.5,
+            "typeEnum": "entryFee",
+            "miniArtwork": [
+              {
+                "__typename": "Artwork",
+                "src": "https://assets.dream11.com/imgs/cash-contest-icon.png"
+              }
+            ]
+          }
+        ]
+      },
+      "nextRewards": {
+        "__typename": "PaginatedRewards",
+        "edges": [
+          {
+            "__typename": "Reward",
+            "title": "10",
+            "isRedeemed": false,
+            "description": "Level 10 - Win ₹1000 Cash Bonus",
+            "redeemedOn": null,
+            "summary": "Level 20 - Win ₹1000 Cash Bonus",
+            "isClaimed": false,
+            "claimedOn": null,
+            "type": "cashbonus",
+            "label": "₹10",
+            "claimExpiry": null,
+            "displayText": "Use this cash bonus to join paid contests and win.",
+            "level": 10,
+            "expiry": null,
+            "artwork": [
+              {
+                "__typename": "Artwork",
+                "src": "https://assets.dream11.com/imgs/dream11_logo.png"
+              }
+            ],
+            "miniArtwork": [
+              {
+                "__typename": "Artwork",
+                "src": "https://assets.dream11.com/imgs/coins-icon.png"
+              }
+            ],
+            "preview": {
+              "__typename": "RewardPreview",
+              "title": "Unlock Cash Bonus",
+              "artwork": [
+                {
+                  "__typename": "Artwork",
+                  "src": "https://assets.dream11.com/imgs/money-bag-icon.png"
+                }
+              ],
+              "summary": "Get ₹1000 Cash Bonus at Level 20",
+              "offerDetails": {
+                "__typename": "HyperlinkText",
+                "fullText": " You can use this cash bonus to join cash contests. Here are the offer details",
+                "highlightText": "offer details",
+                "highlightTextUrl": "Hello World"
+              },
+              "programUrl": "https://www.dream11.com/games/loyalty-cashbonus"
+            },
+            "descriptionUrl": "https://www.dream11.com/games/loyalty-cashbonus",
+            "amount": {
+              "__typename": "Currency",
+              "amount": 10
+            }
+          }
+        ],
+        "pageInfo": {
+          "__typename": "PageInfo",
+          "nextPage": 2
+        }
+      },
+      "careerStats": {
+        "__typename": "CareerStats",
+        "winPct": 1,
+        "sports": 5,
+        "series": 11,
+        "matches": 40000,
+        "contests": 5500000,
+        "playingSince": "2021-01-05T16:51:41.495Z"
+      },
+      "recentPerformance": {
+        "__typename": "RecentPerformance",
+        "recentMatches": {
+          "__typename": "PaginatedRecentMatches",
+          "pageInfo": {
+            "__typename": "Cursor",
+            "endCursor": "1",
+            "hasNextPage": true
+          },
+          "edges": [
+            {
+              "__typename": "RecentMatch",
+              "id": 22392,
+              "tour": {
+                "__typename": "BasicTour",
+                "id": 1551
+              },
+              "name": "KXIP VS RCB (24-September-2020)",
+              "startTime": "2020-09-24T14:00:00.000Z",
+              "userTeamsCount": 1,
+              "dreamTeamPoints": 931.5,
+              "roundResult": "SA beat IND by 2 runs",
+              "slug": "cricket",
+              "displayName": "Cricket",
+              "squads": [
+                {
+                  "__typename": "BasicSquad",
+                  "flag": [
+                    {
+                      "__typename": "Artwork",
+                      "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/KXIP-CR3@2x.png"
+                    }
+                  ],
+                  "shortName": "KXIP"
+                },
+                {
+                  "__typename": "BasicSquad",
+                  "flag": [
+                    {
+                      "__typename": "Artwork",
+                      "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/BRC-CR3@2x.png"
+                    }
+                  ],
+                  "shortName": "BLR"
+                }
+              ],
+              "bestUserTeam": {
+                "__typename": "UserTeamPoints",
+                "id": 1,
+                "totalPoints": 752
+              }
+            },
+            {
+              "__typename": "RecentMatch",
+              "id": 22391,
+              "tour": {
+                "__typename": "BasicTour",
+                "id": 1551
+              },
+              "name": "KKR VS MI (23-September-2020)",
+              "startTime": "2020-09-23T14:00:00.000Z",
+              "userTeamsCount": 1,
+              "dreamTeamPoints": 780,
+              "roundResult": "SA beat IND by 2 runs",
+              "slug": "cricket",
+              "displayName": "Cricket",
+              "squads": [
+                {
+                  "__typename": "BasicSquad",
+                  "flag": [
+                    {
+                      "__typename": "Artwork",
+                      "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/KKR-CR1@2x.png"
+                    }
+                  ],
+                  "shortName": "KOL"
+                },
+                {
+                  "__typename": "BasicSquad",
+                  "flag": [
+                    {
+                      "__typename": "Artwork",
+                      "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/MI-CR3@2x.png"
+                    }
+                  ],
+                  "shortName": "MI"
+                }
+              ],
+              "bestUserTeam": {
+                "__typename": "UserTeamPoints",
+                "id": 1,
+                "totalPoints": 603.5
+              }
+            },
+            {
+              "__typename": "RecentMatch",
+              "id": 22390,
+              "tour": {
+                "__typename": "BasicTour",
+                "id": 1551
+              },
+              "name": "RR VS CSK (22-September-2020)",
+              "startTime": "2020-09-22T14:00:00.000Z",
+              "userTeamsCount": 1,
+              "dreamTeamPoints": 1019.5,
+              "roundResult": "SA beat IND by 2 runs",
+              "slug": "cricket",
+              "displayName": "Cricket",
+              "squads": [
+                {
+                  "__typename": "BasicSquad",
+                  "flag": [
+                    {
+                      "__typename": "Artwork",
+                      "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RR-CR3@2x.png"
+                    }
+                  ],
+                  "shortName": "RR"
+                },
+                {
+                  "__typename": "BasicSquad",
+                  "flag": [
+                    {
+                      "__typename": "Artwork",
+                      "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/CSK-CR3@2x.png"
+                    }
+                  ],
+                  "shortName": "CSK"
+                }
+              ],
+              "bestUserTeam": {
+                "__typename": "UserTeamPoints",
+                "id": 1,
+                "totalPoints": 723.5
+              }
+            },
+            {
+              "__typename": "RecentMatch",
+              "id": 22559,
+              "tour": {
+                "__typename": "BasicTour",
+                "id": 1298
+              },
+              "name": "GER-W VS BEL-W (22-September-2020)",
+              "startTime": "2020-09-22T13:30:00.000Z",
+              "userTeamsCount": 1,
+              "dreamTeamPoints": 634,
+              "roundResult": "SA beat IND by 2 runs",
+              "slug": "hockey",
+              "displayName": "Hockey",
+              "squads": [
+                {
+                  "__typename": "BasicSquad",
+                  "flag": [
+                    {
+                      "__typename": "Artwork",
+                      "src": "https://d13ir53smqqeyp.cloudfront.net/flags/hk-flags/GER-W-HK1@2x.png"
+                    }
+                  ],
+                  "shortName": "GER-W"
+                },
+                {
+                  "__typename": "BasicSquad",
+                  "flag": [
+                    {
+                      "__typename": "Artwork",
+                      "src": "https://d13ir53smqqeyp.cloudfront.net/flags/hk-flags/BEL-W-HK1@2x.png"
+                    }
+                  ],
+                  "shortName": "BEL-W"
+                }
+              ],
+              "bestUserTeam": {
+                "__typename": "UserTeamPoints",
+                "id": 1,
+                "totalPoints": 343
+              }
+            },
+            {
+              "__typename": "RecentMatch",
+              "id": 22507,
+              "tour": {
+                "__typename": "BasicTour",
+                "id": 1553
+              },
+              "name": "RCCL VS ACCA (22-September-2020)",
+              "startTime": "2020-09-22T11:30:00.000Z",
+              "userTeamsCount": 1,
+              "dreamTeamPoints": 692,
+              "roundResult": "SA beat IND by 2 runs",
+              "slug": "cricket",
+              "displayName": "Cricket",
+              "squads": [
+                {
+                  "__typename": "BasicSquad",
+                  "flag": [
+                    {
+                      "__typename": "Artwork",
+                      "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/RCCL-CR1@2x.png"
+                    }
+                  ],
+                  "shortName": "RCCL"
+                },
+                {
+                  "__typename": "BasicSquad",
+                  "flag": [
+                    {
+                      "__typename": "Artwork",
+                      "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/ACCA-CR1@2x.png"
+                    }
+                  ],
+                  "shortName": "ACCA"
+                }
+              ],
+              "bestUserTeam": {
+                "__typename": "UserTeamPoints",
+                "id": 1,
+                "totalPoints": 410.5
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

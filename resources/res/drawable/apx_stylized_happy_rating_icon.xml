@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="32dp" android:width="32dp" android:viewportWidth="23" android:viewportHeight="23">
+    <path android:fillColor="?attr/icon_bg" android:pathData="M0.4258,10.9046C0.4258,4.8822 5.3077,0 11.3307,0C17.3524,0 22.2343,4.8822 22.2343,10.9046C22.2343,16.9269 17.3524,21.809 11.3307,21.809C5.3077,21.809 0.4258,16.9269 0.4258,10.9046Z"/>
+    <path android:fillColor="?attr/icon_fg" android:pathData="M8.1174,8.8756C8.1174,9.6235 7.7566,10.2299 7.3127,10.2299C6.87,10.2299 6.5093,9.6235 6.5093,8.8756C6.5093,8.1277 6.87,7.5212 7.3127,7.5212C7.7566,7.5212 8.1174,8.1277 8.1174,8.8756Z"/>
+    <path android:fillColor="?attr/icon_fg" android:pathData="M16.1513,8.8756C16.1513,9.6235 15.7918,10.2299 15.3479,10.2299C14.9039,10.2299 14.5444,9.6235 14.5444,8.8756C14.5444,8.1277 14.9039,7.5212 15.3479,7.5212C15.7918,7.5212 16.1513,8.1277 16.1513,8.8756Z"/>
+    <path android:fillColor="?attr/icon_fg" android:pathData="M14.9258,13.375C14.4258,17.5002 7.9258,17.5003 7.4258,13.3751L14.9258,13.375Z" android:strokeColor="?attr/icon_fg" android:strokeWidth="1" android:strokeLineCap="round"/>
+</vector>

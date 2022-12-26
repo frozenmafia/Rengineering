@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="res_0x7f070004">48dp</dimen>
+    <dimen name="res_0x7f070050">12dp</dimen>
+    <dimen name="res_0x7f070052">14dp</dimen>
+    <dimen name="res_0x7f0703c5">450dp</dimen>
+    <dimen name="res_0x7f0703c6">600dp</dimen>
+    <dimen name="res_0x7f0703d5">24dp</dimen>
+    <dimen name="res_0x7f0703d8">24dp</dimen>
+    <dimen name="res_0x7f07040b">20dp</dimen>
+    <dimen name="res_0x7f07040d">4dp</dimen>
+    <dimen name="res_0x7f070411">96dp</dimen>
+    <dimen name="res_0x7f070414">0dp</dimen>
+    <dimen name="res_0x7f070415">0dp</dimen>
+    <dimen name="res_0x7f070416">104dp</dimen>
+    <dimen name="res_0x7f07041e">68dp</dimen>
+    <dimen name="res_0x7f070420">28dp</dimen>
+    <dimen name="res_0x7f070421">64dp</dimen>
+    <dimen name="res_0x7f070422">32dp</dimen>
+    <dimen name="res_0x7f070423">24dp</dimen>
+    <dimen name="res_0x7f070424">32dp</dimen>
+    <dimen name="res_0x7f0705f1">18sp</dimen>
+    <dimen name="res_0x7f0705f2">24sp</dimen>
+    <dimen name="res_0x7f0705f4">24sp</dimen>
+</resources>

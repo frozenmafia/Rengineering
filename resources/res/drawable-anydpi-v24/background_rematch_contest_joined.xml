@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="26dp" android:width="120dp" android:viewportWidth="120" android:viewportHeight="26">
+    <group>
+        <clip-path android:pathData="M13 0H107C114.18 0 120 5.8203 120 13C120 20.1797 114.18 26 107 26H13C5.8203 26 0 20.1797 0 13C0 5.8203 5.8203 0 13 0Z"/>
+        <group android:pivotX="60" android:pivotY="13" android:scaleX="1.659" android:scaleY="29.836" android:rotation="-0.816" android:translateX="-0.018" android:translateY="-6.942">
+            <path android:fillColor="@drawable/res_0x7f08000e_background_rematch_contest_joined__0" android:pathData="M0 0V26H120V0"/>
+        </group>
+    </group>
+</vector>

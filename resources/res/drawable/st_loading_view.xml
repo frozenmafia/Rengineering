@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:gravity="center">
+        <rotate android:drawable="@drawable/st_loading_outer_circle" android:fromDegrees="630" android:toDegrees="-90" android:pivotX="50%" android:pivotY="50%"/>
+    </item>
+    <item android:gravity="center">
+        <rotate android:fromDegrees="-90" android:toDegrees="630" android:pivotX="50%" android:pivotY="50%">
+            <inset android:drawable="@drawable/st_loading_inner_circle" android:insetLeft="10dp" android:insetRight="10dp" android:insetTop="10dp" android:insetBottom="10dp"/>
+        </rotate>
+    </item>
+</layer-list>

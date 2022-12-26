@@ -1,0 +1,700 @@
+{
+  "apiErrorPolicies": [
+    {
+      "apiUrl": "ALL",
+      "msgCode": "MG0119",
+      "codeRange": {
+        "lowerBound": 503,
+        "upperBound": 503
+      },
+      "actionEnum": "SITE_MAINTENANCE_SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "ALL",
+      "msgCode": "MG1003",
+      "codeRange": {
+        "lowerBound": 0,
+        "upperBound": 499
+      },
+      "actionEnum": "SHOW_LOGOUT"
+    },
+    {
+      "apiUrl": "ALL",
+      "msgCode": "A1003",
+      "codeRange": {
+        "lowerBound": 0,
+        "upperBound": 499
+      },
+      "actionEnum": "SHOW_LOGOUT"
+    },
+    {
+      "apiUrl": "ALL",
+      "msgCode": "LEC001",
+      "codeRange": {
+        "lowerBound": 0,
+        "upperBound": 0
+      },
+      "actionEnum": "SHOW_LOGOUT"
+    },
+    {
+      "apiUrl": "sendotpforregister",
+      "msgCode": "MG010E",
+      "codeRange": {
+        "lowerBound": 0,
+        "upperBound": 0
+      },
+      "actionEnum": "SHOW_DEVICE_VERIFIED"
+    },
+    {
+      "apiUrl": "isShortRefCodeVerified/v",
+      "msgCode": "MG010B",
+      "codeRange": {
+        "lowerBound": 0,
+        "upperBound": 0
+      },
+      "actionEnum": "SHOW_ERROR_MESSAGE"
+    },
+    {
+      "apiUrl": "ALL",
+      "msgCode": "ALL",
+      "codeRange": {
+        "lowerBound": 0,
+        "upperBound": 499
+      },
+      "actionEnum": "SHOW_ERROR_MESSAGE"
+    },
+    {
+      "apiUrl": "leaguejoinedmembers/v",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "feed/v",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "HIDE_VIEW"
+    },
+    {
+      "apiUrl": "getrounds/v",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "roundmessage",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "HIDE_VIEW"
+    },
+    {
+      "apiUrl": "fetchleagues/v",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "userstats",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE"
+    },
+    {
+      "apiUrl": "joinedrounds",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "getjoinedleagues/v",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "teamleaguequery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "HIDE_VIEW"
+    },
+    {
+      "apiUrl": "ALL",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_MESSAGE"
+    },
+    {
+      "apiUrl": "contesthomequery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "contestsectiondetailsquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "conteststatsquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "contestleaderboardpagequery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "homesitequery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "createteamquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "announcedlineupsquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "mycontestscarouselquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 400,
+        "upperBound": 1000
+      },
+      "actionEnum": "HIDE_VIEW"
+    },
+    {
+      "apiUrl": "followingslistquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE"
+    },
+    {
+      "apiUrl": "followerslistquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE"
+    },
+    {
+      "apiUrl": "otherfollowerlistquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE"
+    },
+    {
+      "apiUrl": "otherfollowinglistquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE"
+    },
+    {
+      "apiUrl": "logintwofactorcredentialscheck",
+      "msgCode": "A0101",
+      "codeRange": {
+        "lowerBound": 400,
+        "upperBound": 500
+      },
+      "actionEnum": "SHOW_LOGIN_ERROR_DIALOG"
+    },
+    {
+      "apiUrl": "logintwofactorcredentialscheck",
+      "msgCode": "A0111",
+      "codeRange": {
+        "lowerBound": 400,
+        "upperBound": 500
+      },
+      "actionEnum": "SHOW_LOGIN_ERROR_DIALOG"
+    },
+    {
+      "apiUrl": "logintwofactorsendotpmutation",
+      "msgCode": "A0101",
+      "codeRange": {
+        "lowerBound": 400,
+        "upperBound": 500
+      },
+      "actionEnum": "SHOW_LOGIN_ERROR_DIALOG"
+    },
+    {
+      "apiUrl": "logintwofactorsendotpmutation",
+      "msgCode": "A0111",
+      "codeRange": {
+        "lowerBound": 400,
+        "upperBound": 500
+      },
+      "actionEnum": "SHOW_LOGIN_ERROR_DIALOG"
+    },
+    {
+      "apiUrl": "logintwofactorverifyotpmutation",
+      "msgCode": "A0101",
+      "codeRange": {
+        "lowerBound": 400,
+        "upperBound": 500
+      },
+      "actionEnum": "SHOW_LOGIN_ERROR_DIALOG"
+    },
+    {
+      "apiUrl": "logintwofactorverifyotpmutation",
+      "msgCode": "A0112",
+      "codeRange": {
+        "lowerBound": 400,
+        "upperBound": 500
+      },
+      "actionEnum": "SHOW_LOGIN_ERROR_DIALOG"
+    },
+    {
+      "apiUrl": "logintwofactorverifyotpmutation",
+      "msgCode": "A0111",
+      "codeRange": {
+        "lowerBound": 400,
+        "upperBound": 500
+      },
+      "actionEnum": "SHOW_LOGIN_ERROR_DIALOG"
+    },
+    {
+      "apiUrl": "logintwofactorverifyotpmutation",
+      "msgCode": "A0012",
+      "codeRange": {
+        "lowerBound": 400,
+        "upperBound": 500
+      },
+      "actionEnum": "SHOW_LOGIN_ERROR_DIALOG"
+    },
+    {
+      "apiUrl": "logintwofactorsendotpmutation",
+      "msgCode": "A0012",
+      "codeRange": {
+        "lowerBound": 400,
+        "upperBound": 500
+      },
+      "actionEnum": "SHOW_LOGIN_ERROR_DIALOG"
+    },
+    {
+      "apiUrl": "mypromotionsquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 400,
+        "upperBound": 1000
+      },
+      "actionEnum": "HIDE_VIEW"
+    },
+    {
+      "apiUrl": "mycontestsquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "getmyactivitiesquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "getfeedsquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "getuseractivitiesquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "shmenewmyteamsquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "mycontestsquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "contestdetailsbasequery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "teamcomparequery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "gettoursquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "getweeksoftourquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "getweeklyleaderboardquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "userstatsquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "matchleaderboardquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "fetchreactionlistquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "fetchreactions",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE"
+    },
+    {
+      "apiUrl": "halloffamewinnerlistquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE"
+    },
+    {
+      "apiUrl": "halloffamematchdetailquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "halloffamematchcenter",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "watchLiveFanCodeButtonQuery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 400,
+        "upperBound": 1000
+      },
+      "actionEnum": "HIDE_VIEW"
+    },
+    {
+      "apiUrl": "paymentlandingoptionquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 400,
+        "upperBound": 1000
+      },
+      "actionEnum": "SITE_MAINTENANCE_SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "depositlistingoptionquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 400,
+        "upperBound": 1000
+      },
+      "actionEnum": "SITE_MAINTENANCE_SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "getusersearchquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE"
+    },
+    {
+      "apiUrl": "getcommentsquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "fantasyscorecard",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 400,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE"
+    },
+    {
+      "apiUrl": "getrecommendedprofilequery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 400,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE"
+    },
+    {
+      "apiUrl": "profilequery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 400,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "NewMyProfileQuery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 400,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "privacyquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 400,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "careerstatsdrilldownquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 400,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "joinedcontestsquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "playerinfo",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "fullscorecardquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "fantasycommentary",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "getunfilledcontestquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "contestwinningbreakupquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    },
+    {
+      "apiUrl": "compareteamquery",
+      "msgCode": "",
+      "codeRange": {
+        "lowerBound": 400,
+        "upperBound": 1000
+      },
+      "actionEnum": "SHOW_ERROR_STATE_IF_NO_DATA"
+    }
+  ],
+  "defaultMessages": [
+    {
+      "codeRange": {
+        "lowerBound": 500,
+        "upperBound": 1000
+      },
+      "messages": [
+        {
+          "actionEnums": [
+            "SHOW_ERROR_STATE_IF_NO_DATA",
+            "SHOW_ERROR_STATE",
+            "SHOW_ERROR_MESSAGE"
+          ],
+          "message": {
+            "title": "This is unusual!",
+            "message": "Sorry, we have an issue. We’ll be back in no time!"
+          }
+        }
+      ]
+    }
+  ]
+}

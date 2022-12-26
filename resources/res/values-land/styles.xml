@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="_res_0x7f1304a2" parent="@style/_res_0x7f130110">
+        <item name="res_0x7f04051f">1</item>
+        <item name="res_0x7f04052c">1</item>
+    </style>
+    <style name="_res_0x7f13056e" parent="@style/_res_0x7f130452">
+        <item name="android:textAppearance">?attr/res_0x7f04054e</item>
+        <item name="android:textColor">?attr/res_0x7f04010b</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:maxLines">@integer/res_0x7f0b002d</item>
+    </style>
+</resources>

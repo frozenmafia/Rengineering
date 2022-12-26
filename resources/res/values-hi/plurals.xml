@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="res_0x7f100001">
+        <item quantity="one">%s कॉन्टेस्ट इनवाइट</item>
+        <item quantity="other">%s कॉन्टेस्ट इनवाइट्स</item>
+    </plurals>
+    <plurals name="res_0x7f100002">
+        <item quantity="one">%s मैच</item>
+        <item quantity="other">%s मैचेस</item>
+    </plurals>
+    <plurals name="res_0x7f100005">
+        <item quantity="one">%1$s फ़िल्टर लागू</item>
+        <item quantity="other">%1$s फ़िल्टर लागू</item>
+    </plurals>
+    <plurals name="res_0x7f100006">
+        <item quantity="one">%s इनवाइट</item>
+        <item quantity="other">%s इनवाइट्स</item>
+    </plurals>
+    <plurals name="res_0x7f100007">
+        <item quantity="one">इनवाइट</item>
+        <item quantity="other">इनवाइट्स</item>
+    </plurals>
+    <plurals name="res_0x7f100008">
+        <item quantity="one">1 क्रम और %1$d फ़िल्टर लागू</item>
+        <item quantity="other">1 क्रम और %1$d फ़िल्टर लागू</item>
+    </plurals>
+    <plurals name="res_0x7f100009">
+        <item quantity="one">%1$s टीम से जॉइन किया है</item>
+        <item quantity="other">%1$s टीम्स से जॉइन किया है</item>
+    </plurals>
+    <plurals name="res_0x7f10000a">
+        <item quantity="one">%1$s स्पॉट बचा हैं</item>
+        <item quantity="other">%1$s स्पॉट्स बचे हैं</item>
+    </plurals>
+    <plurals name="res_0x7f10000b">
+        <item quantity="one">%1$s कॉन्टेस्ट उपलब्ध है</item>
+        <item quantity="other">%1$s कॉन्टेस्ट्स उपलब्ध है</item>
+    </plurals>
+    <plurals name="res_0x7f10000c">
+        <item quantity="one">%d कॉन्टेक्ट् Dream11 पर हैं| उनको फॉलो करें!</item>
+        <item quantity="other">%d कॉन्टेक्ट्स Dream11 पर हैं| उनको फॉलो करें!</item>
+    </plurals>
+    <plurals name="res_0x7f10000d">
+        <item quantity="one">वीडियो को %d सेकंड आगे बढ़ाएं</item>
+        <item quantity="other">वीडियो को %d सेकंड आगे बढ़ाएं</item>
+    </plurals>
+    <plurals name="res_0x7f10000e">
+        <item quantity="one">वीडियो को %d सेकंड पीछे ले जाएं</item>
+        <item quantity="other">वीडियो को %d सेकंड पीछे ले जाएं</item>
+    </plurals>
+    <plurals name="res_0x7f100011">
+        <item quantity="one">%d व्यक्ति %s फॉलो कर रहे हैं</item>
+        <item quantity="other">%d व्यक्ति %s फॉलो कर रहे हैं</item>
+    </plurals>
+    <plurals name="res_0x7f100012">
+        <item quantity="one">%d व्यक्ति आपको फॉलो कर रहे हैं</item>
+        <item quantity="other">%d व्यक्ति आपको फॉलो कर रहे है</item>
+    </plurals>
+    <plurals name="res_0x7f100013">
+        <item quantity="one">आप %d व्यक्ति को फॉलो कर रहे हैं</item>
+        <item quantity="other">आप %d व्यक्ति को फॉलो कर रहे हैं</item>
+    </plurals>
+    <plurals name="res_0x7f100014">
+        <item quantity="one">%s %d व्यक्ति को फॉलो कर रहे हैं</item>
+        <item quantity="other">%s %d व्यक्ति को फॉलो कर रहे हैं</item>
+    </plurals>
+    <plurals name="res_0x7f100016">
+        <item quantity="one">कॉन्टेस्ट</item>
+        <item quantity="other">कॉन्टेस्ट्स</item>
+    </plurals>
+    <plurals name="res_0x7f100017">
+        <item quantity="one">टीम</item>
+        <item quantity="other">टीम्स</item>
+    </plurals>
+    <plurals name="res_0x7f100018">
+        <item quantity="one">%d टीम</item>
+        <item quantity="other">%d टीम</item>
+    </plurals>
+    <plurals name="res_0x7f100019">
+        <item quantity="one">इस कॉन्टेस्ट में %d ही टीम की अनुमति हैं</item>
+        <item quantity="other">इस कॉन्टेस्ट में %d टीम की अनुमति हैं</item>
+    </plurals>
+    <plurals name="res_0x7f10001a">
+        <item quantity="one">सिंगल</item>
+        <item quantity="other">%d टीम</item>
+    </plurals>
+    <plurals name="res_0x7f10001b">
+        <item quantity="one">%s व्यक्ति जिन्हें आप फॉलो करते हैं, यह मैच खेल चुके हैं</item>
+        <item quantity="other">%s लोग जिन्हें आप फॉलो करते हैं, यह मैच खेल चुके हैं</item>
+    </plurals>
+    <plurals name="res_0x7f10001c">
+        <item quantity="one">%s व्यक्ति जिन्हें आप फॉलो करते हैं, यह मैच खेल रहे हैं</item>
+        <item quantity="other">%s लोग जिन्हें आप फॉलो करते हैं, यह मैच खेल रहे हैं</item>
+    </plurals>
+    <plurals name="res_0x7f10001d">
+        <item quantity="one">इस कॉन्टेस्ट में %1$d टीम की अनुमति हैं</item>
+        <item quantity="other">इस कॉन्टेस्ट में %1$d टीम्स की अनुमति हैं</item>
+    </plurals>
+    <plurals name="res_0x7f10001e">
+        <item quantity="one">%d नई सूचनाएं</item>
+        <item quantity="other">%d नई सूचनाएं</item>
+    </plurals>
+    <plurals name="res_0x7f10001f">
+        <item quantity="one">%s + %d अन्य खेल रहे हैं</item>
+        <item quantity="other">%s + %d अन्य खेल रहे हैं</item>
+    </plurals>
+    <plurals name="res_0x7f100020">
+        <item quantity="one">%s अन्य ग्रुप में शेयर किया गया</item>
+        <item quantity="other">%s अन्य ग्रुप्स में शेयर किया गया</item>
+    </plurals>
+    <plurals name="res_0x7f100021">
+        <item quantity="one">%1$d मेंबर</item>
+        <item quantity="other">%1$d मेंबर</item>
+    </plurals>
+    <plurals name="res_0x7f100022">
+        <item quantity="one">%1$d मेंबर</item>
+        <item quantity="other">%1$d मेंबर</item>
+    </plurals>
+    <plurals name="res_0x7f100028">
+        <item quantity="one">%1$d अघोषित प्लेयर हटा दिया गया हैं!</item>
+        <item quantity="other">%1$d अघोषित प्लेयर्स हटा दिए गए हैं!</item>
+    </plurals>
+    <plurals name="res_0x7f100029">
+        <item quantity="one">%s रिक्वेस्ट्स आयी हैं</item>
+        <item quantity="other">%s रिक्वेस्ट्स आयी हैं</item>
+    </plurals>
+    <plurals name="res_0x7f10002d">
+        <item quantity="one">%1$s टाइप कर रहे हैं…</item>
+        <item quantity="other">%1$s टाइप कर रहे हैं…</item>
+    </plurals>
+    <plurals name="res_0x7f10002e">
+        <item quantity="one">%1$d अघोषित प्लेयर हटाएं।</item>
+        <item quantity="other">%1$d अघोषित प्लेयर्स हटाएं।</item>
+    </plurals>
+    <plurals name="res_0x7f10002f">
+        <item quantity="one">%1$s नया मैसेज</item>
+        <item quantity="other">%1$s नए मैसेज</item>
+    </plurals>
+    <plurals name="res_0x7f100032">
+        <item quantity="one">आप %2$d कॉन्टेस्ट् में %1$s जीते हैं</item>
+        <item quantity="other">आप %2$d कॉन्टेस्ट्स में %1$s जीते हैं</item>
+    </plurals>
+</resources>

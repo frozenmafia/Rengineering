@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="40dp" android:width="360dp" android:viewportWidth="360" android:viewportHeight="40">
+    <path android:fillColor="@drawable/res_0x7f080006_background_group_leaderboard_band__0" android:pathData="M0,0h360v40h-360z"/>
+</vector>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="_res_0x7f130053" parent="@android:style/TextAppearance.Material.Widget.Button.Borderless.Colored">
+    </style>
+    <style name="_res_0x7f130054" parent="@android:style/TextAppearance.Material.Widget.Button.Colored">
+    </style>
+    <style name="_res_0x7f130076" parent="@style/_res_0x7f1300c5">
+    </style>
+    <style name="_res_0x7f130078" parent="@style/_res_0x7f1300c6">
+    </style>
+    <style name="_res_0x7f130079" parent="@style/_res_0x7f1300c7">
+    </style>
+    <style name="_res_0x7f13007b" parent="@style/_res_0x7f1300c8">
+    </style>
+    <style name="_res_0x7f1300a8" parent="@style/_res_0x7f1300a9">
+        <item name="android:colorBackground">@color/res_0x7f0601e5</item>
+        <item name="android:buttonBarButtonStyle">?attr/res_0x7f04009b</item>
+        <item name="android:timePickerDialogTheme">@style/_res_0x7f1303ec</item>
+        <item name="android:datePickerDialogTheme">@style/_res_0x7f1303ec</item>
+        <item name="android:contextPopupMenuStyle">@style/_res_0x7f130581</item>
+        <item name="res_0x7f040005">@style/_res_0x7f1303e9</item>
+        <item name="res_0x7f040006">@dimen/res_0x7f070491</item>
+        <item name="res_0x7f040008">@style/_res_0x7f130530</item>
+        <item name="res_0x7f04000c">@style/_res_0x7f1303e0</item>
+        <item name="res_0x7f040023">@style/_res_0x7f130583</item>
+        <item name="res_0x7f040038">@style/_res_0x7f1303ed</item>
+        <item name="res_0x7f040048">@style/_res_0x7f130533</item>
+        <item name="res_0x7f040088">@style/_res_0x7f130545</item>
+        <item name="res_0x7f04008b">@style/_res_0x7f13053c</item>
+        <item name="res_0x7f04008c">@style/_res_0x7f1303e8</item>
+        <item name="res_0x7f04009b">@style/_res_0x7f130545</item>
+        <item name="res_0x7f0400b8">@style/_res_0x7f130559</item>
+        <item name="res_0x7f0400fd">?attr/res_0x7f04011d</item>
+        <item name="res_0x7f040104">@color/res_0x7f0601e6</item>
+        <item name="res_0x7f040116">@color/res_0x7f0601ec</item>
+        <item name="res_0x7f040118">@color/res_0x7f0601ed</item>
+        <item name="res_0x7f040227">@style/_res_0x7f13055e</item>
+        <item name="res_0x7f040340">@style/_res_0x7f130582</item>
+        <item name="res_0x7f040361">@style/_res_0x7f1303f1</item>
+        <item name="res_0x7f04036a">@style/_res_0x7f1303f9</item>
+        <item name="res_0x7f040374">@style/_res_0x7f130562</item>
+        <item name="res_0x7f040375">@style/_res_0x7f1303f8</item>
+        <item name="res_0x7f040382">@style/_res_0x7f1303ff</item>
+        <item name="res_0x7f0403bd">@style/_res_0x7f13057f</item>
+        <item name="res_0x7f04040a">@style/_res_0x7f130580</item>
+        <item name="res_0x7f040431">@style/_res_0x7f13055a</item>
+        <item name="res_0x7f0404b0">@style/_res_0x7f13054a</item>
+        <item name="res_0x7f0404b1">@style/_res_0x7f130587</item>
+        <item name="res_0x7f0404b2">@style/_res_0x7f130589</item>
+        <item name="res_0x7f040519">@style/_res_0x7f13055b</item>
+        <item name="res_0x7f040535">@style/_res_0x7f13058a</item>
+        <item name="res_0x7f040555">?attr/res_0x7f04055f</item>
+        <item name="res_0x7f04055e">?attr/res_0x7f04055f</item>
+        <item name="textInputFilledDenseStyle">@style/_res_0x7f130592</item>
+        <item name="textInputFilledExposedDropdownMenuStyle">@style/_res_0x7f130594</item>
+        <item name="textInputFilledStyle">@style/_res_0x7f130591</item>
+        <item name="textInputOutlinedDenseStyle">@style/_res_0x7f130596</item>
+        <item name="textInputOutlinedExposedDropdownMenuStyle">@style/_res_0x7f130598</item>
+        <item name="textInputOutlinedStyle">@style/_res_0x7f130595</item>
+        <item name="res_0x7f040570">@style/_res_0x7f130591</item>
+        <item name="res_0x7f04059a">@style/_res_0x7f1305a4</item>
+        <item name="res_0x7f0405d6">com.google.android.material.theme.MaterialComponentsViewInflater</item>
+    </style>
+    <style name="_res_0x7f1300aa" parent="@style/_res_0x7f1300ab">
+        <item name="android:colorBackground">@color/res_0x7f0601e5</item>
+        <item name="android:contextPopupMenuStyle">@style/_res_0x7f130581</item>
+        <item name="res_0x7f040005">@style/_res_0x7f1303e9</item>
+        <item name="res_0x7f040006">@dimen/res_0x7f070491</item>
+        <item name="res_0x7f040008">@style/_res_0x7f130530</item>
+        <item name="res_0x7f04000c">@style/_res_0x7f1303e0</item>
+        <item name="res_0x7f040023">@style/_res_0x7f130583</item>
+        <item name="res_0x7f040038">@style/_res_0x7f1303ed</item>
+        <item name="res_0x7f040048">@style/_res_0x7f130533</item>
+        <item name="res_0x7f040088">@style/_res_0x7f130545</item>
+        <item name="res_0x7f04008b">@style/_res_0x7f13053c</item>
+        <item name="res_0x7f04009b">@style/_res_0x7f130547</item>
+        <item name="res_0x7f0400b8">@style/_res_0x7f130559</item>
+        <item name="res_0x7f0400fd">?attr/res_0x7f04011d</item>
+        <item name="res_0x7f040104">@color/res_0x7f0601e6</item>
+        <item name="res_0x7f040116">@color/res_0x7f0601ec</item>
+        <item name="res_0x7f040118">@color/res_0x7f0601ed</item>
+        <item name="res_0x7f04011d">@color/res_0x7f0601ef</item>
+        <item name="res_0x7f040227">@style/_res_0x7f13055e</item>
+        <item name="res_0x7f040340">@style/_res_0x7f130582</item>
+        <item name="res_0x7f040361">@style/_res_0x7f1303f1</item>
+        <item name="res_0x7f0403bd">@style/_res_0x7f13057f</item>
+        <item name="res_0x7f04040a">@style/_res_0x7f130580</item>
+        <item name="res_0x7f040431">@style/_res_0x7f13055a</item>
+        <item name="res_0x7f0404b0">@style/_res_0x7f13054a</item>
+        <item name="res_0x7f0404b1">@style/_res_0x7f130587</item>
+        <item name="res_0x7f0404b2">@style/_res_0x7f130589</item>
+        <item name="res_0x7f040519">@style/_res_0x7f13055b</item>
+        <item name="res_0x7f040535">@style/_res_0x7f13058a</item>
+        <item name="res_0x7f040555">?attr/res_0x7f04055f</item>
+        <item name="res_0x7f04055e">?attr/res_0x7f04055f</item>
+        <item name="textInputFilledDenseStyle">@style/_res_0x7f130592</item>
+        <item name="textInputFilledExposedDropdownMenuStyle">@style/_res_0x7f130594</item>
+        <item name="textInputFilledStyle">@style/_res_0x7f130591</item>
+        <item name="textInputOutlinedDenseStyle">@style/_res_0x7f130596</item>
+        <item name="textInputOutlinedExposedDropdownMenuStyle">@style/_res_0x7f130598</item>
+        <item name="textInputOutlinedStyle">@style/_res_0x7f130595</item>
+        <item name="res_0x7f040570">@style/_res_0x7f130591</item>
+        <item name="res_0x7f04059a">@style/_res_0x7f1305a4</item>
+        <item name="res_0x7f0405d6">com.google.android.material.theme.MaterialComponentsViewInflater</item>
+    </style>
+    <style name="_res_0x7f1300ac" parent="@style/_res_0x7f1300ad">
+        <item name="android:colorBackground">@color/res_0x7f0601f2</item>
+        <item name="android:buttonBarButtonStyle">?attr/res_0x7f04009b</item>
+        <item name="android:timePickerDialogTheme">@style/_res_0x7f1303ec</item>
+        <item name="android:datePickerDialogTheme">@style/_res_0x7f1303ec</item>
+        <item name="android:contextPopupMenuStyle">@style/_res_0x7f130581</item>
+        <item name="res_0x7f040005">@style/_res_0x7f1303ef</item>
+        <item name="res_0x7f040006">@dimen/res_0x7f070491</item>
+        <item name="res_0x7f040008">@style/_res_0x7f13055f</item>
+        <item name="res_0x7f040023">@style/_res_0x7f130583</item>
+        <item name="res_0x7f040038">@style/_res_0x7f1303ed</item>
+        <item name="res_0x7f040048">@style/_res_0x7f130531</item>
+        <item name="res_0x7f040088">@style/_res_0x7f130545</item>
+        <item name="res_0x7f04008b">@style/_res_0x7f13053c</item>
+        <item name="res_0x7f04008c">@style/_res_0x7f1303e8</item>
+        <item name="res_0x7f04009b">@style/_res_0x7f130545</item>
+        <item name="res_0x7f0400b8">@style/_res_0x7f130559</item>
+        <item name="res_0x7f0400fd">?attr/res_0x7f04011d</item>
+        <item name="res_0x7f040104">@color/res_0x7f0601f3</item>
+        <item name="res_0x7f040116">@color/res_0x7f0601f9</item>
+        <item name="res_0x7f040118">@color/res_0x7f0601fa</item>
+        <item name="res_0x7f040227">@style/_res_0x7f13055e</item>
+        <item name="res_0x7f040340">@style/_res_0x7f130582</item>
+        <item name="res_0x7f040361">@style/_res_0x7f1303f1</item>
+        <item name="res_0x7f04036a">@style/_res_0x7f1303f9</item>
+        <item name="res_0x7f040374">@style/_res_0x7f130562</item>
+        <item name="res_0x7f040375">@style/_res_0x7f1303f8</item>
+        <item name="res_0x7f040382">@style/_res_0x7f1303ff</item>
+        <item name="res_0x7f0403bd">@style/_res_0x7f13057f</item>
+        <item name="res_0x7f04040a">@style/_res_0x7f130580</item>
+        <item name="res_0x7f040431">@style/_res_0x7f13055a</item>
+        <item name="res_0x7f0404b0">@style/_res_0x7f13054a</item>
+        <item name="res_0x7f0404b1">@style/_res_0x7f130587</item>
+        <item name="res_0x7f0404b2">@style/_res_0x7f130589</item>
+        <item name="res_0x7f040519">@style/_res_0x7f13055b</item>
+        <item name="res_0x7f040535">@style/_res_0x7f13058a</item>
+        <item name="res_0x7f040555">?attr/res_0x7f04055f</item>
+        <item name="res_0x7f04055e">?attr/res_0x7f04055f</item>
+        <item name="textInputFilledDenseStyle">@style/_res_0x7f130592</item>
+        <item name="textInputFilledExposedDropdownMenuStyle">@style/_res_0x7f130594</item>
+        <item name="textInputFilledStyle">@style/_res_0x7f130591</item>
+        <item name="textInputOutlinedDenseStyle">@style/_res_0x7f130596</item>
+        <item name="textInputOutlinedExposedDropdownMenuStyle">@style/_res_0x7f130598</item>
+        <item name="textInputOutlinedStyle">@style/_res_0x7f130595</item>
+        <item name="res_0x7f040570">@style/_res_0x7f130591</item>
+        <item name="res_0x7f04059a">@style/_res_0x7f1305a4</item>
+        <item name="res_0x7f0405d6">com.google.android.material.theme.MaterialComponentsViewInflater</item>
+    </style>
+    <style name="_res_0x7f1300af" parent="@style/_res_0x7f1300b0">
+        <item name="android:colorBackground">@color/res_0x7f0601f2</item>
+        <item name="android:contextPopupMenuStyle">@style/_res_0x7f130581</item>
+        <item name="res_0x7f040005">@style/_res_0x7f1303ef</item>
+        <item name="res_0x7f040006">@dimen/res_0x7f070491</item>
+        <item name="res_0x7f040008">@style/_res_0x7f13055f</item>
+        <item name="res_0x7f040023">@style/_res_0x7f130583</item>
+        <item name="res_0x7f040038">@style/_res_0x7f1303ed</item>
+        <item name="res_0x7f040048">@style/_res_0x7f130531</item>
+        <item name="res_0x7f040088">@style/_res_0x7f130545</item>
+        <item name="res_0x7f04008b">@style/_res_0x7f13053c</item>
+        <item name="res_0x7f04009b">@style/_res_0x7f130547</item>
+        <item name="res_0x7f0400b8">@style/_res_0x7f130559</item>
+        <item name="res_0x7f0400fd">?attr/res_0x7f04011d</item>
+        <item name="res_0x7f040104">@color/res_0x7f0601f3</item>
+        <item name="res_0x7f040116">@color/res_0x7f0601f9</item>
+        <item name="res_0x7f040118">@color/res_0x7f0601fa</item>
+        <item name="res_0x7f04011d">@color/res_0x7f0601fc</item>
+        <item name="res_0x7f040227">@style/_res_0x7f13055e</item>
+        <item name="res_0x7f040340">@style/_res_0x7f130582</item>
+        <item name="res_0x7f040361">@style/_res_0x7f1303f1</item>
+        <item name="res_0x7f0403bd">@style/_res_0x7f13057f</item>
+        <item name="res_0x7f04040a">@style/_res_0x7f130580</item>
+        <item name="res_0x7f040431">@style/_res_0x7f13055a</item>
+        <item name="res_0x7f0404b0">@style/_res_0x7f13054a</item>
+        <item name="res_0x7f0404b1">@style/_res_0x7f130587</item>
+        <item name="res_0x7f0404b2">@style/_res_0x7f130589</item>
+        <item name="res_0x7f040519">@style/_res_0x7f13055b</item>
+        <item name="res_0x7f040535">@style/_res_0x7f13058a</item>
+        <item name="res_0x7f040555">?attr/res_0x7f04055f</item>
+        <item name="res_0x7f04055e">?attr/res_0x7f04055f</item>
+        <item name="textInputFilledDenseStyle">@style/_res_0x7f130592</item>
+        <item name="textInputFilledExposedDropdownMenuStyle">@style/_res_0x7f130594</item>
+        <item name="textInputFilledStyle">@style/_res_0x7f130591</item>
+        <item name="textInputOutlinedDenseStyle">@style/_res_0x7f130596</item>
+        <item name="textInputOutlinedExposedDropdownMenuStyle">@style/_res_0x7f130598</item>
+        <item name="textInputOutlinedStyle">@style/_res_0x7f130595</item>
+        <item name="res_0x7f040570">@style/_res_0x7f130591</item>
+        <item name="res_0x7f04059a">@style/_res_0x7f1305a4</item>
+        <item name="res_0x7f0405d6">com.google.android.material.theme.MaterialComponentsViewInflater</item>
+    </style>
+    <style name="_res_0x7f1300c5" parent="@style/_res_0x7f1300a2">
+        <item name="android:contextPopupMenuStyle">@style/_res_0x7f130513</item>
+    </style>
+    <style name="_res_0x7f1300c6" parent="@style/_res_0x7f1300a4">
+        <item name="android:contextPopupMenuStyle">@style/_res_0x7f130513</item>
+    </style>
+    <style name="_res_0x7f1300c7" parent="@style/_res_0x7f1300a5">
+        <item name="android:contextPopupMenuStyle">@style/_res_0x7f130513</item>
+    </style>
+    <style name="_res_0x7f1300c8" parent="@style/_res_0x7f1300a7">
+        <item name="android:contextPopupMenuStyle">@style/_res_0x7f130513</item>
+    </style>
+    <style name="_res_0x7f1302e9" parent="@style/_res_0x7f1302e8">
+    </style>
+    <style name="_res_0x7f1302ec" parent="@style/_res_0x7f1302e7">
+    </style>
+    <style name="_res_0x7f1302ee" parent="@style/_res_0x7f1302ed">
+    </style>
+    <style name="_res_0x7f1302f0" parent="@style/_res_0x7f1302ef">
+    </style>
+</resources>

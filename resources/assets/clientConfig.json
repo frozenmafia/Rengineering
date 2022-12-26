@@ -1,0 +1,6437 @@
+{
+  "data": {
+    "unSupportedIntegrations": {
+      "unSupportedIntegrations": [
+        "APPSFLYER",
+        "SEGMENT",
+        "FIREBASE_CRASHLYTICS",
+        "CRASHLYTICS",
+        "FIREBASE",
+        "APXOR",
+        "IN_HOUSE"
+      ]
+    },
+    "dh_wrapper": {
+      "type": {
+        "events": {
+          "MyContactsLoaded": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "DRHistoryStickyBarClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "QuickJoinClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "BankSubmitForVerificationTapped": {
+            "enabled": false,
+            "integrations": []
+          },
+          "SetReminderApplied": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "VideoPlayerRewindForward": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "FantasyCommentary_LMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "AddCashGQLCallFailed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RefreshPollHit": {
+            "enabled": false,
+            "integrations": []
+          },
+          "WithdrawalSuccessToast": {
+            "enabled": false,
+            "integrations": []
+          },
+          "BayonetAutoCloseReconnect": {
+            "enabled": false,
+            "integrations": []
+          },
+          "AwardsToEarnLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "EmailVerificationRetryClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RN_UI_FMP_MyInfoAndSettings": {
+            "enabled": false,
+            "integrations": []
+          },
+          "StreaksShareScreenInteraction": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PrivateWinningDistributionToggleSwitch": {
+            "enabled": false,
+            "integrations": []
+          },
+          "Tds_LMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "TeamNameChangeScreenLoaded": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "AwardSelected": {
+            "enabled": false,
+            "integrations": []
+          },
+          "WalletUnlinkedSuccessfully": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "SendMobileOTPAgain": {
+            "enabled": false,
+            "integrations": []
+          },
+          "DefaultAmountBoxClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "PanRejectedScreenLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "H2HBandClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "HOFFilterClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "UpdateDismissed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ContactsAddedToGroup": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "EventRankOpponentAdded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PanInReviewScreenLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "DeviceInfoPermissionPopUpShown": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "GlobalSearchClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "FriendsListLoadFailed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RN_UI_FMP_ThirdPersonProfile": {
+            "enabled": false,
+            "integrations": []
+          },
+          "AutoContestLearnMoreTapped": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MyNetworkTabLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MyBalance_LMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "EarnDRSnackbarDismissed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "trace_FMP_create_team": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "MyChatsFABClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ev6yhl988d": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PhonebookSyncTabSelection": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ContactSupportClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UnlinkBankConfirmed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "SaveTeamSuccess": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "UploadVerificationDocDoneClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "LiveStreamBannerShown": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "LinkableWalletCallback": {
+            "enabled": false,
+            "integrations": []
+          },
+          "BottomSheetLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "URLClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "UI_FMP_AllContests": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "CommentLongPressTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "FloatingContestsButtonTapped": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UI_FMP_chat_window": {
+            "enabled": false,
+            "integrations": []
+          },
+          "EditVerificationDocClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "QuickJoinConfirmed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UnblockInitiated": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "PostButtonClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "dreamPeOrderCreate": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "PhonebookSyncBlueBandClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PrivateContestCreateContestTapped": {
+            "enabled": false,
+            "integrations": []
+          },
+          "GroupEdited": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "GroupMemberAdded": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "videoPause": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ProfileClosed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ContestInviteButtonTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "DownloadStatement_FMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PasswordChangeSubmitted": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "DepositSuccessClient": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "SaveNameClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PrivateContestWinningDistributionSelected": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "CreateTeam_LMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ComponentLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UploadVerificationDocClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "EnterContestCodeButtonTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "CareerStatsScrollInitiated": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "LocationPermissionPopUpShown": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ForgotPasswordTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ExpiredRewards_LMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "AppLaunched": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "RN_UI_FMP_Network_In_Contest": {
+            "enabled": false,
+            "integrations": []
+          },
+          "languageContinueButtonClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UI_FMP_GlobalLeaderBoard": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "MobileVerificationSendOTP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "TeamPreviewClosed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ActiveRewards_FMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "Leaderboard_FMP_PreRoundLock": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MorePageSelection": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "JoinedTeamsInteracted": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ConfirmationPopup": {
+            "enabled": false,
+            "integrations": []
+          },
+          "StreaksClaimedCBShareLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PlayerStatsTeamHighlighterInteracted": {
+            "enabled": false,
+            "integrations": []
+          },
+          "LoyaltyHome_FMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ClearTeamClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RN_trace_FMP_create_team": {
+            "enabled": false,
+            "integrations": []
+          },
+          "FantasyPointsSystemPageOpened": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "MessageRequestInteracted": {
+            "enabled": false,
+            "integrations": []
+          },
+          "EventRankOverRangeApplied": {
+            "enabled": false,
+            "integrations": []
+          },
+          "WalletOTPVerificationFailed": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "DISMISS_DIALOG": {
+            "enabled": false,
+            "integrations": []
+          },
+          "FeedLoadedClient": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "FCOfferValidClickDN": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UI_FMP_Manage_payments_option": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PostCreationInitiated": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "UI_FMP_MyTeams_PostRoundLock": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "OfferSheetInteracted": {
+            "enabled": false,
+            "integrations": []
+          },
+          "NetworkBottomSheetLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "SearchOptionClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PlayerStatsPicker": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "RegistrationInitiated": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "InvalidAmountEntered": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "OnEnrolledInExperiment": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PlayerStatSort": {
+            "enabled": false,
+            "integrations": []
+          },
+          "AddRemovedCardsTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ReactionRemoveClient": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "QuickJoinInfoClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "AutoContestTourExplore": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ContestHomeTabSelected": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MyContactsSearchInitiated": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "JoinContestConfirmDismissed": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "HelpAndSupportQuestionBottomSheetLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CommentFailure": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ContestHomePreRl_FMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "SystemMessageCTAClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "EmailOTPRequested": {
+            "enabled": false,
+            "integrations": []
+          },
+          "Gamification_FMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "WalletRechargeInitiated": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "FacebookEmailTapped": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ConversionImageLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "NewScorecardOpened": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ImageEdited": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ChangingTeamsClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PrivacyConfirmationPopUp": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "UI_FMP_Group": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "WarningMessageShown": {
+            "enabled": false,
+            "integrations": []
+          },
+          "LoyaltyProgramStaticPageOpened": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "OTPSuccess": {
+            "enabled": false,
+            "integrations": []
+          },
+          "DownloadStatement_LMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ContestSortFilterClearClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "OfferListLoaded": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "LineupsBannerClosed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PaymentOfferDetailsBottomSheetShown": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MatchesShownHorizontal": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RN_UI_FMP_Following": {
+            "enabled": false,
+            "integrations": []
+          },
+          "WalletRechargeSuccess": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "MyRewardsScrollTillEnd": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PaymentOptionPageLoadError": {
+            "enabled": false,
+            "integrations": []
+          },
+          "WithdrawInitiated": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ReactionUIInitiated": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "mobile_only_debug_success": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RN_UI_LMP_Contests": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CouponCodeManualInteraction": {
+            "enabled": false,
+            "integrations": []
+          },
+          "EventRankChangingTeamsApplied": {
+            "enabled": false,
+            "integrations": []
+          },
+          "AnnouncedLineupsIconClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "videoPlay": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ActiveRewards_LMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "LoginTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "UnauthAppPopupOKClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RafDeviceOTPEntered": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "EditAutoContestTapped": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UnblockClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "GLViewAllClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "DRSOnENrolledInExperiment": {
+            "enabled": false,
+            "integrations": []
+          },
+          "DreamTeamInfoIconClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MyInfoAndSettingsInteracted": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "WalletRechargeProceed": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "LaunchScreen": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "TeamNameSuggestionInputTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "GoogleEmailTapped": {
+            "enabled": false,
+            "integrations": []
+          },
+          "BayonetSubscriptionAttempt": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CelebratingWinsClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "HOFContestSelected": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "AwardFullPreviewLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CreateGroupConfirmClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ProfilePictureUpdateClient": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ImageExpandedUpload": {
+            "enabled": false,
+            "integrations": []
+          },
+          "TourSelected": {
+            "enabled": false,
+            "integrations": []
+          },
+          "HOFMatchSelected": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ClaimRewardsNowClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PanInReviewScreenSelection": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RN_UI_FMP_Network_In_Match": {
+            "enabled": false,
+            "integrations": []
+          },
+          "videoFullscreen": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "UI_FMP_Recent_transactions": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UploadBankImageTapped": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CreateTeamJoinContestsTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "SpinPaceClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "WithdrawInitiatedFailed": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "RequestListLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RN_UI_FMP_More": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MyProfileLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ResponsiblePlayAckGiven": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "BayonetSubscriptionError": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ConfirmEmailTapped": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MatchCenter_LMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RN_UI_FMP_MyTeams_PostRoundLock": {
+            "enabled": false,
+            "integrations": []
+          },
+          "StreaksClaimCardClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "OnExperimentRun": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MatchCenterLoaded": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "UnlinkBankFailure": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CommonMatches_FMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ContestQueueThrown": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ewiujeuwgk": {
+            "enabled": false,
+            "integrations": []
+          },
+          "FeedPostReportConfirmation": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "SaveNameError": {
+            "enabled": false,
+            "integrations": []
+          },
+          "NetworkResponseTime": {
+            "enabled": false,
+            "integrations": []
+          },
+          "TaggedViewRendered": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RemoteConfigError": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "MessageRequestSent": {
+            "enabled": false,
+            "integrations": []
+          },
+          "SendbirdConnected": {
+            "enabled": false,
+            "integrations": []
+          },
+          "HOFLoaded": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "WalletOTPRequested": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "LeaderboardFilterClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "GroupExitBlockConfirmed": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "InvalidUrl": {
+            "enabled": false,
+            "integrations": []
+          },
+          "SideDrawerSelected": {
+            "enabled": false,
+            "integrations": []
+          },
+          "GuruTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "UI_LMP_Contests": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "MyTransactionDetail_LMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "OnboardingFPSPageLoaded": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "CompareTeamToggleClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UI_LMP_WeeklyLeaderBoard": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "NotificationCenterLoaded": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "BankChangeClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "JoinContestConfirmTappedmk2s9q0bnk": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RN_trace_LMP_match_center": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MyTransactionsLanding_FMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "DREducationSnackbar": {
+            "enabled": false,
+            "integrations": []
+          },
+          "SkillScore_LMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MobileVerifiedClient": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "methkd_debug_event": {
+            "enabled": false,
+            "integrations": []
+          },
+          "FindContactsPhonebookClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "InfoChangeBlockedPopUp": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ContactsInvitedClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ReportProfileInitiated": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "LoyaltyNextLevelCardTapped": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ContestJoinFailed": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "WalletPageLoadError": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CreateTeamTeamSavedTapped": {
+            "enabled": false,
+            "integrations": []
+          },
+          "FilterDatePopUpClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CaptainSelected": {
+            "enabled": false,
+            "integrations": []
+          },
+          "SideNavDataLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ChatOtherUserMessageViewed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "StatsOnCreateTeamClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "AccountSuspendedSubmitRequest": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "MediaAutoPlayTriggered": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RemoveGroupAdmin": {
+            "enabled": false,
+            "integrations": []
+          },
+          "SearchCancelled": {
+            "enabled": false,
+            "integrations": []
+          },
+          "EmailVerificationClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "SportSelected": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ContestPageInitIated": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PaymentOptionsPageEditAmountTapped": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MyContactsSearchCancelled": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "FCOfferInvalidCancel": {
+            "enabled": false,
+            "integrations": []
+          },
+          "EventRankChangingTeamsClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PlayerStatsOpen": {
+            "enabled": false,
+            "integrations": []
+          },
+          "trace_FMP_league": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "VideoPlayerVolumeButton": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ChatTabFabClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "NetworkResponseTimesl9wvrtjs1": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ContestInvitesRefreshedClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ChatImageModerated": {
+            "enabled": false,
+            "integrations": []
+          },
+          "EventRankOverPicker": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RoundDetailPageLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "FullScorecardInteracted": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "HOFFilterReset": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "PrivateContestCreationPageLoaded": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "StreaksKnowMoreClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "SwitchTeamIconTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "NetworkBottomSheetInteracted": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MyTransactionDetail_FMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "GroupImageOpened": {
+            "enabled": false,
+            "integrations": []
+          },
+          "DmProfileInteracted": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UI_FMP_More": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ChatbotOpened": {
+            "enabled": false,
+            "integrations": []
+          },
+          "QuickSortApplied": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ContestInviteBottomSheetLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "AccountStatmentFetchCompleted": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "CommonMatchesScrolled": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MatchesShownVertical": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RN_MatchCenter_LMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "StarPlayerSelected": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "H2HBottomSheetLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "offerListLoaded": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "VerifyMobilePopUpShown": {
+            "enabled": false,
+            "integrations": []
+          },
+          "More_FMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "GroupParticipantLeft": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "FullScorecardViewed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "QuickCheckPageLoaded": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ComponentLoaded_MyMatches": {
+            "enabled": false,
+            "integrations": []
+          },
+          "HOFWinnerCardClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "AccountSuspendedLearnMore": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "BankSearchInitiated": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "defaultAmountBoxClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "s4cecbj452": {
+            "enabled": false,
+            "integrations": []
+          },
+          "LoyaltyProgressScrollTillEnd": {
+            "enabled": false,
+            "integrations": []
+          },
+          "QuickJoinPopUpAccept": {
+            "enabled": false,
+            "integrations": []
+          },
+          "LoyaltyHome_LMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ChatBotOpened": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UI_FMP_PaymentOptions": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ManagePaymentsInteracted": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "CardDeleteConfirmed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "EmailEnterOTPBottomSheetSelection": {
+            "enabled": false,
+            "integrations": []
+          },
+          "HOFShareInitiated": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ContactUsTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "CommentDeleteConfirmation": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "MyNetworkTabClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "Gamification_LMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "StopAutoContestTapped": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ViewAllContests": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "Refer-a-friendClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "FollowingListPageLoaded": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "CreateTeamSorting": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "PaymentOfferCardClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "WeeklyLeaderBoardWeekSelectedOn": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ContestInvitesSendingFailed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "EventRankBackButtonClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CommentDeleteInitiated": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "MyRewardDetailInteracted": {
+            "enabled": false,
+            "integrations": []
+          },
+          "FantasyCommentary_FMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CardSaveIntitated": {
+            "enabled": false,
+            "integrations": []
+          },
+          "AddParticipantContinueClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UserStatsLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "QuickJoinPopUpCheckBoxInteracted": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CardDeletedSuccessful": {
+            "enabled": false,
+            "integrations": []
+          },
+          "TeamStatsViewed": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "UI_FMP_Contests": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "OnboardingOverlaySkip": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "PanVerificationBannerClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "StrategicTimeoutSliderInteracted": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MyProfileInteracted": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "VerifyTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "PrivateContestWinningDistributionDropdownTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "GroupSettingsClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "AppBackgroundCompleted": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ContestShareFailed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "AsyncStorageGqlIOPromiseReject": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ContestInviteWhatsAppShareButtonTapped": {
+            "enabled": false,
+            "integrations": []
+          },
+          "FriendsListPageLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MyMatchesViewAllClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "HOFDreamTeamClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "TooltipClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "Profile_FMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ftp15rhkhm": {
+            "enabled": false,
+            "integrations": []
+          },
+          "FeedCampaignButtonClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "GLRefreshClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "Tds_FMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "videoEnd": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ClaimTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "CreateTeamNextTapped": {
+            "enabled": false,
+            "integrations": []
+          },
+          "DeviceInfoPermissionAction": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "FriendReferred": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "VideoPlayerGoLiveButton": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "NetworkBlueBandClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RN_UI_FMP_Contests": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ScreenshotShareTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "phonePeWalletOptionVisibility": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "GroupListImageDismissed": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "GroupAdminChanged": {
+            "enabled": false,
+            "integrations": []
+          },
+          "StreaksClaimedCBShareInteraction": {
+            "enabled": false,
+            "integrations": []
+          },
+          "AddEmailError": {
+            "enabled": false,
+            "integrations": []
+          },
+          "EventRankGraphPointerClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UI_FMP_MyReferrals": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "CampaignLanding": {
+            "enabled": false,
+            "integrations": []
+          },
+          "DRSOnExperimentRun": {
+            "enabled": false,
+            "integrations": []
+          },
+          "HaveACouponCodeClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MessageReportInitiated": {
+            "enabled": false,
+            "integrations": []
+          },
+          "FeedPostDeleteConfirmation": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "MyBalance_FMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "HOFTeamPreviewClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RN_UI_FMP_PaymentOptions": {
+            "enabled": false,
+            "integrations": []
+          },
+          "EventRankIconClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "LiveStreamingClosed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ContestShareOnFeedInitiated": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ContestInvitesClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ChatImageUploadFailed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UI_FMP_Withdrawal": {
+            "enabled": false,
+            "integrations": []
+          },
+          "AccountSuspendedBackButton": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "JoinContestConfirmTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ComponentLoaded_TPP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CouponCodeBottomSheetLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "EmailVerificationInitiatedSocial": {
+            "enabled": false,
+            "integrations": []
+          },
+          "TeamPreviewPostClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CardDeleted": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "TransactionDetailsInteracted": {
+            "enabled": false,
+            "integrations": []
+          },
+          "SCORE_CARD_VIEWED": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ReactionListDetailsSelected": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RequestCenterOpened": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ExitGroupPopupCanceled": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "PostCreateTeamPageLoaded": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "SwitchTeamSuccessful": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ViewedWinningBreakup": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "StrategicTimeoutPracticeContestsClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "videoForward": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "PhonebookSyncComplete": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "PrivacySettingsUpdated": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "MessageReported": {
+            "enabled": false,
+            "integrations": []
+          },
+          "StreaksShareClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "GuruScrollInitiated": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ContestInviteContestCodeCopied": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ChatClosed": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "QuickCheckGoAheadTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "GuruScrollCompleted": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MessageReplyInitiated": {
+            "enabled": false,
+            "integrations": []
+          },
+          "WithdrawalBottomSheetShown": {
+            "enabled": false,
+            "integrations": []
+          },
+          "SuspendAccountConfirmTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "BlockProfileSelected": {
+            "enabled": false,
+            "integrations": []
+          },
+          "VerificationDocUploadSuccess": {
+            "enabled": false,
+            "integrations": []
+          },
+          "StreaksKnowMoreClickedTest": {
+            "enabled": false,
+            "integrations": []
+          },
+          "OTPError": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ContestInvitesSent": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ComponentLoaded_BlockedList": {
+            "enabled": false,
+            "integrations": []
+          },
+          "EmailVerificationBottomSheetLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RN_UI_FMP_AddCash": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PrivacySettingsClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "LeaderboardPointsRefreshNotified": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ViewAllContestInvitesClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "BankChangeConfimClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "RN_UI_FMP_MyProfile": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MyTeamsPostRl_FMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "EventRankEmptyState": {
+            "enabled": false,
+            "integrations": []
+          },
+          "WalletOTPSent": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "MyTransactionsLanding_LMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PlayerCategorySwitched": {
+            "enabled": false,
+            "integrations": []
+          },
+          "WithdrawalMessage": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "SuspendAccountSuccess": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ContestShown": {
+            "enabled": false,
+            "integrations": []
+          },
+          "xm8jvttenm": {
+            "enabled": false,
+            "integrations": []
+          },
+          "FollowButtonClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "HelpAndSupportHomePageSelection": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UI_FMP_Followers": {
+            "enabled": false,
+            "integrations": []
+          },
+          "AppBacKgroundInitiated": {
+            "enabled": false,
+            "integrations": []
+          },
+          "SkillScore_FMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ParentMessageClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "VideoPlayerSettingsButton": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RewardItemClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UI_FMP_MyInfoAndSettings": {
+            "enabled": false,
+            "integrations": []
+          },
+          "LeaderboardTeamClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ProfilePictureClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "EditMobileNumber": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UpdateBottomSheetLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ResponsiblePlayAckSuccess": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ContestInviteMoreOptionsButtonTapped": {
+            "enabled": false,
+            "integrations": []
+          },
+          "languageSelectionBottomSheetLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "FilterApplied": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RegisterTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "UnlinkUPIFailure": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ContertShown": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PlayerCatmgorySwitched": {
+            "enabled": false,
+            "integrations": []
+          },
+          "LoyaltyProgressScrollInitiated": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MyRewardsOffersTabSelected": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ContestHomePreRl_LMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "GLRulesIconClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "SocialLoginError": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "DRSOnEnrolledInExperiment": {
+            "enabled": false,
+            "integrations": []
+          },
+          "EmailAddedSuccessClient": {
+            "enabled": false,
+            "integrations": []
+          },
+          "LoyaltyLevelDrillDown": {
+            "enabled": false,
+            "integrations": []
+          },
+          "VerificationSubmitDetailsSuccess": {
+            "enabled": false,
+            "integrations": []
+          },
+          "videoMuteOptionClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ComponentLoaded_AddCash": {
+            "enabled": false,
+            "integrations": []
+          },
+          "GroupCreationInitiated": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "FCOfferValidClickOB": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MYTeamViewed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "TeamCompareClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UI_FMP_Notifications": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "RematchCtaClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ContestInviteSharePostClient": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "VideoPlayerRefreshClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "StreaksPageLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "TDSBreakupOpened": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "UI_FMP_MyMatches": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "CreateTeamNextTapped8fxw0wsoby": {
+            "enabled": false,
+            "integrations": []
+          },
+          "mobile_only_debug_state": {
+            "enabled": false,
+            "integrations": []
+          },
+          "NotificationCenter_FMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "SuspendAccountOptionTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "RewardDetailInteracted": {
+            "enabled": false,
+            "integrations": []
+          },
+          "BannerLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "VSButtonTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "PanVerificationBottomSheetShown": {
+            "enabled": false,
+            "integrations": []
+          },
+          "InfoPageOpened": {
+            "enabled": false,
+            "integrations": []
+          },
+          "languageSelectionInteraction": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CancelledContestsStripClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ContestShown_Horizontal": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "HOFViewAllClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ChatPushNotificationOptinClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MyRewardsTabClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PostRLPlayerInfo_LMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MyNetworkTabScrolled": {
+            "enabled": false,
+            "integrations": []
+          },
+          "BankChangeCancelClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "UserLoggedInClient": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ProfilePictureUpdate": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "FloatingPlayerInfo": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CashAddPageLoaded": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "OfferSheetLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "OnboardingFPSBackButtonTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "OTPScreenLoaded": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "SavedCardPayattempt": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "GenericTourURLRedirection": {
+            "enabled": false,
+            "integrations": []
+          },
+          "AppInstallSource": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "AwardsInfoClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ContestPageInitiAted": {
+            "enabled": false,
+            "integrations": []
+          },
+          "OtherProfileScrollInitiated": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "NotificationCenterClosed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "WalletLinkedSuccessfully": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ContestShareToGroupClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "MeQueryCalled": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CommonMatchesViewAllClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ProPlayerSelected": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "MediaLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "GroupParticipantRemoved": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ContestChatFABLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CompetitorProfileViewed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CouponIconClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "GroupMuted": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "CaptainSelectedcadgqox9i5": {
+            "enabled": false,
+            "integrations": []
+          },
+          "NotificationCenterFilterInteracted": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "EventRankExplained": {
+            "enabled": false,
+            "integrations": []
+          },
+          "OtherProfileLoaded": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "EventRankOverRangeEditorClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UI_FMP_PlayerStats": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "NotificationCenterOpened": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "RefreshIconClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "GLMatchClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "LaunchScreenLoaded": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "AccountStatmentFetchInitiated": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "UI_FMP_MyContests_PostRoundLock": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "NotificationBellIconClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ChatTabSelected": {
+            "enabled": false,
+            "integrations": []
+          },
+          "trace_FMP_match_center": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "RN_UI_FMP_MyTeams_PreRoundLock": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RN_UI_FMP_MyContests_PostRoundLock": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RecommendedProfileViewAllClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "WalletLinkAccountInitiated": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "PaymentOptionsPageAmountEdited": {
+            "enabled": false,
+            "integrations": []
+          },
+          "VerifyUPIBottomSheetSuggestionPillTapped": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MyContactsListRecordClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ChatOpenFailed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PanVerificationBottomSheetClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "NotificationCenter_LMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "AddCardPayattempt": {
+            "enabled": false,
+            "integrations": []
+          },
+          "EmailVerifiedClient": {
+            "enabled": false,
+            "integrations": []
+          },
+          "VerifyMobileFlowErrorMessage": {
+            "enabled": false,
+            "integrations": []
+          },
+          "DRInfoPageLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "OTPEntered": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "PaymentOptionVisibility": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RecentSearchesClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "DRSOnEnrollddInExperiment": {
+            "enabled": false,
+            "integrations": []
+          },
+          "SearchResultScrolled": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "TeamUnPreviewViewed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PostRLPlayerInfo_FMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "BayonetUnsubscribe": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ReportCommentInitiated": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "NetworkResponseTimepboao1sec9": {
+            "enabled": false,
+            "integrations": []
+          },
+          "GLCarouselPageViewed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "Withdrawal_FMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "FollowButtonClient": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "LoyaltyRewardClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UI_FMP_MyAccount": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "MyTxnError": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PlayerIconClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "DownloadInvoiceTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "OTPSentClient": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "SkillScoreDetailPageLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "cashAddPageLoaded": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "FeedScrolled": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "UserInfoChangeClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RewardShopScrollTillEnd": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CaptailSelected": {
+            "enabled": false,
+            "integrations": []
+          },
+          "AppOpenAttribution": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "AwardDetails_FMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "GroupLinkShareInitiated": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "SideDrawerSelection": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "UI_FMP_My_New_Profile": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CelebrationPageEventClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PromoCodeApplyAction": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "UI_FMP_Friends": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RN_UI_FMP_MyContests_PreRoundLock": {
+            "enabled": false,
+            "integrations": []
+          },
+          "AutoContestDetailsExplore": {
+            "enabled": false,
+            "integrations": []
+          },
+          "SaveNameClient": {
+            "enabled": false,
+            "integrations": []
+          },
+          "TeamPreviewShareClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ProfilePictureRemoveClient": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ContestShareToGroupAbandoned": {
+            "enabled": false,
+            "integrations": []
+          },
+          "WatchLiveClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "NotificationClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ShareAppPermission": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "UI_FMP_Verify_home": {
+            "enabled": false,
+            "integrations": []
+          },
+          "FcLiveStreamClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ConfirmationPopUp": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PaymentOffersDetailPageInteracted": {
+            "enabled": false,
+            "integrations": []
+          },
+          "AddCardSuccessful": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "MyTeamsPostRl_LMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "EmailVerificationBottomSheetSelection": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PromoCodeAvailInitiated": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "AutoContestStopped": {
+            "enabled": false,
+            "integrations": []
+          },
+          "BranchAttribution": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "languageConfirmBottomSheetInteraction": {
+            "enabled": false,
+            "integrations": []
+          },
+          "WalletUnlinkConfirmed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "SharePostCancelled": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "SpecialPlayerSelector_FMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "NetworkBandClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "AppBackgroundInitiated": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "RN_MatchCenter_FMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ExitGroupPopUpClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "Leaderboard_LMP_PostRoundLock": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CreateTeamErrorShown": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "WithdrawalPageLoadFailed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "TimedsdfOuting": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PlayerStatsTeamSelected": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ReportReasonClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "uyqit8wvig": {
+            "enabled": false,
+            "integrations": []
+          },
+          "LoyaltyHomeLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PipCloseButtonClick": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "Leaderboard_FMP_PostRoundLock": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RN_UI_FMP_Verification": {
+            "enabled": false,
+            "integrations": []
+          },
+          "TeamPreviewViewed3eewt599q0": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UI_FMP_WeeklyLeaderBoard": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "PasswordSubmitTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "BayonetAutoCloseReaonnect": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RewardsShopLoaded": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "UnblockConfirmed": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "QuickJoinTeamSelected": {
+            "enabled": false,
+            "integrations": []
+          },
+          "FabIconClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "VideoPlayerMaximiseButton": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "PanSubmitForVerificationTapped": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UnlinkBankClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "AutoContestEdited": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PanRejectedScreenSelection": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ztsodxhew8": {
+            "enabled": false,
+            "integrations": []
+          },
+          "EmailVerificationBottomSheetErrorMessageShown": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PaymentSectionClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "UnfollowButtonClient": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "PrivacyConfirmationPopup": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RN_UI_FMP_AllContests": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ReportCategorySelected": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "pbt9w9575x": {
+            "enabled": false,
+            "integrations": []
+          },
+          "r9rdlsbnxr": {
+            "enabled": false,
+            "integrations": []
+          },
+          "TeamCreated": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ContestsJumpToSection": {
+            "enabled": false,
+            "integrations": []
+          },
+          "WalletAccountUnlinked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "AddContactstoGroupError": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PlayerInfo": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MessageRequestError": {
+            "enabled": false,
+            "integrations": []
+          },
+          "TeamSavedClient": {
+            "enabled": false,
+            "integrations": []
+          },
+          "LoginNextButtonTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "fq873vbtcj": {
+            "enabled": false,
+            "integrations": []
+          },
+          "GroupListLoadFailed": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "StrategicTimeoutNextClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "LoginError": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ComponentLoaded_PrivacySettings": {
+            "enabled": false,
+            "integrations": []
+          },
+          "FilterDatePopUpShown": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CommentExpanded": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ViceCaptainSelected": {
+            "enabled": false,
+            "integrations": []
+          },
+          "HOFFilterApplied": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "EventRankPlayerPointsBreakup": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RN_trace_FMP_match_center": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CardSaved": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ViewAllContestInvitesScrolled": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UserCancelledPayment": {
+            "enabled": false,
+            "integrations": []
+          },
+          "AddCardTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "AddCashAmountCleared": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "DRSOnEnrolledInExperIment": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UserRegisteredClient": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "trace_FMP_my_contest": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "CommentaryScrolled": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "TransactionDetailsPageLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MyContestViewed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "Withdrawal_LMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ClearTeamApplied": {
+            "enabled": false,
+            "integrations": []
+          },
+          "SavedCardVisibility": {
+            "enabled": false,
+            "integrations": []
+          },
+          "GuruMoreTapped": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UnlinkUPIShown": {
+            "enabled": false,
+            "integrations": []
+          },
+          "NetworkResponsetime": {
+            "enabled": false,
+            "integrations": []
+          },
+          "EmailSubmitted": {
+            "enabled": false,
+            "integrations": []
+          },
+          "WatchLiveSubscriptionPopup": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PollAnswered": {
+            "enabled": false,
+            "integrations": []
+          },
+          "VerificationErrorShown": {
+            "enabled": false,
+            "integrations": []
+          },
+          "TeamPreviewPlayerIconTapped": {
+            "enabled": false,
+            "integrations": []
+          },
+          "LeaderboardScrolled": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MessageSendingFailed": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "NewScorecardClosed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PollRefreshFailed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "GLOpened": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PlayerStats_FMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CareerStatsInteracted": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "CommentListLoaded": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "AddEmailButtonTapped": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UnauthAppPopupShown": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MyMatchesTabClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "FullScorecardVIewed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UseOtherAccountTapped": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UI_FMP_HallOfFame": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ChallengeCtaClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "DiscoverabilityOffConfirmation": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "RewardShopScrollInitiated": {
+            "enabled": false,
+            "integrations": []
+          },
+          "GroupJoinPreviewLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "GroupParticipantLeaveInitiated": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CommentAdded": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "RegistrationError": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "StrategicTimeoutStartClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RegistrationPageButtonTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "FeedPostInteracted": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "UnlinkBankSuccess": {
+            "enabled": false,
+            "integrations": []
+          },
+          "GroupMuteFailed": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "playerSelected": {
+            "enabled": false,
+            "integrations": []
+          },
+          "EmailVerificationInitiated": {
+            "enabled": false,
+            "integrations": []
+          },
+          "QuickJoinExitTapped": {
+            "enabled": false,
+            "integrations": []
+          },
+          "StrategicTimeoutSuccess": {
+            "enabled": false,
+            "integrations": []
+          },
+          "FriendsLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UI_LMP_CREATE_TEAM": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RafDeviceRegisteredDisplayed": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "WLPassBoughtClient": {
+            "enabled": false,
+            "integrations": []
+          },
+          "WalletUnlinkInititated": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "SearchResultClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "OfferClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "VideoPlayerStreamingQuality": {
+            "enabled": false,
+            "integrations": []
+          },
+          "HelpAndSupportQuestionBottomSheetSelection": {
+            "enabled": false,
+            "integrations": []
+          },
+          "FindContactsPhonebookConfirmation": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CommentaryViewed": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ReportProfileSubmitted": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "SearchTagSelected": {
+            "enabled": false,
+            "integrations": []
+          },
+          "TeamCompareProfileClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "WeeklyLeaderBoardTourSelected": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "GroupCreated": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "FollowingButtonClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "UnannouncedBottomSheetShown": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ContestJoinedPopUpShown": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UI_FMP_Following": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RN_UI_FMP_MyTransactions": {
+            "enabled": false,
+            "integrations": []
+          },
+          "FCOfferValidCancel": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RequestIndicatorIconClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "FilterByTeamApplied": {
+            "enabled": false,
+            "integrations": []
+          },
+          "EventRank_LMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PostCreationClient": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "LeagueCardClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "FilterTapped": {
+            "enabled": false,
+            "integrations": []
+          },
+          "WinningDistributionToggleSwitch": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UI_FMP_MyOffersCoupons": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "Contest_LMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "AutoContestCreated": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PhonebookSyncFailed": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "FollowersListPageLoaded": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "UI_FMP_Feed": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "CardDeleteInitiated": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "CancelledContestsBackButtonTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "CouponCodeApplied": {
+            "enabled": false,
+            "integrations": []
+          },
+          "StrategicTimeoutBackClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "WalletRechargeFailed": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "VerifyUPIBottomSheetTapped": {
+            "enabled": false,
+            "integrations": []
+          },
+          "StreakClaimedBottomSheetContinueClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "StartDMSelected": {
+            "enabled": false,
+            "integrations": []
+          },
+          "EmailOTPSubmitted": {
+            "enabled": false,
+            "integrations": []
+          },
+          "OverRangePicker_FMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PaymentOptionsPageLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "GroupLinkShareClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "BayonetConnectionSuccess": {
+            "enabled": false,
+            "integrations": []
+          },
+          "AllowPhonebookAccess": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "WithdrawalSuccessBottomsheetClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UI_FMP_MyNetworkTab": {
+            "enabled": false,
+            "integrations": []
+          },
+          "EmailOTPVerificationErrorShown": {
+            "enabled": false,
+            "integrations": []
+          },
+          "NetworkPostRLBandClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "VerifyMobileError": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PrivacySettingsInteracted": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ScreenshotTaken": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "RequestCount": {
+            "enabled": false,
+            "integrations": []
+          },
+          "VideoStreamingEnded": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "MobileNumberSubmitted": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "CreateaContestButtonTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "EventRankPlayerStatSort": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MyProfileScrollinitiated": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UploadPanImageTapped": {
+            "enabled": false,
+            "integrations": []
+          },
+          "VideoPlayerSeekBar": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "StreakClaimedBottomSheetLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "WalletClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "RN_UI_FMP_MyMatches": {
+            "enabled": false,
+            "integrations": []
+          },
+          "WhatsappStayUpdatedClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "CashInfoIconClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "StrategicTimeoutConfirmPopup": {
+            "enabled": false,
+            "integrations": []
+          },
+          "BottomNavSelection": {
+            "enabled": false,
+            "integrations": []
+          },
+          "BayonEtBaAkgroundDisconnect": {
+            "enabled": false,
+            "integrations": []
+          },
+          "VerificationSubmitDetailsClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ContestFilterTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "RN_UI_FMP_Notifications": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ClonedMyTransactionsPageLoad": {
+            "enabled": false,
+            "integrations": []
+          },
+          "trace_LMP_matCh_center": {
+            "enabled": false,
+            "integrations": []
+          },
+          "LoyaltyHomeInteraction": {
+            "enabled": false,
+            "integrations": []
+          },
+          "AwardFullPreviewInteracted": {
+            "enabled": false,
+            "integrations": []
+          },
+          "BayonetBackgroundDisconnect": {
+            "enabled": false,
+            "integrations": []
+          },
+          "DRHistoryStickyBarLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "cashAddInitiated": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "RecommendedProfilesViewed": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "WatchLiveSubscriptionAvailed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MyTransactionsPageBackClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "GLMemberClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ContestJoinedClient": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "languageSelectionBottomSheetInteraction": {
+            "enabled": false,
+            "integrations": []
+          },
+          "SearchInitiated": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "EventRankViewed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UnlinkUPIConfirmed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RewardShopTabClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UI_FMP_ThirdPersonProfile": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ResetPasswordScreenInteraction": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ReferralFAQviewed": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "OnUnenrolledInExperiment": {
+            "enabled": false,
+            "integrations": []
+          },
+          "LeagueJoinClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "Logout": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PaymentDebugEvent": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MobileOTPRequested": {
+            "enabled": false,
+            "integrations": []
+          },
+          "Contest_FMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "EventRankZoomInOut": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RecommendedProfilesClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CreateTeamBackButtonTapped": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ContestInvitationButtonClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "TDSBreakupInteracted": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "LeaderboardFailure": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "UI_FMP_AddCash": {
+            "enabled": false,
+            "integrations": []
+          },
+          "AccountSuspendedScreenSelection": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CreateAutoContestError": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RegistrationAbandoned": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "RewardDetailPageLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "LogOut": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "UI_FMP_Followers_Following": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ContestFilterApplied": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "AccountSuspendedScreenLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "trace_LMP_match_center": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "MessageLongPress": {
+            "enabled": false,
+            "integrations": []
+          },
+          "WalletUnlinkedError": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "MessageCtaClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "QuickJoinSwitchTeamInitiated": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PaymentOffersViewAllTapped": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MyTransactionsPageLoad": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UI_FMP_LeaderBoard_PostRoundLock": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "MediaTypeSelected": {
+            "enabled": false,
+            "integrations": []
+          },
+          "LeaderboardTourSelected": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "InactiveRewardsTapped": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MyAccount_FMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "SingleTeamUnselect": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "RoundDetailPageInteracted": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RestrictUnfollowConfirmation": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "TransTypeTabClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ChatContestInvitesClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "GroupAdminFlowError": {
+            "enabled": false,
+            "integrations": []
+          },
+          "VideoBufferingComplete": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "MobileVerifyNowClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ChatThumbnailClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "WithdrawalBottomSheetClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "HelpAndSupportHomePageLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "InadequateMemoryError": {
+            "enabled": false,
+            "integrations": []
+          },
+          "WithdrawalPageLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PaymentOffersDetailPageLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ResyncPhonebookClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PaymentErrorShown": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "VerifyUPIBottomSheetShown": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ReactionListPageLoaded": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "LiveStreamBannerClosed": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "RN_UI_FMP_Followers": {
+            "enabled": false,
+            "integrations": []
+          },
+          "SportsNavigatorClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "BlockUsersListOpened": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ViewContestSectionDetails": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "MediaSelectorOpened": {
+            "enabled": false,
+            "integrations": []
+          },
+          "SavedCardCVVPay": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UsableCashBonusAmount": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "MessageCopied": {
+            "enabled": false,
+            "integrations": []
+          },
+          "AddCommentInitiated": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "EmailEnterOTPBottomSheetLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PaymentAbandoned": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "VideoStreamingError": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "UI_FMP_MyContests_PreRoundLock": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "SearchSingleChar": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MultiTeamAllSelection": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "QuickCheckAbandoned": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "OpponentSelectorBottomSheet_FMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "TeamEditInitiated": {
+            "enabled": false,
+            "integrations": []
+          },
+          "AddToCalendar": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CommunityGuidelinesOpened": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ScreenLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "FavouriteContestStarClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ContestInviteBottomSheetScrolled": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ChatOpened": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "WalletOTPEntered": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "MakeGroupAdmin": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PlayerStats_LMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "FeedBannerClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "GroupOpenFailed": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ChatImageUploaded": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "AwardDetails_LMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MyProfileScrollInitiated": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CompareTeamRefreshed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "GroupEditInitiated": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ScreenLoadeD": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RN_UI_FMP_Friends": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ReactionSelectedClient": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "FeedPostEllipsisSelected": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "OtherProfileInteracted": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "TeamNameSuggestionBoxTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "AddWithdrawalMethod": {
+            "enabled": false,
+            "integrations": []
+          },
+          "languageSelectionLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "otherprofileloaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MyContestsTabSelection": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UpdateButtonTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ResendOTPTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "TeamCloneSuccessful": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UI_FMP_MyTeams_PreRoundLock": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "mobile_only_debug_event": {
+            "enabled": false,
+            "integrations": []
+          },
+          "BankIFSCAPISuccess": {
+            "enabled": false,
+            "integrations": []
+          },
+          "EnterNamePageLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "AppInstalled": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "AwardShareScreenInteracted": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MyRewardSelected": {
+            "enabled": false,
+            "integrations": []
+          },
+          "LeaderboardViewed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "WithdrawalSuccessBottomsheetShown": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MyHistoryScrollInitiated": {
+            "enabled": false,
+            "integrations": []
+          },
+          "EventRankAddRemoveOpponentClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "GroupUnmuted": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MiniProfileInteracted": {
+            "enabled": false,
+            "integrations": []
+          },
+          "TandCTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "RafRegUserInfoValidate": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "CreateTeam_FMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "FPSCreateTeamTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ChatCarouselScrolled": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PrivateContestDiscarded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CreateTeamFantasyPointsSystemSelected": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "MyTeamViewed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "StreaksJoinButtonClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MatchCenter_FMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "SetReminderClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "MyAccountInteracted": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ExpiredRewards_FMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "VerifyDetailsPageLoaded": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "RafInvitedbyaFriendClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ReportProfileReasonClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ContactUsInfoChangePopUp": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ChatImageUploadInitiated": {
+            "enabled": false,
+            "integrations": []
+          },
+          "dmProfileInteracted": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ShareAppPermissionPopup": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "WinningDistributionSelected": {
+            "enabled": false,
+            "integrations": []
+          },
+          "TransactionClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "OfferPanelInteracted": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ProfilePictureUploadError": {
+            "enabled": false,
+            "integrations": []
+          },
+          "Not-verifiedLinkClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "TransactionsShown": {
+            "enabled": false,
+            "integrations": []
+          },
+          "bk0o7aglk2": {
+            "enabled": false,
+            "integrations": []
+          },
+          "EarnedAwardsLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PaymentOfferDetailsBottomSheetClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "AppsflyerPostbackCall": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "WalletRechargeTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "LocationPermissionAction": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "MessageSent": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "PDFViewLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "FantasyPointSystemOpened": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "EarnDRSnackbarLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MobileVerificationConfirmOTP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "OpponentSelectorBottomSheet_LMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "DRSOnExperimentsFetched": {
+            "enabled": false,
+            "integrations": []
+          },
+          "EventRank_FMP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ChatListLoaded": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "MiniProfileLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CommonMatchesScrollInitiated": {
+            "enabled": false,
+            "integrations": []
+          },
+          "NotificationCenterFilterApplied": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "RN_UI_FMP_Withdrawal": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UI_FMP_LeaderBOard_PostRoundLoak": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "AddCardCVVpay": {
+            "enabled": false,
+            "integrations": []
+          },
+          "GroupLeaderboardButtonClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "GroupJoinPreviewSelected": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "AwardLockIconTapped": {
+            "enabled": false,
+            "integrations": []
+          },
+          "LeaderboardVieWed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "languageConfirmBottomSheetLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "WithdrawalSuccessClient": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UI_FMP_MyProfile": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "OpenInFancodeClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "AppsFlyerAttributionDataReceived": {
+            "enabled": false,
+            "integrations": []
+          },
+          "BayonetDisconnected": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PhonebookSynctoGroupError": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ResponsiblePlayAckShown": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "OtherProfileLoadedOn": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RoundSelected": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UI_FMP_LeaderBoard_PreRoundLock": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ClientreceivedAPIError": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "GroupParticipantRemoveInitiated": {
+            "enabled": false,
+            "integrations": []
+          },
+          "StatsOnCreateTeamApplied": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MessageListLoadFailed": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "VerifyPageAPISuccess": {
+            "enabled": false,
+            "integrations": []
+          },
+          "GroupMemberListLoadFailed": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "JumpToBottomClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "CarouselLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "unfollowbuttonclicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "AppBacagroundInitiated": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PDFDownloadTapped": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ProfileEllipsisSelected": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "LeaderboardBannerClose": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ViewAllContestInvitesLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "offerPanelInteracted": {
+            "enabled": false,
+            "integrations": []
+          },
+          "VideoStreamingStarted": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "ComponentLoaded_FPP": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PaymentOptionSelected": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "TransactionSuccessfulPopUpShown": {
+            "enabled": false,
+            "integrations": []
+          },
+          "AutoContestSizeToggled": {
+            "enabled": false,
+            "integrations": []
+          },
+          "mm8oiu521u": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MobileVerifySuccess": {
+            "enabled": false,
+            "integrations": []
+          },
+          "Login2FAError": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "CompareTeamClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MyHistoryClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UnfollowButtonClicked": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "WalletLinkedError": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "method_debug_event": {
+            "enabled": false,
+            "integrations": []
+          },
+          "QuickCheckError": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "GroupAdminMessageToggle": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "PromotionCouponApplied": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "GetRewardClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "RN_UI_FMP_MyAccount": {
+            "enabled": false,
+            "integrations": []
+          },
+          "SendbirdDisconnected": {
+            "enabled": false,
+            "integrations": []
+          },
+          "TeamPreviewViewed": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CreateContestTypeSelected": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CreateTeamLoaded": {
+            "enabled": false,
+            "integrations": []
+          },
+          "ContestPageInitiated": {
+            "enabled": false,
+            "integrations": []
+          },
+          "FloatingPlayerInfoInteracted": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "MyRewardsScrollInitiated": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CashAddInitiated": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "WalletOTPResend": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "MyHistoryScrollTillEnd": {
+            "enabled": false,
+            "integrations": []
+          },
+          "Requestindicatoriconclicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "LeaderboardInteracted": {
+            "enabled": false,
+            "integrations": []
+          },
+          "PrivateContestCreationNextButtonTapped": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "CommentaryInteracted": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "UsersucceedPayment": {
+            "enabled": false,
+            "integrations": []
+          },
+          "UnannouncedBottomSheetClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "CreateTeamRendered": {
+            "enabled": false,
+            "integrations": []
+          },
+          "Leaderboard_LMP_PreRoundLock": {
+            "enabled": false,
+            "integrations": []
+          },
+          "videoBackward": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "FilterByTeamClicked": {
+            "enabled": false,
+            "integrations": []
+          },
+          "TeamAbandoned": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "PDFViewInteracted": {
+            "enabled": false,
+            "integrations": []
+          },
+          "TestEventEnterContestCode": {
+            "enabled": false,
+            "integrations": []
+          },
+          "TeamSaveFailed": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "videoPlaybackError": {
+            "enabled": true,
+            "integrations": [
+              {
+                "name": "apptimize",
+                "enable": false,
+                "properties": []
+              }
+            ]
+          },
+          "PanVerificationBannerShown": {
+            "enabled": false,
+            "integrations": []
+          },
+          "MyBalanceHelpIconTapped": {
+            "enabled": false,
+            "integrations": []
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="res_0x7f100000">
+        <item quantity="one">Recent Match</item>
+        <item quantity="other">Recent Matches</item>
+    </plurals>
+    <plurals name="res_0x7f100001">
+        <item quantity="one">%s Contest Invite</item>
+        <item quantity="other">%s Contest Invites</item>
+    </plurals>
+    <plurals name="res_0x7f100002">
+        <item quantity="one">%s Match</item>
+        <item quantity="other">%s Matches</item>
+    </plurals>
+    <plurals name="res_0x7f100005">
+        <item quantity="one">%1$s Filter applied</item>
+        <item quantity="other">%1$s Filters applied</item>
+    </plurals>
+    <plurals name="res_0x7f100006">
+        <item quantity="one">%s Invite</item>
+        <item quantity="other">%s Invites</item>
+    </plurals>
+    <plurals name="res_0x7f100007">
+        <item quantity="one">Invite</item>
+        <item quantity="other">Invites</item>
+    </plurals>
+    <plurals name="res_0x7f100008">
+        <item quantity="one">1 Sort &amp; %1$d Filter applied</item>
+        <item quantity="other">1 Sort &amp; %1$d Filters applied</item>
+    </plurals>
+    <plurals name="res_0x7f100009">
+        <item quantity="one">Joined with %1$s team</item>
+        <item quantity="other">Joined with %1$s teams</item>
+    </plurals>
+    <plurals name="res_0x7f10000a">
+        <item quantity="one">%1$s spot left</item>
+        <item quantity="other">%1$s spots left</item>
+    </plurals>
+    <plurals name="res_0x7f10000b">
+        <item quantity="one">%1$s contest available</item>
+        <item quantity="other">%1$s contests available</item>
+    </plurals>
+    <plurals name="res_0x7f10000c">
+        <item quantity="one">%d contact on Dream11. Follow them!</item>
+        <item quantity="other">%d contacts on Dream11. Follow them!</item>
+    </plurals>
+    <plurals name="res_0x7f10000d">
+        <item quantity="one">Fast forward %d second</item>
+        <item quantity="other">Fast forward %d seconds</item>
+    </plurals>
+    <plurals name="res_0x7f10000e">
+        <item quantity="one">Rewind %d second</item>
+        <item quantity="other">Rewind %d seconds</item>
+    </plurals>
+    <plurals name="fc_controls_fastforward_by_amount_description">
+        <item quantity="one">Fast forward %d second</item>
+        <item quantity="other">Fast forward %d seconds</item>
+    </plurals>
+    <plurals name="fc_controls_rewind_by_amount_description">
+        <item quantity="one">Rewind %d second</item>
+        <item quantity="other">Rewind %d seconds</item>
+    </plurals>
+    <plurals name="res_0x7f100011">
+        <item quantity="one">%d person is following %s</item>
+        <item quantity="other">%d person is following %s</item>
+    </plurals>
+    <plurals name="res_0x7f100012">
+        <item quantity="one">%d person is following you</item>
+        <item quantity="other">%d people are following you</item>
+    </plurals>
+    <plurals name="res_0x7f100013">
+        <item quantity="one">You are following %d person</item>
+        <item quantity="other">You are following %d people</item>
+    </plurals>
+    <plurals name="res_0x7f100014">
+        <item quantity="one">%s is following %d person</item>
+        <item quantity="other">%s is following %d person</item>
+    </plurals>
+    <plurals name="res_0x7f100015">
+        <item quantity="one">Cash Contest</item>
+        <item quantity="other">Cash Contests</item>
+    </plurals>
+    <plurals name="res_0x7f100016">
+        <item quantity="one">Contest</item>
+        <item quantity="other">Contests</item>
+    </plurals>
+    <plurals name="res_0x7f100017">
+        <item quantity="one">Team</item>
+        <item quantity="other">Teams</item>
+    </plurals>
+    <plurals name="res_0x7f100018">
+        <item quantity="one">Upto %d</item>
+        <item quantity="other">Upto %d</item>
+    </plurals>
+    <plurals name="res_0x7f100019">
+        <item quantity="one">Max %d entry allowed in this contest</item>
+        <item quantity="other">Max %d entries allowed in this contest</item>
+    </plurals>
+    <plurals name="res_0x7f10001a">
+        <item quantity="one">Single</item>
+        <item quantity="other">Upto %d</item>
+    </plurals>
+    <plurals name="res_0x7f10001b">
+        <item quantity="one">%s person you follow played this match</item>
+        <item quantity="other">%s people you follow played this match</item>
+    </plurals>
+    <plurals name="res_0x7f10001c">
+        <item quantity="one">%s person you follow is playing this match</item>
+        <item quantity="other">%s people you follow are playing this match</item>
+    </plurals>
+    <plurals name="res_0x7f10001d">
+        <item quantity="one">You can enter %1$d team in this contest</item>
+        <item quantity="other">You can enter upto %1$d teams in this contest</item>
+    </plurals>
+    <plurals name="res_0x7f10001e">
+        <item quantity="one">%d new notification</item>
+        <item quantity="other">%d new notifications</item>
+    </plurals>
+    <plurals name="res_0x7f10001f">
+        <item quantity="one">%s + %d other playing</item>
+        <item quantity="other">%s + %d others playing</item>
+    </plurals>
+    <plurals name="res_0x7f100020">
+        <item quantity="one">%s other group</item>
+        <item quantity="other">%s other groups</item>
+    </plurals>
+    <plurals name="res_0x7f100021">
+        <item quantity="one">%1$d Participant</item>
+        <item quantity="other">%1$d Participants</item>
+    </plurals>
+    <plurals name="res_0x7f100022">
+        <item quantity="one">%1$d participant</item>
+        <item quantity="other">%1$d participants</item>
+    </plurals>
+    <plurals name="res_0x7f100023">
+        <item quantity="one">Play %d more\nmatch to unlock</item>
+        <item quantity="other">Play %d more\nmatches to unlock</item>
+    </plurals>
+    <plurals name="res_0x7f100027">
+        <item quantity="one"> reaction</item>
+        <item quantity="other"> reactions</item>
+    </plurals>
+    <plurals name="res_0x7f100028">
+        <item quantity="one">%1$d unannounced player removed successfully!</item>
+        <item quantity="other">%1$d unannounced players removed successfully!</item>
+    </plurals>
+    <plurals name="res_0x7f100029">
+        <item quantity="one">%s request</item>
+        <item quantity="other">%s requests</item>
+    </plurals>
+    <plurals name="res_0x7f10002c">
+        <item quantity="one">%d wicket</item>
+        <item quantity="other">%d wickets</item>
+    </plurals>
+    <plurals name="res_0x7f10002d">
+        <item quantity="one">%1$s is typing…</item>
+        <item quantity="other">%1$s are typing…</item>
+    </plurals>
+    <plurals name="res_0x7f10002e">
+        <item quantity="one">Remove %1$d unannounced player</item>
+        <item quantity="other">Remove %1$d unannounced players</item>
+    </plurals>
+    <plurals name="res_0x7f10002f">
+        <item quantity="one">%1$s New Message</item>
+        <item quantity="other">%1$s New Messages</item>
+    </plurals>
+    <plurals name="res_0x7f100031">
+        <item quantity="one">%d Winner</item>
+        <item quantity="other">%d Winners</item>
+    </plurals>
+    <plurals name="res_0x7f100032">
+        <item quantity="one">You&apos;ve won %1$s in %2$d contest.</item>
+        <item quantity="other">You&apos;ve won %1$s in %2$d contests.</item>
+    </plurals>
+</resources>

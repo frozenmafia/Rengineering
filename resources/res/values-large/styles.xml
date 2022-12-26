@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="_res_0x7f13006e" parent="@style/_res_0x7f13006c">
+    </style>
+    <style name="_res_0x7f130075" parent="@style/_res_0x7f130073">
+    </style>
+    <style name="_res_0x7f130084" parent="@style/_res_0x7f130082">
+    </style>
+    <style name="_res_0x7f13008e" parent="@style/_res_0x7f13008c">
+    </style>
+    <style name="_res_0x7f130358" parent="@style/_res_0x7f130078">
+        <item name="res_0x7f0405eb">@dimen/res_0x7f07001e</item>
+        <item name="res_0x7f0405ec">@dimen/res_0x7f07001f</item>
+        <item name="res_0x7f0405ed">@dimen/res_0x7f070020</item>
+        <item name="res_0x7f0405ee">@dimen/res_0x7f070021</item>
+    </style>
+    <style name="_res_0x7f130369" parent="@style/_res_0x7f13007b">
+        <item name="res_0x7f0405eb">@dimen/res_0x7f07001e</item>
+        <item name="res_0x7f0405ec">@dimen/res_0x7f07001f</item>
+        <item name="res_0x7f0405ed">@dimen/res_0x7f070020</item>
+        <item name="res_0x7f0405ee">@dimen/res_0x7f070021</item>
+    </style>
+</resources>

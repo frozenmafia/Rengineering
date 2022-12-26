@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android" android:insetLeft="@dimen/res_0x7f07002f" android:insetRight="@dimen/res_0x7f07002f" android:insetTop="@dimen/res_0x7f070030" android:insetBottom="@dimen/res_0x7f07002e">
+    <selector>
+        <item android:state_enabled="false">
+            <nine-patch android:src="@drawable/abc_textfield_default_mtrl_alpha" android:tint="?attr/res_0x7f040103" android:alpha="?android:attr/disabledAlpha"/>
+        </item>
+        <item android:state_focused="false" android:state_pressed="false">
+            <nine-patch android:src="@drawable/abc_textfield_default_mtrl_alpha" android:tint="?attr/res_0x7f040103"/>
+        </item>
+        <item>
+            <nine-patch android:src="@drawable/abc_textfield_activated_mtrl_alpha" android:tint="?attr/res_0x7f040101"/>
+        </item>
+    </selector>
+</inset>

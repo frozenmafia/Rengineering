@@ -1,0 +1,313 @@
+{
+  "data": [
+    {
+      "initialValue": false,
+      "featureFlagDescription": "My Contacts",
+      "featureFlagKey": "rn_my_contacts_enabled_v2",
+      "experimentVariable": "show",
+      "experimentIdentifier": "rn_social_my_contacts"
+    },
+    {
+      "initialValue": false,
+      "featureFlagDescription": "Team Compare",
+      "featureFlagKey": "show_rn_team_compare_v1",
+      "experimentVariable": "show_teamcompare",
+      "experimentIdentifier": "rn_migration_team_compare"
+    },
+    {
+      "initialValue": false,
+      "featureFlagDescription": "Add Cash",
+      "featureFlagKey": "is_rn_add_cash_payments_enabled",
+      "experimentVariable": "is_rn_add_cash_enabled",
+      "experimentIdentifier": "rn_add_cash_status"
+    },
+    {
+      "initialValue": false,
+      "featureFlagDescription": "Create Private Contests",
+      "featureFlagKey": "rn_migration_private_contest",
+      "experimentVariable": "value",
+      "experimentIdentifier": "rn_migration_private_contest"
+    },
+    {
+      "initialValue": false,
+      "featureFlagDescription": "Find People",
+      "featureFlagKey": "rn_find_people_enabled_v2",
+      "experimentVariable": "show",
+      "experimentIdentifier": "rn_social_find_people"
+    },
+    {
+      "initialValue": false,
+      "featureFlagDescription": "Group Detail",
+      "featureFlagKey": "is_rn_group_info_enabled",
+      "experimentVariable": "rn_group_info",
+      "experimentIdentifier": "rn_group_info_experiment"
+    },
+    {
+      "featureFlagKey": "is_rn_group_leaderboard_enabled",
+      "featureFlagDescription": "Group Leaderboard",
+      "initialValue": false
+    },
+    {
+      "featureFlagKey": "is_rn_more_enabled",
+      "featureFlagDescription": "More",
+      "initialValue": false
+    },
+    {
+      "initialValue": false,
+      "featureFlagDescription": "My Balance",
+      "featureFlagKey": "is_rn_mybalance_enabled",
+      "experimentVariable": "is_rn_my_balance_enabled",
+      "experimentIdentifier": "rn_my_balance_status"
+    },
+    {
+      "initialValue": false,
+      "featureFlagDescription": "My Info & Settings",
+      "featureFlagKey": "rn_info_settings_v2",
+      "experimentVariable": "show_info_settings",
+      "experimentIdentifier": "rn_migration_info_settings"
+    },
+    {
+      "initialValue": false,
+      "featureFlagDescription": "Recommended Profile",
+      "featureFlagKey": "rn_recommended_profile_enabled_v2",
+      "experimentVariable": "show",
+      "experimentIdentifier": "rn_social_recommended_profile"
+    },
+    {
+      "initialValue": false,
+      "featureFlagDescription": "Series Leaderboard",
+      "featureFlagKey": "is_rn_sidenav_leaderboard_enabled_v2",
+      "experimentVariable": "rn_leaderboards",
+      "experimentIdentifier": "rn_leaderboards"
+    },
+    {
+      "initialValue": false,
+      "featureFlagDescription": "Show Rewards",
+      "featureFlagKey": "is_rn_rewards_enabled",
+      "experimentVariable": "show_mycouponsrn",
+      "experimentIdentifier": "MyCouponsRN"
+    },
+    {
+      "initialValue": false,
+      "featureFlagDescription": "Third Person Profile",
+      "featureFlagKey": "is_rn_tpp_enabled",
+      "experimentVariable": "show_rn_third_person_profile",
+      "experimentIdentifier": "rn_third_person_profile"
+    },
+    {
+      "featureFlagKey": "rn_follow_friends_enabled",
+      "initialValue": false
+    },
+    {
+      "initialValue": false,
+      "featureFlagDescription": "Contest Detail",
+      "featureFlagKey": "is_rn_contest_detail_enabled",
+      "experimentVariable": "show_contest_details",
+      "experimentIdentifier": "rn_migration_contest_detail"
+    },
+    {
+      "initialValue": false,
+      "featureFlagDescription": "Contest Home Post Round Lock",
+      "featureFlagKey": "is_rn_contest_home_enabled",
+      "experimentVariable": "show_contest_home_post_rl",
+      "experimentIdentifier": "rn_migration_contest_home_post_rl"
+    },
+    {
+      "initialValue": false,
+      "featureFlagDescription": "Contest Section",
+      "featureFlagKey": "rn_migration_contest_section",
+      "experimentVariable": "value",
+      "experimentIdentifier": "rn_migration_contest_section"
+    },
+    {
+      "initialValue": false,
+      "featureFlagDescription": "Contest Section Onboarding",
+      "featureFlagKey": "rn_migration_contest_section_onboarding",
+      "experimentVariable": "value",
+      "experimentIdentifier": "rn_migration_contest_section_onboarding"
+    },
+    {
+      "featureFlagKey": "is_rn_create_team_enabled",
+      "featureFlagDescription": "Create Team",
+      "initialValue": false
+    },
+    {
+      "featureFlagKey": "rn_follow_friends_enabled_v2",
+      "featureFlagDescription": "Follow Friends",
+      "initialValue": false
+    },
+    {
+      "initialValue": false,
+      "featureFlagDescription": "Invite Code",
+      "featureFlagKey": "rn_migration_invitecode_join",
+      "experimentVariable": "value",
+      "experimentIdentifier": "rn_migration_invitecode_join"
+    },
+    {
+      "initialValue": false,
+      "featureFlagDescription": "Match Center",
+      "featureFlagKey": "is_rn_match_center_enabled",
+      "experimentVariable": "value",
+      "experimentIdentifier": "rn_migration_home"
+    },
+    {
+      "initialValue": false,
+      "featureFlagDescription": "My Matches",
+      "featureFlagKey": "rn_migration_my_matches",
+      "experimentVariable": "value",
+      "experimentIdentifier": "rn_migration_my_matches"
+    },
+    {
+      "initialValue": false,
+      "featureFlagDescription": "Quick Check",
+      "featureFlagKey": "is_rn_quick_check_enabled",
+      "experimentVariable": "value",
+      "experimentIdentifier": "is_rn_quick_check_enabled"
+    },
+    {
+      "initialValue": false,
+      "featureFlagDescription": "Select Team",
+      "featureFlagKey": "is_rn_select_team_enabled_v2",
+      "experimentVariable": "show_select_team",
+      "experimentIdentifier": "rn_migration_select_team"
+    },
+    {
+      "featureFlagKey": "enable_strategic_timeout_rn_flow",
+      "featureFlagDescription": "Strategic Timeout",
+      "initialValue": false
+    },
+    {
+      "initialValue": false,
+      "featureFlagDescription": "Switch Team",
+      "featureFlagKey": "is_rn_switch_team_enabled_v2",
+      "experimentVariable": "show_switch_team",
+      "experimentIdentifier": "rn_migration_switch_team"
+    },
+    {
+      "initialValue": false,
+      "featureFlagDescription": "TDS Breakup",
+      "featureFlagKey": "is_rn_tds_breakup_enabled",
+      "experimentVariable": "value",
+      "experimentIdentifier": "is_rn_tds_breakup_enabled"
+    },
+    {
+      "initialValue": false,
+      "featureFlagDescription": "Team Preview",
+      "featureFlagKey": "is_rn_team_preview_enabled",
+      "experimentVariable": "show_team_preview",
+      "experimentIdentifier": "rn_migration_team_preview"
+    },
+    {
+      "featureFlagKey": "is_rn_verification_flow_enabled",
+      "featureFlagDescription": "Verify Account",
+      "initialValue": false
+    },
+    {
+      "initialValue": false,
+      "featureFlagDescription": "View All",
+      "featureFlagKey": "rn_migration_view_all",
+      "experimentVariable": "value",
+      "experimentIdentifier": "rn_migration_view_all"
+    },
+    {
+      "featureFlagKey": "rn_migration_fps",
+      "featureFlagDescription": "rn_migration_fps",
+      "initialValue": false
+    },
+    {
+      "featureFlagKey": "rn_migration_onboarding_journey",
+      "featureFlagDescription": "rn_migration_onboarding_journey",
+      "initialValue": false
+    },
+    {
+      "featureFlagKey": "rn_migration_my_contests",
+      "initialValue": false
+    },
+    {
+      "initialValue": false,
+      "featureFlagDescription": "Add Participant",
+      "featureFlagKey": "is_rn_add_participant_enabled",
+      "experimentVariable": "show_add_participants_list",
+      "experimentIdentifier": "rn_migration_add_participant_list"
+    },
+    {
+      "featureFlagKey": "is_rn_app_update",
+      "featureFlagDescription": "App Update",
+      "initialValue": false
+    },
+    {
+      "initialValue": false,
+      "featureFlagDescription": "Cancelled Contests",
+      "featureFlagKey": "is_rn_cancelled_contest_enabled",
+      "experimentVariable": "value",
+      "experimentIdentifier": "rn_migration_unfilled_contest"
+    },
+    {
+      "featureFlagKey": "is_rn_career_stats_enabled_v2",
+      "featureFlagDescription": "Career Stats",
+      "initialValue": false
+    },
+    {
+      "initialValue": false,
+      "featureFlagDescription": "Chat",
+      "featureFlagKey": "is_rn_chat_enabled",
+      "experimentVariable": "show_rn_chat_tab",
+      "experimentIdentifier": "rn_chat_tab"
+    },
+    {
+      "initialValue": false,
+      "featureFlagDescription": "Contest Invite",
+      "featureFlagKey": "is_rn_pending_contest_list_enabled",
+      "experimentVariable": "show_pending_contest_invite_list",
+      "experimentIdentifier": "rn_migration_pending_contest_invite_list"
+    },
+    {
+      "featureFlagKey": "is_rn_contest_create_enabled",
+      "featureFlagDescription": "Create Contest",
+      "initialValue": false
+    },
+    {
+      "featureFlagKey": "is_rn_fpp_enabled",
+      "featureFlagDescription": "FPP",
+      "initialValue": false
+    },
+    {
+      "featureFlagKey": "is_rn_net_loss_popup",
+      "featureFlagDescription": "Net Loss",
+      "initialValue": false
+    },
+    {
+      "initialValue": false,
+      "featureFlagDescription": "Notification Center",
+      "featureFlagKey": "is_rn_notification_center_enabled",
+      "experimentVariable": "enable_rn_notification_center",
+      "experimentIdentifier": "rn_notification_center_experiment"
+    },
+    {
+      "initialValue": false,
+      "featureFlagDescription": "Player Info Post Round Lock",
+      "featureFlagKey": "is_rn_postrl_playerinfo_enabled",
+      "experimentVariable": "show_player_info_post_rl",
+      "experimentIdentifier": "rn_migration_player_info_post_rl"
+    },
+    {
+      "featureFlagKey": "is_set_reminder_enabled_rn",
+      "featureFlagDescription": "Set Reminder",
+      "initialValue": false
+    },
+    {
+      "initialValue": false,
+      "featureFlagDescription": "Share Contest",
+      "featureFlagKey": "is_rn_private_contest_share_enabled",
+      "experimentVariable": "show_contest_pvt_share_screen",
+      "experimentIdentifier": "rn_migration_pvt_contest_share"
+    },
+    {
+      "initialValue": false,
+      "featureFlagDescription": "UPC",
+      "featureFlagKey": "is_rn_upc_enabled",
+      "experimentVariable": "value",
+      "experimentIdentifier": "is_rn_upc_enabled"
+    }
+  ]
+}

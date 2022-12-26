@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="res_0x7f070282">48dp</dimen>
+    <dimen name="res_0x7f070324">48dp</dimen>
+    <dimen name="res_0x7f0703cc">12dp</dimen>
+    <dimen name="res_0x7f0703cd">8dp</dimen>
+    <dimen name="res_0x7f0703d1">8dp</dimen>
+    <dimen name="res_0x7f0703d4">14sp</dimen>
+    <dimen name="res_0x7f0704da">16dp</dimen>
+    <dimen name="res_0x7f07050f">120dp</dimen>
+    <dimen name="res_0x7f070510">24dp</dimen>
+    <dimen name="res_0x7f0705df">14sp</dimen>
+</resources>

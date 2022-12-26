@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="40dp" android:width="40dp" android:viewportWidth="40" android:viewportHeight="40">
+    <path android:fillColor="@drawable/res_0x7f0800db_ic_vector_messenger_color__0" android:pathData="M20.0028,0C8.9562,0 0,8.9562 0,20.0028C0,24.1723 1.2731,28.0417 3.4524,31.2439L1.5288,38.9437L9.4121,36.9701C12.4809,38.8881 16.1112,40 19.9972,40C31.0438,40 40,31.0438 40,20.0028C40,8.9618 31.0438,0 20.0028,0Z"/>
+    <path android:fillColor="#fefefe" android:pathData="M6.2214,25.8346L17.5015,13.8152C17.5849,13.7262 17.7238,13.7262 17.8072,13.8152L23.2221,19.419C23.2888,19.4857 23.3945,19.5024 23.4778,19.458L33.6516,13.8541C33.7517,13.7985 33.8517,13.9263 33.7739,14.0097L22.416,26.0514C22.3326,26.1404 22.1936,26.1404 22.1102,26.0514L16.7343,20.4642C16.6676,20.3975 16.5619,20.3808 16.4785,20.4253L6.3437,25.9902C6.2381,26.0458 6.138,25.918 6.2214,25.8346Z"/>
+</vector>

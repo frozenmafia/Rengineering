@@ -1,0 +1,1293 @@
+[{
+  "id": 1,
+  "gameName": "cricket",
+  "displayName": "Cricket",
+  "imgUrl": "https://s3.amazonaws.com/pwaimages/imgs/site-cricket.svg",
+  "status": 1,
+  "gameId": 2,
+  "iconImage": "https://d11.s3.amazonaws.com/contain/sportsicons/cricket.png",
+  "selectedIconImage": "https://d11.s3.amazonaws.com/contain/sportsicons/cricket-active.png",
+  "lightSportsIcon": "https://d13ir53smqqeyp.cloudfront.net/contain/sportsicons/cricket-light.svg",
+  "darkSportsIcon": "https://d13ir53smqqeyp.cloudfront.net/contain/sportsicons/cricket-dark.svg",
+  "WLSUrl": "www.dream11.com/cricket/",
+  "WLSSlug": "cricket",
+  "maxTeamsAllowed": 20,
+  "gameConfig": {
+    "gameId": 2,
+    "configJson": {
+      "multipliers": {
+        "captain": 2,
+        "vicecaptain": 1.5
+      },
+      "maxPlayers": 11,
+      "maxCredits": 100,
+      "maxPlayerPerTeam": 7,
+      "typeDisplayOrder": [3, 1, 4, 2],
+      "playerRole": [{
+        "id": 1,
+        "artwork": [{
+          "src": "https://assets.dream11.com/public/imgs/playerRoleArtwork/Captain_Default.svg"
+        }],
+        "name": "Captain",
+        "pointMultiplier": 2,
+        "shortName": "C",
+        "color": "#F5A623"
+      }, {
+        "id": 2,
+        "artwork": [{
+          "src": "https://assets.dream11.com/public/imgs/playerRoleArtwork/ViceCaptain_Default.svg"
+        }],
+        "name": "Vice Captain",
+        "pointMultiplier": 1.5,
+        "shortName": "VC",
+        "color": "#4A90E2"
+      }],
+      "playerType": [{
+        "gamePlayerPosition": "bt",
+        "gamePlayerTypeId": 1,
+        "displayName": "BAT",
+        "gamePlayerType": "BAT",
+        "gamePlayerTypeFull": "Batters",
+        "minPlayers": 3,
+        "maxPlayers": 6,
+        "maxPlayerPerTeam": 6
+      }, {
+        "gamePlayerPosition": "bw",
+        "gamePlayerTypeId": 2,
+        "displayName": "BOWL",
+        "gamePlayerType": "BOWL",
+        "gamePlayerTypeFull": "Bowlers",
+        "minPlayers": 3,
+        "maxPlayers": 6,
+        "maxPlayerPerTeam": 6
+      }, {
+        "gamePlayerPosition": "wc",
+        "gamePlayerTypeId": 3,
+        "displayName": "WK",
+        "gamePlayerType": "WK",
+        "gamePlayerTypeFull": "Wicket-Keepers",
+        "minPlayers": 1,
+        "maxPlayers": 4,
+        "maxPlayerPerTeam": 4
+      }, {
+        "gamePlayerPosition": "fd",
+        "gamePlayerTypeId": 4,
+        "displayName": "AR",
+        "gamePlayerType": "ALL",
+        "gamePlayerTypeFull": "All-Rounders",
+        "minPlayers": 1,
+        "maxPlayers": 4,
+        "maxPlayerPerTeam": 4
+      }],
+      "fantasyScorCardHeaders": [{
+        "name": "Announced/Sub",
+        "fantasykey": "playing11points",
+        "actualkey": "playing11",
+        "isException": 0
+      }, {
+        "name": "Runs",
+        "fantasykey": "runsscoredpoints",
+        "actualkey": "runsscored",
+        "isException": 0
+      }, {
+        "name": "4's",
+        "fantasykey": "fourhitpoints",
+        "actualkey": "fourhits",
+        "isException": 0
+      }, {
+        "name": "6's",
+        "fantasykey": "sixhitspoints",
+        "actualkey": "sixhits",
+        "isException": 0
+      }, {
+        "name": "S/R",
+        "fantasykey": "strikeratepoint",
+        "actualkey": "strikerate",
+        "isException": 0
+      }, {
+        "name": "Balls Faced",
+        "fantasykey": "",
+        "actualkey": "ballsfaced",
+        "isException": 0
+      }, {
+        "name": "30/50/100",
+        "fantasykey": "scoredfiftypoints",
+        "actualkey": "bonusrunsscored",
+        "isException": 1
+      }, {
+        "name": "Duck",
+        "fantasykey": "negativepoint",
+        "actualkey": "isduck",
+        "isException": 0
+      }, {
+        "name": "Overs Bowled",
+        "fantasykey": "",
+        "actualkey": "bowlingovers",
+        "isException": 0
+      }, {
+        "name": "Wickets",
+        "fantasykey": "wicketpoints",
+        "actualkey": "totalwicketstaken",
+        "isException": 0
+      }, {
+        "name": "LBW/Bowled Bonus",
+        "fantasykey": "lbwbowledbonuspoint",
+        "actualkey": "lbwbowledcount",
+        "isException": 0
+      }, {
+        "name": "2/3/4/5 Wicket Bonus",
+        "fantasykey": "bonuspoint",
+        "actualkey": "totalwicketstaken",
+        "isException": 0
+      }, {
+        "name": "Maiden Over",
+        "fantasykey": "maidenoverpoints",
+        "actualkey": "maidenover",
+        "isException": 0
+      }, {
+        "name": "E/R",
+        "fantasykey": "economyratepoints",
+        "actualkey": "economyrate",
+        "isException": 0
+      }, {
+        "name": "Catch",
+        "fantasykey": "catchpoints",
+        "actualkey": "catchtaken",
+        "isException": 0
+      }, {
+        "name": "Catch Bonus",
+        "fantasykey": "catchbonuspoints",
+        "actualkey": "catchbonus",
+        "isException": 0
+      }, {
+        "name": "Run Out/Stumping",
+        "fantasykey": "runoutpoints",
+        "actualkey": "runouttotal",
+        "isException": 0
+      }, {
+        "name": "Total",
+        "fantasykey": "totalpoint",
+        "actualkey": "totalpoint",
+        "isException": 0
+      }]
+    }
+  },
+  "WLSConfig": {
+    "externalSite": false,
+    "showCashContests": true,
+    "showWalletIcon": true,
+    "showReferral": true,
+    "showPracticeContests": true,
+    "showFreeToPlayContests": false,
+    "canCreateContest": true,
+    "showGameBalance": false,
+    "showAccountBalance": true,
+    "teamPreview": "https://assets.dream11.com/public/imgs/cricket-artwork.svg",
+    "contestHomePromotionalBanner": "",
+    "noToursBanner": "",
+    "externalSiteImage": "",
+    "isExternalSite": false,
+    "referralFPVScoreThreshold": 0.83,
+    "contestFPVScoreThreshold": 1,
+    "showDreamTeam": true,
+    "teamCardBackground": "https://assets.dream11.com/public/imgs/cricket-team-card-background.png",
+    "showSelPercent": true,
+    "teamPreviewBackground": "https://assets.dream11.com/public/imgs/cricket_team_preview_background.png",
+    "newTeamPreviewBackground": "https://pwaimages.s3.amazonaws.com/public/imgs/cricket-team-preview-background-new.png",
+    "teamPreviewOutline": "https://pwaimages.s3.amazonaws.com/public/imgs/Cricket+-+overlay.png",
+    "newTeamCardBackground": "https://pwaimages.s3.amazonaws.com/public/imgs/cricket-team-card-background-new.png"
+  },
+  "teamCombTimesToShow": 0,
+  "isLiveScoreCardEnabled": true,
+  "fpsurl": "https://www.dream11.com/cricket/points-system-android",
+  "wlsId": 1,
+  "pcCache": true,
+  "isExternalLink": false,
+  "shouldOpenExternalLinkInApp": false,
+  "externalUrl": "https://fantasy.india.nba.com/new/leagues?utm_medium=dream11_app&utm_source=android"
+}, {
+  "id": 34,
+  "gameName": "kabaddi",
+  "displayName": "Kabaddi",
+  "imgUrl": "https://s3.amazonaws.com/pwaimages/imgs/site-kabaddi.svg",
+  "status": 1,
+  "gameId": 5,
+  "iconImage": "https://d11.s3.amazonaws.com/contain/sportsicons/kabaddi.png",
+  "selectedIconImage": "https://d11.s3.amazonaws.com/contain/sportsicons/kabaddi-active.png",
+  "lightSportsIcon": "https://d13ir53smqqeyp.cloudfront.net/contain/sportsicons/kabaddi-light.svg",
+  "darkSportsIcon": "https://d13ir53smqqeyp.cloudfront.net/contain/sportsicons/kabaddi-dark.svg",
+  "WLSUrl": "www.dream11.com/kabaddi/",
+  "WLSSlug": "kabaddi",
+  "maxTeamsAllowed": 20,
+  "gameConfig": {
+    "gameId": 5,
+    "configJson": {
+      "multipliers": {
+        "captain": 2,
+        "vicecaptain": 1.5
+      },
+      "maxPlayers": 7,
+      "maxCredits": 100,
+      "maxPlayerPerTeam": 5,
+      "typeDisplayOrder": [15, 16, 17],
+      "playerRole": [{
+        "id": 1,
+        "artwork": [{
+          "src": "https://assets.dream11.com/public/imgs/playerRoleArtwork/Captain_Default.svg"
+        }],
+        "name": "Captain",
+        "pointMultiplier": 2,
+        "shortName": "C",
+        "color": "#F5A623"
+      }, {
+        "id": 2,
+        "artwork": [{
+          "src": "https://assets.dream11.com/public/imgs/playerRoleArtwork/ViceCaptain_Default.svg"
+        }],
+        "name": "Vice Captain",
+        "pointMultiplier": 1.5,
+        "shortName": "VC",
+        "color": "#4A90E2"
+      }],
+      "playerType": [{
+        "gamePlayerPosition": "df",
+        "gamePlayerTypeId": 15,
+        "displayName": "DEF",
+        "gamePlayerType": "DEF",
+        "gamePlayerTypeFull": "Defenders",
+        "minPlayers": 2,
+        "maxPlayers": 4,
+        "maxPlayerPerTeam": 4
+      }, {
+        "gamePlayerPosition": "ar",
+        "gamePlayerTypeId": 16,
+        "displayName": "ALL",
+        "gamePlayerType": "ALL",
+        "gamePlayerTypeFull": "All-Rounders",
+        "minPlayers": 1,
+        "maxPlayers": 2,
+        "maxPlayerPerTeam": 2
+      }, {
+        "gamePlayerPosition": "rd",
+        "gamePlayerTypeId": 17,
+        "displayName": "RAI",
+        "gamePlayerType": "RAI",
+        "gamePlayerTypeFull": "Raiders",
+        "minPlayers": 1,
+        "maxPlayers": 3,
+        "maxPlayerPerTeam": 3
+      }],
+      "fantasyScorCardHeaders": [{
+        "name": "Starting 7",
+        "actualkey": "isplaying7",
+        "fantasykey": "playing7points",
+        "isException": 0
+      }, {
+        "name": "Substitute",
+        "actualkey": "issubstitute",
+        "fantasykey": "substitutepoints",
+        "isException": 0
+      }, {
+        "name": "Raid Touch",
+        "actualkey": "noofraidtouch",
+        "fantasykey": "raidtouchpoints",
+        "isException": 0
+      }, {
+        "name": "Raid Bonus",
+        "actualkey": "noofraidbonus",
+        "fantasykey": "raidbonuspoints",
+        "isException": 0
+      }, {
+        "name": "Successful Tackle",
+        "actualkey": "noofsuccessfulltackle",
+        "fantasykey": "successfulltacklepoints",
+        "isException": 0
+      }, {
+        "name": "Super Tackle",
+        "actualkey": "noofsupertackles",
+        "fantasykey": "supertacklepoints",
+        "isException": 0
+      }, {
+        "name": "Pushing All Out",
+        "actualkey": "noofpushedallout",
+        "fantasykey": "pushedalloutpoints",
+        "isException": 0
+      }, {
+        "name": "Getting All Out",
+        "actualkey": "noofgettingallout",
+        "fantasykey": "gettingalloutpoints",
+        "isException": 0
+      }, {
+        "name": "Unsuccessful Raid",
+        "actualkey": "noofunsuccessfulraids",
+        "fantasykey": "unsuccessfulraidpoints",
+        "isException": 0
+      }, {
+        "name": "Green Card",
+        "actualkey": "greencard",
+        "fantasykey": "greencardpoints",
+        "isException": 0
+      }, {
+        "name": "Yellow Card",
+        "actualkey": "yellowcard",
+        "fantasykey": "yellowcardpoints",
+        "isException": 0
+      }, {
+        "name": "Red Card",
+        "actualkey": "redcard",
+        "fantasykey": "redcardpoints",
+        "isException": 0
+      }, {
+        "name": "Super Raid",
+        "actualkey": "superraid",
+        "fantasykey": "superraidpoints",
+        "isException": 0
+      }, {
+        "name": "Unsuccessful Tackle",
+        "actualkey": "noofunsuccessfultackle",
+        "fantasykey": "unsuccessfultacklepoints",
+        "isException": 0
+      }, {
+        "name": "Super 10",
+        "actualkey": "super10bonustext",
+        "fantasykey": "super10points",
+        "isException": 0
+      }, {
+        "name": "High Five",
+        "actualkey": "highfivebonustext",
+        "fantasykey": "highfivepoints",
+        "isException": 0
+      }, {
+        "name": "Total",
+        "actualkey": "totalpoints",
+        "fantasykey": "totalpoints",
+        "isException": 0
+      }]
+    }
+  },
+  "WLSConfig": {
+    "externalSite": false,
+    "showCashContests": true,
+    "showWalletIcon": true,
+    "showReferral": true,
+    "showPracticeContests": true,
+    "showFreeToPlayContests": false,
+    "canCreateContest": true,
+    "showGameBalance": false,
+    "showAccountBalance": true,
+    "teamPreview": "https://assets.dream11.com/public/imgs/kabaddi-artwork.svg",
+    "contestHomePromotionalBanner": "",
+    "noToursBanner": "",
+    "externalSiteImage": "",
+    "isExternalSite": false,
+    "referralFPVScoreThreshold": 0.83,
+    "contestFPVScoreThreshold": 1,
+    "showDreamTeam": true,
+    "teamCardBackground": "https://assets.dream11.com/public/imgs/kabaddi-team-card-background.png",
+    "showSelPercent": true,
+    "teamPreviewBackground": "https://assets.dream11.com/public/imgs/kabaddi_team_preview_background.png",
+    "newTeamPreviewBackground": "https://pwaimages.s3.amazonaws.com/public/imgs/kabaddi-team-preview-background-new.png",
+    "teamPreviewOutline": "https://pwaimages.s3.amazonaws.com/public/imgs/kabaddi-overlay.png",
+    "newTeamCardBackground": "https://pwaimages.s3.amazonaws.com/public/imgs/kabaddi-team-card-background-new.png"
+  },
+  "teamCombTimesToShow": 0,
+  "isLiveScoreCardEnabled": true,
+  "fpsurl": "https://www.dream11.com/kabaddi/points-system-android",
+  "wlsId": 34,
+  "pcCache": true,
+  "isExternalLink": false,
+  "shouldOpenExternalLinkInApp": false,
+  "externalUrl": "https://fantasy.india.nba.com/new/leagues?utm_medium=dream11_app&utm_source=android"
+}, {
+  "id": 10,
+  "gameName": "football",
+  "displayName": "Football",
+  "imgUrl": "https://s3.amazonaws.com/pwaimages/imgs/site-football.svg",
+  "status": 1,
+  "gameId": 3,
+  "iconImage": "https://d11.s3.amazonaws.com/contain/sportsicons/football.png",
+  "selectedIconImage": "https://d11.s3.amazonaws.com/contain/sportsicons/football-active.png",
+  "lightSportsIcon": "https://d13ir53smqqeyp.cloudfront.net/contain/sportsicons/football-light.svg",
+  "darkSportsIcon": "https://d13ir53smqqeyp.cloudfront.net/contain/sportsicons/football-dark.svg",
+  "WLSUrl": "www.dream11.com/football/",
+  "WLSSlug": "football",
+  "maxTeamsAllowed": 20,
+  "gameConfig": {
+    "gameId": 3,
+    "configJson": {
+      "multipliers": {
+        "captain": 2,
+        "vicecaptain": 1.5
+      },
+      "maxPlayers": 11,
+      "maxCredits": 100,
+      "maxPlayerPerTeam": 7,
+      "typeDisplayOrder": [5, 7, 8, 6],
+      "playerRole": [{
+        "id": 1,
+        "artwork": [{
+          "src": "https://assets.dream11.com/public/imgs/playerRoleArtwork/Captain_Default.svg"
+        }],
+        "name": "Captain",
+        "pointMultiplier": 2,
+        "shortName": "C",
+        "color": "#F5A623"
+      }, {
+        "id": 2,
+        "artwork": [{
+          "src": "https://assets.dream11.com/public/imgs/playerRoleArtwork/ViceCaptain_Default.svg"
+        }],
+        "name": "Vice Captain",
+        "pointMultiplier": 1.5,
+        "shortName": "VC",
+        "color": "#4A90E2"
+      }],
+      "playerType": [{
+        "gamePlayerPosition": "gk",
+        "gamePlayerTypeId": 5,
+        "displayName": "GK",
+        "gamePlayerType": "GK",
+        "gamePlayerTypeFull": "Goal-Keeper",
+        "minPlayers": 1,
+        "maxPlayers": 1,
+        "maxPlayerPerTeam": 1
+      }, {
+        "gamePlayerPosition": "st",
+        "gamePlayerTypeId": 6,
+        "displayName": "ST",
+        "gamePlayerType": "ST",
+        "gamePlayerTypeFull": "Forward",
+        "minPlayers": 1,
+        "maxPlayers": 3,
+        "maxPlayerPerTeam": 3
+      }, {
+        "gamePlayerPosition": "df",
+        "gamePlayerTypeId": 7,
+        "displayName": "DEF",
+        "gamePlayerType": "DEF",
+        "gamePlayerTypeFull": "Defender",
+        "minPlayers": 3,
+        "maxPlayers": 5,
+        "maxPlayerPerTeam": 5
+      }, {
+        "gamePlayerPosition": "md",
+        "gamePlayerTypeId": 8,
+        "displayName": "MID",
+        "gamePlayerType": "MID",
+        "gamePlayerTypeFull": "Mid-Fielder",
+        "minPlayers": 3,
+        "maxPlayers": 5,
+        "maxPlayerPerTeam": 5
+      }],
+      "fantasyScorCardHeaders": [{
+        "name": "Goals",
+        "actualkey": "goalscored",
+        "fantasykey": "goalscoredpoints",
+        "isException": 0
+      }, {
+        "name": "Assists",
+        "actualkey": "assist",
+        "fantasykey": "assistpoints",
+        "isException": 0
+      }, {
+        "name": "Shots On Target",
+        "actualkey": "shotsontarget",
+        "fantasykey": "shotsontargetpoints",
+        "isException": 0
+      }, {
+        "name": "Chances Created",
+        "fantasykey": "chancecreatedpoints",
+        "actualkey": "chancecreated",
+        "isException": 0
+      }, {
+        "name": "Passes Completed",
+        "actualkey": "passescompleted",
+        "fantasykey": "passescompletedpoints",
+        "isException": 0
+      }, {
+        "name": "Tackles Won",
+        "actualkey": "tackleswon",
+        "fantasykey": "tackleswonpoints",
+        "isException": 0
+      }, {
+        "name": "Interceptions Won",
+        "fantasykey": "interceptionswonpoints",
+        "actualkey": "interceptionswon",
+        "isException": 0
+      }, {
+        "name": "Saves",
+        "actualkey": "shotssaved",
+        "fantasykey": "shotssavedpoints",
+        "isException": 0
+      }, {
+        "name": "Penalties Saved",
+        "actualkey": "penaltysaved",
+        "fantasykey": "penaltysavedpoints",
+        "isException": 0
+      }, {
+        "name": "Clean Sheet",
+        "actualkey": "cleansheetflag",
+        "fantasykey": "cleansheetpoints",
+        "isException": 0
+      }, {
+        "name": "Minutes Played",
+        "actualkey": "minutesplayed",
+        "fantasykey": "minutesplayedpoints",
+        "isException": 0
+      }, {
+        "name": "Starter",
+        "fantasykey": "isplaying11points",
+        "actualkey": "isplaying11",
+        "isException": 0
+      }, {
+        "name": "Substitute",
+        "fantasykey": "substitutepoints",
+        "actualkey": "issubstitute",
+        "isException": 0
+      }, {
+        "name": "Yellow Card",
+        "actualkey": "yellowcard",
+        "fantasykey": "yellowcardpoints",
+        "isException": 0
+      }, {
+        "name": "Red Card",
+        "actualkey": "redcard",
+        "fantasykey": "redcardpoints",
+        "isException": 0
+      }, {
+        "name": "Own Goals",
+        "fantasykey": "owngoalpoints",
+        "actualkey": "owngoal",
+        "isException": 0
+      }, {
+        "name": "Goals Conceded",
+        "actualkey": "goalsconceeded",
+        "fantasykey": "goalsconceededpoints",
+        "isException": 0
+      }, {
+        "name": "Penalties Missed",
+        "actualkey": "penaltymissed",
+        "fantasykey": "penaltymissedpoints",
+        "isException": 0
+      }, {
+        "name": "Total",
+        "fantasykey": "totalpoints",
+        "actualkey": "totalpoints",
+        "isException": 0
+      }]
+    }
+  },
+  "WLSConfig": {
+    "externalSite": false,
+    "showCashContests": true,
+    "showWalletIcon": true,
+    "showReferral": true,
+    "showPracticeContests": true,
+    "showFreeToPlayContests": false,
+    "canCreateContest": true,
+    "showGameBalance": false,
+    "showAccountBalance": true,
+    "teamPreview": "https://assets.dream11.com/public/imgs/football-artwork.svg",
+    "contestHomePromotionalBanner": "",
+    "noToursBanner": "",
+    "externalSiteImage": "",
+    "isExternalSite": false,
+    "referralFPVScoreThreshold": 0.83,
+    "contestFPVScoreThreshold": 1,
+    "showDreamTeam": true,
+    "teamCardBackground": "https://assets.dream11.com/public/imgs/football-team-card-background.png",
+    "showSelPercent": true,
+    "teamPreviewBackground": "https://assets.dream11.com/public/imgs/football_team_preview_background.png",
+    "newTeamPreviewBackground": "https://pwaimages.s3.amazonaws.com/public/imgs/football-team-preview-background-new.png",
+    "teamPreviewOutline": "https://pwaimages.s3.amazonaws.com/public/imgs/Football+-+overlay.png",
+    "newTeamCardBackground": "https://pwaimages.s3.amazonaws.com/public/imgs/football-team-card-background-new.png"
+  },
+  "teamCombTimesToShow": 0,
+  "isLiveScoreCardEnabled": true,
+  "fpsurl": "https://www.dream11.com/football/points-system-android",
+  "wlsId": 10,
+  "pcCache": true,
+  "isExternalLink": false,
+  "shouldOpenExternalLinkInApp": false,
+  "externalUrl": "https://fantasy.india.nba.com/new/leagues?utm_medium=dream11_app&utm_source=android"
+}, {
+  "id": 39,
+  "gameName": "basketball",
+  "displayName": "Basketball",
+  "imgUrl": "https://s3.amazonaws.com/pwaimages/imgs/site-nba.png",
+  "status": 1,
+  "gameId": 6,
+  "iconImage": "https://d11.s3.amazonaws.com/contain/sportsicons/basketball.png",
+  "selectedIconImage": "https://d11.s3.amazonaws.com/contain/sportsicons/basketball-active.png",
+  "lightSportsIcon": "https://d13ir53smqqeyp.cloudfront.net/contain/sportsicons/basketball-light.svg",
+  "darkSportsIcon": "https://d13ir53smqqeyp.cloudfront.net/contain/sportsicons/basketball-dark.svg",
+  "WLSUrl": "www.dream11.com/nba/",
+  "WLSSlug": "nba",
+  "maxTeamsAllowed": 20,
+  "gameConfig": {
+    "gameId": 6,
+    "configJson": {
+      "multipliers": {
+        "captain": 2,
+        "vicecaptain": 1.5
+      },
+      "maxPlayers": 8,
+      "maxCredits": 100,
+      "maxPlayerPerTeam": 5,
+      "typeDisplayOrder": [18, 21, 22, 19, 20],
+      "playerRole": [{
+        "id": 3,
+        "artwork": [{
+          "src": "https://assets.dream11.com/public/imgs/playerRoleArtwork/StarPlayer_v2.svg"
+        }],
+        "name": "Star Player",
+        "pointMultiplier": 2,
+        "shortName": "SP",
+        "color": "#F5A623"
+      }, {
+        "id": 4,
+        "artwork": [{
+          "src": "https://assets.dream11.com/public/imgs/playerRoleArtwork/ProPlayer_v2.svg"
+        }],
+        "name": "Pro Player",
+        "pointMultiplier": 1.5,
+        "shortName": "PP",
+        "color": "#4A90E2"
+      }],
+      "playerType": [{
+        "gamePlayerPosition": "pg",
+        "gamePlayerTypeId": 18,
+        "displayName": "PG",
+        "gamePlayerType": "PG",
+        "gamePlayerTypeFull": "Point-Guard",
+        "minPlayers": 1,
+        "maxPlayers": 4,
+        "maxPlayerPerTeam": 4
+      }, {
+        "gamePlayerPosition": "pf",
+        "gamePlayerTypeId": 19,
+        "displayName": "PF",
+        "gamePlayerType": "PF",
+        "gamePlayerTypeFull": "Power-Forward",
+        "minPlayers": 1,
+        "maxPlayers": 4,
+        "maxPlayerPerTeam": 4
+      }, {
+        "gamePlayerPosition": "c",
+        "gamePlayerTypeId": 20,
+        "displayName": "C",
+        "gamePlayerType": "C",
+        "gamePlayerTypeFull": "Centre",
+        "minPlayers": 1,
+        "maxPlayers": 4,
+        "maxPlayerPerTeam": 4
+      }, {
+        "gamePlayerPosition": "sg",
+        "gamePlayerTypeId": 21,
+        "displayName": "SG",
+        "gamePlayerType": "SG",
+        "gamePlayerTypeFull": "Shooting-Guard",
+        "minPlayers": 1,
+        "maxPlayers": 4,
+        "maxPlayerPerTeam": 4
+      }, {
+        "gamePlayerPosition": "sf",
+        "gamePlayerTypeId": 22,
+        "displayName": "SF",
+        "gamePlayerType": "SF",
+        "gamePlayerTypeFull": "Small-Forward",
+        "minPlayers": 1,
+        "maxPlayers": 4,
+        "maxPlayerPerTeam": 4
+      }],
+      "fantasyScorCardHeaders": [{
+        "name": "PTS",
+        "actualkey": "pointsscoredpoints",
+        "fantasykey": "pointsscoredpoints"
+      }, {
+        "name": "STL",
+        "actualkey": "steals",
+        "fantasykey": "stealspoints"
+      }, {
+        "name": "REB",
+        "actualkey": "rebounds",
+        "fantasykey": "reboundspoints"
+      }, {
+        "name": "BLK",
+        "actualkey": "blocks",
+        "fantasykey": "blockspoints"
+      }, {
+        "name": "AST",
+        "actualkey": "assists",
+        "fantasykey": "assistspoints"
+      }, {
+        "name": "TOV",
+        "actualkey": "turnovers",
+        "fantasykey": "turnoverspoints"
+      }, {
+        "name": "Total",
+        "actualkey": "totalpoints",
+        "fantasykey": "totalpoints"
+      }]
+    }
+  },
+  "WLSConfig": {
+    "externalSite": false,
+    "showCashContests": true,
+    "showWalletIcon": true,
+    "showReferral": true,
+    "showPracticeContests": true,
+    "showFreeToPlayContests": false,
+    "canCreateContest": true,
+    "showGameBalance": false,
+    "showAccountBalance": true,
+    "teamPreview": "https://assets.dream11.com/public/imgs/nba-artwork.svg",
+    "contestHomePromotionalBanner": "",
+    "noToursBanner": "",
+    "externalSiteImage": "",
+    "isExternalSite": false,
+    "referralFPVScoreThreshold": 0,
+    "contestFPVScoreThreshold": 0,
+    "showDreamTeam": false,
+    "teamCardBackground": "https://assets.dream11.com/public/imgs/nba-team-card-background.png",
+    "showSelPercent": true,
+    "teamPreviewBackground": "https://assets.dream11.com/public/imgs/nba_team_preview_background.png",
+    "newTeamPreviewBackground": "https://pwaimages.s3.amazonaws.com/public/imgs/nba-team-preview-background-new.png",
+    "teamPreviewOutline": "https://pwaimages.s3.amazonaws.com/public/imgs/nba-overlay.png",
+    "newTeamCardBackground": "https://pwaimages.s3.amazonaws.com/public/imgs/nba-team-card-background-new.png"
+  },
+  "teamCombTimesToShow": 0,
+  "isLiveScoreCardEnabled": true,
+  "fpsurl": "https://www.dream11.com/nba/points-system-android",
+  "wlsId": 39,
+  "pcCache": true,
+  "isExternalLink": true,
+  "shouldOpenExternalLinkInApp": false,
+  "externalUrl": "https://fantasy.india.nba.com/new/leagues?utm_medium=dream11_app&utm_source=android"
+}, {
+  "id": 49,
+  "gameName": "baseball",
+  "displayName": "Baseball",
+  "imgUrl": "https://s3.amazonaws.com/pwaimages/imgs/site-baseball.svg",
+  "status": 1,
+  "gameId": 12,
+  "iconImage": "https://d11.s3.amazonaws.com/contain/sportsicons/baseball.png",
+  "selectedIconImage": "https://d11.s3.amazonaws.com/contain/sportsicons/baseball-active.png",
+  "lightSportsIcon": "https://d13ir53smqqeyp.cloudfront.net/contain/sportsicons/baseball-light.svg",
+  "darkSportsIcon": "https://d13ir53smqqeyp.cloudfront.net/contain/sportsicons/baseball-dark.svg",
+  "WLSUrl": "www.dream11.com/baseball/",
+  "WLSSlug": "baseball",
+  "maxTeamsAllowed": 20,
+  "gameConfig": {
+    "gameId": 12,
+    "configJson": {
+      "multipliers": {
+        "captain": 2,
+        "vicecaptain": 1.5
+      },
+      "maxPlayers": 9,
+      "maxCredits": 100,
+      "maxPlayerPerTeam": 6,
+      "typeDisplayOrder": [50, 49, 47, 48],
+      "playerRole": [{
+        "id": 1,
+        "artwork": [{
+          "src": "https://assets.dream11.com/public/imgs/playerRoleArtwork/Captain_Default.svg"
+        }],
+        "name": "Captain",
+        "pointMultiplier": 2,
+        "shortName": "C",
+        "color": "#F5A623"
+      }, {
+        "id": 2,
+        "artwork": [{
+          "src": "https://assets.dream11.com/public/imgs/playerRoleArtwork/ViceCaptain_Default.svg"
+        }],
+        "name": "Vice Captain",
+        "pointMultiplier": 1.5,
+        "shortName": "VC",
+        "color": "#4A90E2"
+      }],
+      "playerType": [{
+        "gamePlayerPosition": "p",
+        "gamePlayerTypeId": 47,
+        "displayName": "P",
+        "gamePlayerType": "P",
+        "gamePlayerTypeFull": "Pitcher",
+        "minPlayers": 1,
+        "maxPlayers": 1,
+        "maxPlayerPerTeam": 1
+      }, {
+        "gamePlayerPosition": "c",
+        "gamePlayerTypeId": 48,
+        "displayName": "C",
+        "gamePlayerType": "C",
+        "gamePlayerTypeFull": "Catcher",
+        "minPlayers": 1,
+        "maxPlayers": 1,
+        "maxPlayerPerTeam": 1
+      }, {
+        "gamePlayerPosition": "if",
+        "gamePlayerTypeId": 49,
+        "displayName": "IF",
+        "gamePlayerType": "IF",
+        "gamePlayerTypeFull": "Infielders",
+        "minPlayers": 2,
+        "maxPlayers": 5,
+        "maxPlayerPerTeam": 5
+      }, {
+        "gamePlayerPosition": "of",
+        "gamePlayerTypeId": 50,
+        "displayName": "OF",
+        "gamePlayerType": "OF",
+        "gamePlayerTypeFull": "Outfielders",
+        "minPlayers": 2,
+        "maxPlayers": 5,
+        "maxPlayerPerTeam": 5
+      }],
+      "fantasyScorCardHeaders": [{
+        "name": "Single",
+        "fantasykey": "SinglePoints",
+        "actualkey": "Single",
+        "isException": 0
+      }, {
+        "name": "Double",
+        "fantasykey": "DoublePoints",
+        "actualkey": "Double",
+        "isException": 0
+      }, {
+        "name": "Triple",
+        "fantasykey": "TriplePoints",
+        "actualkey": "Triple",
+        "isException": 0
+      }, {
+        "name": "Home Run",
+        "fantasykey": "HomeRunPoints",
+        "actualkey": "HomeRun",
+        "isException": 0
+      }, {
+        "name": "Runs Batted In",
+        "fantasykey": "RunsBattedInPoints",
+        "actualkey": "RunsBattedIn",
+        "isException": 0
+      }, {
+        "name": "Runs Scored",
+        "fantasykey": "RunsScoredPoints",
+        "actualkey": "RunsScored",
+        "isException": 0
+      }, {
+        "name": "Base On Balls Hitter",
+        "fantasykey": "BaseOnBallsHitterPoints",
+        "actualkey": "BaseOnBallsHitter",
+        "isException": 0
+      }, {
+        "name": "Stolen Base",
+        "fantasykey": "StolenBasePoints",
+        "actualkey": "StolenBase",
+        "isException": 0
+      }, {
+        "name": "Inning Pitched",
+        "fantasykey": "InningPitchedPoints",
+        "actualkey": "InningPitched",
+        "isException": 0
+      }, {
+        "name": "Strikeout",
+        "fantasykey": "StrikeOutPoints",
+        "actualkey": "StrikeOut",
+        "isException": 0
+      }, {
+        "name": "Earned Run",
+        "fantasykey": "EarnedRunPoints",
+        "actualkey": "EarnedRun",
+        "isException": 0
+      }, {
+        "name": "Hit Allowed",
+        "fantasykey": "HitAllowedPoints",
+        "actualkey": "HitAllowed",
+        "isException": 0
+      }, {
+        "name": "Base On Balls Pitcher",
+        "fantasykey": "BaseOnBallsPitcherPoints",
+        "actualkey": "BaseOnBallsPitcher",
+        "isException": 0
+      }, {
+        "name": "Total",
+        "fantasykey": "TotalPoint",
+        "actualkey": "TotalPoint",
+        "isException": 0
+      }]
+    }
+  },
+  "WLSConfig": {
+    "externalSite": false,
+    "showCashContests": true,
+    "showWalletIcon": true,
+    "showReferral": true,
+    "showPracticeContests": true,
+    "showFreeToPlayContests": false,
+    "canCreateContest": true,
+    "showGameBalance": false,
+    "showAccountBalance": true,
+    "teamPreview": "https://assets.dream11.com/public/imgs/baseball-artwork.svg",
+    "contestHomePromotionalBanner": "",
+    "noToursBanner": "",
+    "externalSiteImage": "",
+    "isExternalSite": false,
+    "referralFPVScoreThreshold": 0,
+    "contestFPVScoreThreshold": 0,
+    "showDreamTeam": true,
+    "teamCardBackground": "https://assets.dream11.com/public/imgs/baseball-team-card-background.png",
+    "showSelPercent": true,
+    "teamPreviewBackground": "https://assets.dream11.com/public/imgs/baseball_team_preview_background.png",
+    "newTeamPreviewBackground": "https://pwaimages.s3.amazonaws.com/public/imgs/cricket-team-preview-background-new.png",
+    "teamPreviewOutline": "https://pwaimages.s3.amazonaws.com/public/imgs/baseball-overlay.png",
+    "newTeamCardBackground": "https://pwaimages.s3.amazonaws.com/public/imgs/cricket-team-card-background-new.png"
+  },
+  "teamCombTimesToShow": 0,
+  "isLiveScoreCardEnabled": true,
+  "fpsurl": "https://www.dream11.com/baseball/points-system-android",
+  "wlsId": 49,
+  "pcCache": true,
+  "isExternalLink": false,
+  "shouldOpenExternalLinkInApp": false,
+  "externalUrl": "https://fantasy.india.nba.com/new/leagues?utm_medium=dream11_app&utm_source=android"
+}, {
+  "id": 50,
+  "gameName": "handball",
+  "displayName": "Handball",
+  "imgUrl": "https://s3.amazonaws.com/pwaimages/imgs/site-handball.svg",
+  "status": 1,
+  "gameId": 13,
+  "iconImage": "https://d11.s3.amazonaws.com/contain/sportsicons/handball.png",
+  "selectedIconImage": "https://d11.s3.amazonaws.com/contain/sportsicons/handball-active.png",
+  "lightSportsIcon": "https://d13ir53smqqeyp.cloudfront.net/contain/sportsicons/handball-light.svg",
+  "darkSportsIcon": "https://d13ir53smqqeyp.cloudfront.net/contain/sportsicons/handball-dark.svg",
+  "WLSUrl": "www.dream11.com/handball/",
+  "WLSSlug": "handball",
+  "maxTeamsAllowed": 20,
+  "gameConfig": {
+    "gameId": 13,
+    "configJson": {
+      "multipliers": {
+        "captain": 2,
+        "vicecaptain": 1.5
+      },
+      "maxPlayers": 7,
+      "maxCredits": 100,
+      "maxPlayerPerTeam": 5,
+      "typeDisplayOrder": [51, 52, 53],
+      "playerRole": [{
+        "id": 1,
+        "artwork": [{
+          "src": "https://assets.dream11.com/public/imgs/playerRoleArtwork/Captain_Default.svg"
+        }],
+        "name": "Captain",
+        "pointMultiplier": 2,
+        "shortName": "C",
+        "color": "#F5A623"
+      }, {
+        "id": 2,
+        "artwork": [{
+          "src": "https://assets.dream11.com/public/imgs/playerRoleArtwork/ViceCaptain_Default.svg"
+        }],
+        "name": "Vice Captain",
+        "pointMultiplier": 1.5,
+        "shortName": "VC",
+        "color": "#4A90E2"
+      }],
+      "playerType": [{
+        "gamePlayerPosition": "gk",
+        "gamePlayerTypeId": 51,
+        "displayName": "GK",
+        "gamePlayerType": "GK",
+        "gamePlayerTypeFull": "Goal-Keeper",
+        "minPlayers": 1,
+        "maxPlayers": 1,
+        "maxPlayerPerTeam": 1
+      }, {
+        "gamePlayerPosition": "def",
+        "gamePlayerTypeId": 52,
+        "displayName": "DEF",
+        "gamePlayerType": "DEF",
+        "gamePlayerTypeFull": "Defenders",
+        "minPlayers": 2,
+        "maxPlayers": 4,
+        "maxPlayerPerTeam": 4
+      }, {
+        "gamePlayerPosition": "fwd",
+        "gamePlayerTypeId": 53,
+        "displayName": "FWD",
+        "gamePlayerType": "FWD",
+        "gamePlayerTypeFull": "Forwards",
+        "minPlayers": 2,
+        "maxPlayers": 4,
+        "maxPlayerPerTeam": 4
+      }],
+      "fantasyScorCardHeaders": [{
+        "name": "Goals",
+        "fantasykey": "GoalPoints",
+        "actualkey": "Goal",
+        "isException": 0
+      }, {
+        "name": "Saves",
+        "fantasykey": "SavePoints",
+        "actualkey": "Save",
+        "isException": 0
+      }, {
+        "name": "Penalty Saved",
+        "fantasykey": "PenaltySavedPoints",
+        "actualkey": "PenaltySaved",
+        "isException": 0
+      }, {
+        "name": "Yellow Card",
+        "fantasykey": "YellowCardPoints",
+        "actualkey": "YellowCard",
+        "isException": 0
+      }, {
+        "name": "Ejections",
+        "fantasykey": "EjectionsPoints",
+        "actualkey": "Ejections",
+        "isException": 0
+      }, {
+        "name": "Red Card/Blue Card",
+        "fantasykey": "RedCardBlueCardPoints",
+        "actualkey": "RedCardBlueCard",
+        "isException": 0
+      }, {
+        "name": "Penalty Miss",
+        "fantasykey": "PenaltyMissPoints",
+        "actualkey": "PenaltyMiss",
+        "isException": 0
+      }, {
+        "name": "Total",
+        "fantasykey": "TotalPoint",
+        "actualkey": "TotalPoint",
+        "isException": 0
+      }]
+    }
+  },
+  "WLSConfig": {
+    "externalSite": false,
+    "showCashContests": true,
+    "showWalletIcon": true,
+    "showReferral": true,
+    "showPracticeContests": true,
+    "showFreeToPlayContests": false,
+    "canCreateContest": true,
+    "showGameBalance": false,
+    "showAccountBalance": true,
+    "teamPreview": "https://assets.dream11.com/public/imgs/handball-artwork.svg",
+    "contestHomePromotionalBanner": "",
+    "noToursBanner": "",
+    "externalSiteImage": "",
+    "isExternalSite": false,
+    "referralFPVScoreThreshold": 0,
+    "contestFPVScoreThreshold": 0,
+    "showDreamTeam": false,
+    "teamCardBackground": "https://assets.dream11.com/public/imgs/handball-team-card-background.png",
+    "showSelPercent": true,
+    "teamPreviewBackground": "https://assets.dream11.com/public/imgs/handball_team_preview_background.png",
+    "newTeamPreviewBackground": "https://pwaimages.s3.amazonaws.com/public/imgs/handball-team-preview-background-new.png",
+    "teamPreviewOutline": "https://pwaimages.s3.amazonaws.com/public/imgs/handball-overlay.png",
+    "newTeamCardBackground": "https://pwaimages.s3.amazonaws.com/public/imgs/handball-team-card-background-new.png"
+  },
+  "teamCombTimesToShow": 0,
+  "isLiveScoreCardEnabled": true,
+  "fpsurl": "https://www.dream11.com/handball/points-system-android",
+  "wlsId": 50,
+  "pcCache": true,
+  "isExternalLink": false,
+  "shouldOpenExternalLinkInApp": false,
+  "externalUrl": "https://fantasy.india.nba.com/new/leagues?utm_medium=dream11_app&utm_source=android"
+}, {
+  "id": 45,
+  "gameName": "volleyball",
+  "displayName": "Volleyball",
+  "imgUrl": "https://s3.amazonaws.com/pwaimages/imgs/site-volleyball.svg",
+  "status": 1,
+  "gameId": 9,
+  "iconImage": "https://d11.s3.amazonaws.com/contain/sportsicons/volleyball.png",
+  "selectedIconImage": "https://d11.s3.amazonaws.com/contain/sportsicons/volleyball-active.png",
+  "lightSportsIcon": "https://d13ir53smqqeyp.cloudfront.net/contain/sportsicons/volleyball-light.svg",
+  "darkSportsIcon": "https://d13ir53smqqeyp.cloudfront.net/contain/sportsicons/volleyball-dark.svg",
+  "WLSUrl": "www.dream11.com/volleyball/",
+  "WLSSlug": "volleyball",
+  "maxTeamsAllowed": 20,
+  "gameConfig": {
+    "gameId": 9,
+    "configJson": {
+      "multipliers": {
+        "captain": 2,
+        "vicecaptain": 1.5
+      },
+      "maxPlayers": 6,
+      "maxCredits": 100,
+      "maxPlayerPerTeam": 4,
+      "typeDisplayOrder": [32, 33, 34, 35, 36],
+      "playerRole": [{
+        "id": 1,
+        "artwork": [{
+          "src": "https://assets.dream11.com/public/imgs/playerRoleArtwork/Captain_Default.svg"
+        }],
+        "name": "Captain",
+        "pointMultiplier": 2,
+        "shortName": "C",
+        "color": "#F5A623"
+      }, {
+        "id": 2,
+        "artwork": [{
+          "src": "https://assets.dream11.com/public/imgs/playerRoleArtwork/ViceCaptain_Default.svg"
+        }],
+        "name": "Vice Captain",
+        "pointMultiplier": 1.5,
+        "shortName": "VC",
+        "color": "#4A90E2"
+      }],
+      "playerType": [{
+        "gamePlayerPosition": "lib",
+        "gamePlayerTypeId": 32,
+        "displayName": "LIB",
+        "gamePlayerType": "LIB",
+        "gamePlayerTypeFull": "Libero",
+        "minPlayers": 1,
+        "maxPlayers": 1,
+        "maxPlayerPerTeam": 1
+      }, {
+        "gamePlayerPosition": "set",
+        "gamePlayerTypeId": 33,
+        "displayName": "SET",
+        "gamePlayerType": "SET",
+        "gamePlayerTypeFull": "Setter",
+        "minPlayers": 1,
+        "maxPlayers": 2,
+        "maxPlayerPerTeam": 2
+      }, {
+        "gamePlayerPosition": "blk",
+        "gamePlayerTypeId": 34,
+        "displayName": "BLK",
+        "gamePlayerType": "BLK",
+        "gamePlayerTypeFull": "Blocker",
+        "minPlayers": 1,
+        "maxPlayers": 2,
+        "maxPlayerPerTeam": 2
+      }, {
+        "gamePlayerPosition": "att",
+        "gamePlayerTypeId": 35,
+        "displayName": "ATT",
+        "gamePlayerType": "ATT",
+        "gamePlayerTypeFull": "Attacker",
+        "minPlayers": 1,
+        "maxPlayers": 2,
+        "maxPlayerPerTeam": 2
+      }, {
+        "gamePlayerPosition": "uni",
+        "gamePlayerTypeId": 36,
+        "displayName": "UNI",
+        "gamePlayerType": "UNI",
+        "gamePlayerTypeFull": "Universal",
+        "minPlayers": 1,
+        "maxPlayers": 2,
+        "maxPlayerPerTeam": 2
+      }],
+      "fantasyScorCardHeaders": [{
+        "name": "Set Starter",
+        "fantasykey": "PlayingVIPoints",
+        "actualkey": "PlayingVI",
+        "isException": 0
+      }, {
+        "name": "Set Substitute",
+        "fantasykey": "SubstitutePoints",
+        "actualkey": "Substitute",
+        "isException": 0
+      }, {
+        "name": "Sets won as Playing VI",
+        "fantasykey": "WinningSetsPoints",
+        "actualkey": "WinningSets",
+        "isException": 0
+      }, {
+        "name": "Sets lost as Playing VI",
+        "fantasykey": "LosingSetsPoints",
+        "actualkey": "LosingSets",
+        "isException": 0
+      }, {
+        "name": "Attack",
+        "fantasykey": "AttacksPoints",
+        "actualkey": "Attacks",
+        "isException": 0
+      }, {
+        "name": "Reception",
+        "fantasykey": "DigsPoints",
+        "actualkey": "Digs",
+        "isException": 0
+      }, {
+        "name": "Block",
+        "fantasykey": "BlocksPoints",
+        "actualkey": "Blocks",
+        "isException": 0
+      }, {
+        "name": "Ace",
+        "fantasykey": "AcesPoints",
+        "actualkey": "Aces",
+        "isException": 0
+      }, {
+        "name": "Successful Service",
+        "fantasykey": "SuccessfulServicePoints",
+        "actualkey": "SuccessfulService",
+        "isException": 0
+      }, {
+        "name": "Errors",
+        "fantasykey": "OppositionErrorsPoints",
+        "actualkey": "OppositionErrors",
+        "isException": 0
+      }, {
+        "name": "Bonus Attack",
+        "fantasykey": "AttacksBonusPoints",
+        "actualkey": "Attacks",
+        "isException": 0
+      }, {
+        "name": "Bonus Block",
+        "fantasykey": "BlocksBonusPoints",
+        "actualkey": "Blocks",
+        "isException": 0
+      }, {
+        "name": "Total",
+        "fantasykey": "TotalPoints",
+        "actualkey": "total",
+        "isException": 0
+      }]
+    }
+  },
+  "WLSConfig": {
+    "externalSite": false,
+    "showCashContests": true,
+    "showWalletIcon": true,
+    "showReferral": true,
+    "showPracticeContests": true,
+    "showFreeToPlayContests": false,
+    "canCreateContest": true,
+    "showGameBalance": false,
+    "showAccountBalance": true,
+    "teamPreview": "https://assets.dream11.com/public/imgs/volleyball-artwork.svg",
+    "contestHomePromotionalBanner": "",
+    "noToursBanner": "",
+    "externalSiteImage": "",
+    "isExternalSite": false,
+    "referralFPVScoreThreshold": 0,
+    "contestFPVScoreThreshold": 0,
+    "showDreamTeam": false,
+    "teamCardBackground": "https://assets.dream11.com/public/imgs/volleyball-team-card-background.png",
+    "showSelPercent": true,
+    "teamPreviewBackground": "https://assets.dream11.com/public/imgs/volleyball_team_preview_background.png",
+    "newTeamPreviewBackground": "https://pwaimages.s3.amazonaws.com/public/imgs/volleyball-team-preview-background-new.png",
+    "teamPreviewOutline": "https://pwaimages.s3.amazonaws.com/public/imgs/volleyball-overlay.png",
+    "newTeamCardBackground": "https://pwaimages.s3.amazonaws.com/public/imgs/volleyball-team-card-background-new.png"
+  },
+  "teamCombTimesToShow": 0,
+  "isLiveScoreCardEnabled": true,
+  "fpsurl": "https://www.dream11.com/volleyball/points-system-android",
+  "wlsId": 45,
+  "pcCache": true,
+  "isExternalLink": false,
+  "shouldOpenExternalLinkInApp": false,
+  "externalUrl": "https://fantasy.india.nba.com/new/leagues?utm_medium=dream11_app&utm_source=android"
+}]

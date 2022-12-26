@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="res_0x7f070019">440dp</dimen>
+    <dimen name="res_0x7f07001e">60%</dimen>
+    <dimen name="res_0x7f07001f">90%</dimen>
+    <dimen name="res_0x7f070020">60%</dimen>
+    <dimen name="res_0x7f070021">90%</dimen>
+    <dimen name="res_0x7f070024">55%</dimen>
+    <dimen name="res_0x7f070025">80%</dimen>
+</resources>

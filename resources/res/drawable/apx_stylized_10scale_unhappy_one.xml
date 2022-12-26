@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="32dp" android:width="32dp" android:viewportWidth="23" android:viewportHeight="23">
+    <path android:fillColor="?attr/icon_bg" android:pathData="M0.8086,10.9046C0.8086,4.8822 5.6905,0 11.7135,0C17.7353,0 22.6171,4.8822 22.6171,10.9046C22.6171,16.9269 17.7353,21.809 11.7135,21.809C5.6905,21.809 0.8086,16.9269 0.8086,10.9046Z"/>
+    <path android:fillColor="?attr/icon_fg" android:pathData="M8.5002,8.8756C8.5002,9.6235 8.1394,10.2299 7.6955,10.2299C7.2529,10.2299 6.8921,9.6235 6.8921,8.8756C6.8921,8.1277 7.2529,7.5212 7.6955,7.5212C8.1394,7.5212 8.5002,8.1277 8.5002,8.8756Z"/>
+    <path android:fillColor="?attr/icon_fg" android:pathData="M16.5341,8.8756C16.5341,9.6235 16.1746,10.2299 15.7307,10.2299C15.2867,10.2299 14.9272,9.6235 14.9272,8.8756C14.9272,8.1277 15.2867,7.5212 15.7307,7.5212C16.1746,7.5212 16.5341,8.1277 16.5341,8.8756Z"/>
+    <path android:fillColor="#00000000" android:pathData="M7.8086,16.4998C8.8086,12.4998 13.8086,10.4997 15.8086,16.5" android:strokeColor="?attr/icon_fg" android:strokeWidth="1" android:strokeLineCap="round"/>
+</vector>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_active="true" android:drawable="@drawable/segmented_control_group_selected_right_corner_radius"/>
+    <item android:state_checked="true" android:drawable="@drawable/segmented_control_group_selected_right_corner_radius"/>
+    <item android:drawable="@drawable/segmented_control_group_right_corner_radius"/>
+</selector>

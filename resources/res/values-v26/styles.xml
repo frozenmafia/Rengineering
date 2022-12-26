@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="_res_0x7f130068" parent="@style/_res_0x7f1300c9">
+    </style>
+    <style name="_res_0x7f13006f" parent="@style/_res_0x7f1300ca">
+    </style>
+    <style name="_res_0x7f1300c9" parent="@style/_res_0x7f1300c3">
+        <item name="res_0x7f040104">?android:attr/colorError</item>
+    </style>
+    <style name="_res_0x7f1300ca" parent="@style/_res_0x7f1300c4">
+        <item name="res_0x7f040104">?android:attr/colorError</item>
+    </style>
+    <style name="_res_0x7f1300cb" parent="@style/_res_0x7f1300d5">
+        <item name="android:touchscreenBlocksFocus">true</item>
+        <item name="android:keyboardNavigationCluster">true</item>
+    </style>
+    <style name="_res_0x7f13010e" parent="@style/_res_0x7f1300cb">
+    </style>
+    <style name="_res_0x7f13049a" parent="@android:style/Widget">
+        <item name="android:background">?attr/res_0x7f040116</item>
+        <item name="android:stateListAnimator">@animator/res_0x7f020000</item>
+        <item name="android:touchscreenBlocksFocus">true</item>
+        <item name="android:keyboardNavigationCluster">true</item>
+    </style>
+    <style name="_res_0x7f1305b6" parent="@style/_res_0x7f1302b7">
+        <item name="android:textSize">@dimen/d11_font_size__02</item>
+        <item name="android:textColor">@color/d11_color_text__positiveMedium</item>
+        <item name="android:fontStyle">normal</item>
+        <item name="res_0x7f04023e">@font/d11_font_normal__400</item>
+        <item name="res_0x7f040247">0</item>
+    </style>
+</resources>

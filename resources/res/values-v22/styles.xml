@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="_res_0x7f130068" parent="@style/_res_0x7f1300c1">
+    </style>
+    <style name="_res_0x7f13006f" parent="@style/_res_0x7f1300c2">
+    </style>
+    <style name="_res_0x7f1300c1" parent="@style/_res_0x7f1300b6">
+        <item name="res_0x7f04001d">?android:attr/actionModeShareDrawable</item>
+        <item name="res_0x7f0401d3">?android:attr/editTextBackground</item>
+    </style>
+    <style name="_res_0x7f1300c2" parent="@style/_res_0x7f1300b8">
+        <item name="res_0x7f04001d">?android:attr/actionModeShareDrawable</item>
+        <item name="res_0x7f0401d3">?android:attr/editTextBackground</item>
+    </style>
+</resources>

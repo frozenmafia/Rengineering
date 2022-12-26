@@ -1,0 +1,22 @@
+package com.app.dream11.core.service.graphql.api;
+
+import com.app.dream11.core.service.graphql.api.ContestDetailsBaseQuery;
+import kotlin.jvm.internal.Lambda;
+import o.Styleable;
+import o.removeCancellable;
+import o.runAnimators;
+/* JADX INFO: Access modifiers changed from: package-private */
+/* loaded from: classes2.dex */
+public final class ContestDetailsBaseQuery$Data$Companion$invoke$1$contest$1 extends Lambda implements Styleable.ChangeBounds<removeCancellable, ContestDetailsBaseQuery.Contest> {
+    public static final ContestDetailsBaseQuery$Data$Companion$invoke$1$contest$1 INSTANCE = new ContestDetailsBaseQuery$Data$Companion$invoke$1$contest$1();
+
+    ContestDetailsBaseQuery$Data$Companion$invoke$1$contest$1() {
+        super(1);
+    }
+
+    @Override // o.Styleable.ChangeBounds
+    public final ContestDetailsBaseQuery.Contest invoke(removeCancellable removecancellable) {
+        runAnimators.ag$a(removecancellable, "reader");
+        return ContestDetailsBaseQuery.Contest.Companion.invoke(removecancellable);
+    }
+}

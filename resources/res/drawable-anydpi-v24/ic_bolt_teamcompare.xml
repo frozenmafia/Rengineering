@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="36dp" android:width="164dp" android:viewportWidth="164" android:viewportHeight="36">
+    <group>
+        <path android:fillColor="@drawable/res_0x7f08005d_ic_bolt_teamcompare__0" android:pathData="M0,2C0,0.895 0.895,0 2,0H162C163.105,0 164,0.895 164,2V34C164,35.105 163.105,36 162,36H2C0.895,36 0,35.105 0,34V2Z"/>
+        <path android:fillColor="#ffffff" android:pathData="M82.806,18.097L1.164,160H-2L-2,-60L124.071,-60L77.77,20.449L80.317,19.259L80.316,19.26L82.806,18.097Z" android:fillType="evenOdd"/>
+        <path android:fillColor="#b1d1fd" android:pathData="M3.01,160H1.149L82.808,18.095L85.354,16.905L3.01,160Z" android:fillType="evenOdd"/>
+        <path android:fillColor="#b1d1fd" android:pathData="M80.262,19.286L77.715,20.476L124.068,-60H125.929L80.262,19.286Z" android:fillType="evenOdd"/>
+        <path android:fillColor="#00000000" android:pathData="M0,0.5L164,0.5" android:strokeColor="@drawable/res_0x7f08005e_ic_bolt_teamcompare__1" android:strokeWidth="1"/>
+        <path android:fillColor="#00000000" android:pathData="M0,35.5L164,35.5" android:strokeColor="@drawable/res_0x7f08005f_ic_bolt_teamcompare__2" android:strokeWidth="1"/>
+    </group>
+</vector>

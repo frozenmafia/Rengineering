@@ -1,0 +1,134 @@
+{
+  "filters": [
+    {
+      "title": "Entry",
+      "options": [
+        {
+          "title": "₹1 to ₹100",
+          "value": "1-100"
+        },
+        {
+          "title": "₹101 to ₹1,000",
+          "value": "101-1000"
+        },
+        {
+          "title": "₹1,001 to ₹5,000",
+          "value": "1001-5000"
+        },
+        {
+          "title": "₹5,001 & more",
+          "value": "5001"
+        }
+      ],
+      "filterType": "filterEntry"
+    },
+    {
+      "title": "Winnings",
+      "options": [
+        {
+          "title": "₹1 to ₹10,000",
+          "value": "1-10000"
+        },
+        {
+          "title": "₹10,001 to ₹50,000",
+          "value": "10001-50000"
+        },
+        {
+          "title": "₹50,001 to ₹1 Lakh",
+          "value": "50001-100000"
+        },
+        {
+          "title": "₹1 Lakh to ₹10 Lakhs",
+          "value": "100000-1000000"
+        },
+        {
+          "title": "₹10 Lakhs to ₹25 Lakhs",
+          "value": "1000000-2000000"
+        },
+        {
+          "title": "₹25 Lakhs & more",
+          "value": "2500000"
+        }
+      ],
+      "filterType": "filterWinnings"
+    },
+    {
+      "title": "Contest Type",
+      "options": [
+        {
+          "title": "Multi Entry",
+          "value": "multiEntry"
+        },
+        {
+          "title": "Multi Winner",
+          "value": "multiWinner"
+        },
+        {
+          "title": "Confirmed",
+          "value": "confirmed"
+        }
+      ],
+      "filterType": "filterContestType",
+      "infoText": [
+        {
+          "textKey": "default",
+          "value": "<p>"
+        },
+        {
+          "textKey": "multiEntry",
+          "value": "<p><strong>Multi Entry -</strong> You can join this contest with multiple teams</p>"
+        },
+        {
+          "textKey": "multiWinner",
+          "value": "<p><strong>Multi Winner -</strong> Winnings are split between multiple winners</p>"
+        },
+        {
+          "textKey": "confirmed",
+          "value": "<p><strong>Confirmed -</strong> This contest won't cancel even if it doesn't fill up</p>"
+        },
+        {
+          "textKey": "default",
+          "value": "</p>"
+        }
+      ]
+    },
+    {
+      "title": "Contest Size",
+      "options": [
+        {
+          "title": "2 member",
+          "value": "2-2"
+        },
+        {
+          "title": "3 to 10",
+          "value": "3-10"
+        },
+        {
+          "title": "11 to 20",
+          "value": "11-20"
+        },
+        {
+          "title": "21 to 100",
+          "value": "21-100"
+        },
+        {
+          "title": "101 to 1,000",
+          "value": "101-1000"
+        },
+        {
+          "title": "1,001 to 10,000",
+          "value": "1001-10000"
+        },
+        {
+          "title": "10,001 to 50,000",
+          "value": "10001-50000"
+        },
+        {
+          "title": "50001 & more",
+          "value": "50001"
+        }
+      ],
+      "filterType": "filterContestSize"
+    }
+  ]
+}

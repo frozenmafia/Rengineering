@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="24dp" android:width="24dp" android:viewportWidth="15" android:viewportHeight="18">
+    <path android:fillColor="@drawable/res_0x7f080016_dream_team__0" android:pathData="M14.883,2.353a0.374,0.374 0,0 0,-0.28 -0.102c-3.618,0.211 -5.266,-0.647 -6.844,-2.147a0.374,0.374 0,0 0,-0.516 0C5.664,1.603 4.02,2.462 0.397,2.25A0.373,0.373 0,0 0,0 2.625V10.5c0,4.08 4.431,6.883 7.425,7.492a0.417,0.417 0,0 0,0.15 0C10.57,17.383 15,14.58 15,10.5V2.625a0.367,0.367 0,0 0,-0.117 -0.272z" android:fillType="evenOdd"/>
+    <path android:fillColor="#3c3c3c" android:pathData="M2.576,5.7h2.232c1.638,0 2.628,0.954 2.628,3.132 0,2.007 -0.99,3.168 -2.439,3.168L2.576,12L2.576,5.7zM4.061,6.978v3.744h0.63c0.99,0 1.224,-0.918 1.224,-1.917 0,-0.891 -0.234,-1.827 -1.224,-1.827h-0.63zM8.084,5.7h4.761v1.368h-1.629L11.216,12L9.722,12L9.722,7.068L8.084,7.068L8.084,5.7z" android:fillType="evenOdd"/>
+</vector>

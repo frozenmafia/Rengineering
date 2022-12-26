@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-path right="external_files" bottom="."/>
+    <cache-path right="cache_path" bottom="/"/>
+</paths>

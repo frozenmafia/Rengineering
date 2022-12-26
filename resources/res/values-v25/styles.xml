@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="_res_0x7f130141" parent="@style/_res_0x7f130134">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+    <style name="_res_0x7f130142" parent="@style/_res_0x7f130134">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/white</item>
+        <item name="res_0x7f040101">@color/res_0x7f060306</item>
+    </style>
+    <style name="_res_0x7f130145" parent="@style/_res_0x7f13034c">
+        <item name="res_0x7f04008d">@style/_res_0x7f1305fd</item>
+    </style>
+    <style name="_res_0x7f130203" parent="@style/_res_0x7f13020e">
+    </style>
+    <style name="_res_0x7f130204" parent="@style/_res_0x7f13020f">
+    </style>
+    <style name="_res_0x7f13020e" parent="@android:style/Theme.Material.NoActionBar">
+    </style>
+    <style name="_res_0x7f13020f" parent="@android:style/Theme.Material.Light.NoActionBar">
+    </style>
+    <style name="_res_0x7f1302a5" parent="@style/_res_0x7f130342">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:background">@drawable/splash</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="res_0x7f040118">@color/res_0x7f060584</item>
+    </style>
+    <style name="_res_0x7f1305fd" parent="@style/_res_0x7f13049c">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+</resources>

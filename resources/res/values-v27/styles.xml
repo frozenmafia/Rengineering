@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="_res_0x7f13008f" parent="@style/_res_0x7f130132">
+    </style>
+    <style name="_res_0x7f130091" parent="@style/_res_0x7f130133">
+    </style>
+    <style name="_res_0x7f130132" parent="@style/_res_0x7f130130">
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+    </style>
+    <style name="_res_0x7f130133" parent="@style/_res_0x7f130131">
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
+    </style>
+</resources>

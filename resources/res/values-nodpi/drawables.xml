@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="circle_marker">ot.xml</drawable>
+    <drawable name="oval_marker">aNq</drawable>
+    <drawable name="rectangle_marker">agT</drawable>
+    <drawable name="rectangle_marker_left">atZ</drawable>
+    <drawable name="rectangle_marker_right">jl</drawable>
+    <drawable name="rectangle_marker_top">brg</drawable>
+    <drawable name="rectangle_marker_top_left">boK</drawable>
+    <drawable name="rectangle_marker_top_right">Mq</drawable>
+    <drawable name="stadium">yJ</drawable>
+</resources>

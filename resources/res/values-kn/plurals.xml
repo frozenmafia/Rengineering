@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="res_0x7f100001">
+        <item quantity="one">%s ಕಾಂಟೆಸ್ಟ್ ಇನ್ವೈಟ್</item>
+        <item quantity="other">%s ಕಾಂಟೆಸ್ಟ್ ಇನ್ವೈಟ್ಸ್</item>
+    </plurals>
+    <plurals name="res_0x7f100002">
+        <item quantity="one">%s ಮ್ಯಾಚ್</item>
+        <item quantity="other">%s ಮ್ಯಾಚ್ ಗಳು</item>
+    </plurals>
+    <plurals name="res_0x7f100005">
+        <item quantity="one">%1$s ಫಿಲ್ಟರ್ ಹಾಕಲಾಗಿದೆ</item>
+        <item quantity="other">%1$s ಫಿಲ್ಟರ್ ಗಳನ್ನು ಹಾಕಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="res_0x7f100006">
+        <item quantity="one">%s ಇನ್ವೈಟ್</item>
+        <item quantity="other">%s ಇನ್ವೈಟ್ಸ್</item>
+    </plurals>
+    <plurals name="res_0x7f100007">
+        <item quantity="one">ಇನ್ವೈಟ್</item>
+        <item quantity="other">ಇನ್ವೈಟ್ಸ್</item>
+    </plurals>
+    <plurals name="res_0x7f100008">
+        <item quantity="one">1 Sort &amp; %1$d ಫಿಲ್ಟರ್ ಹಾಕಲಾಗಿದೆ</item>
+        <item quantity="other">1 Sort &amp; %1$d ಫಿಲ್ಟರ್ ಗಳನ್ನು ಹಾಕಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="res_0x7f100009">
+        <item quantity="one">%1$s ಟೀಂನೊಂದಿಗೆ ಸೇರಿಕೊಂಡಿದ್ದಾರೆ</item>
+        <item quantity="other">%1$s ಟೀಂಗಳೊಂದಿಗೆ ಸೇರಿಕೊಂಡಿದ್ದಾರೆ</item>
+    </plurals>
+    <plurals name="res_0x7f10000a">
+        <item quantity="one">%1$s ಉಳಿದಿರುವ ಸ್ಪಾಟ್ಸ್</item>
+        <item quantity="other">%1$s ಉಳಿದಿರುವ ಸ್ಪಾಟ್ಸ್</item>
+    </plurals>
+    <plurals name="res_0x7f10000b">
+        <item quantity="one">%1$s ಲಭ್ಯವಿರುವ ಕಾಂಟೆಸ್ಟ್</item>
+        <item quantity="other">%1$s ಲಭ್ಯವಿರುವ ಕಾಂಟೆಸ್ಟ್ಸ್</item>
+    </plurals>
+    <plurals name="res_0x7f10000c">
+        <item quantity="one">%d Dream11 ನಲ್ಲಿ ಕಾಂಟಾಕ್ಟ್ ಮಾಡಿ. ಫಾಲೋ ಮಾಡಿ!</item>
+        <item quantity="other">%d Dream11 ನಲ್ಲಿರುವ ಕಾಂಟಾಕ್ಟ್ಸ್ . ಫಾಲೋ ಮಾಡಿ!</item>
+    </plurals>
+    <plurals name="res_0x7f10000d">
+        <item quantity="one">%d ಸೆಕೆಂಡ್‌ಗಳಷ್ಟು ಫಾಸ್ಟ್ ಫಾರ್ವರ್ಡ್ ಮಾಡಿ</item>
+        <item quantity="other">%d ಸೆಕೆಂಡ್‌ಗಳಷ್ಟು ಫಾಸ್ಟ್ ಫಾರ್ವರ್ಡ್ ಮಾಡಿ</item>
+    </plurals>
+    <plurals name="res_0x7f10000e">
+        <item quantity="one">%d ಸೆಕೆಂಡ್‌ಗಳಷ್ಟು ರಿವೈಂಡ್ ಮಾಡಿ</item>
+        <item quantity="other">%d ಸೆಕೆಂಡ್‌ಗಳಷ್ಟು ರಿವೈಂಡ್ ಮಾಡಿ</item>
+    </plurals>
+    <plurals name="res_0x7f100011">
+        <item quantity="one">%d ವ್ಯಕ್ತಿಯು ಫಾಲೋ ಮಾಡುತ್ತಿದ್ದಾರೆ %s</item>
+        <item quantity="other">%d ವ್ಯಕ್ತಿಯು ಫಾಲೋ ಮಾಡುತ್ತಿದ್ದಾರೆ %s</item>
+    </plurals>
+    <plurals name="res_0x7f100012">
+        <item quantity="one">%d ವ್ಯಕ್ತಿಯು ನಿಮ್ಮನ್ನು ಫಾಲೋ ಮಾಡುತ್ತಿದ್ದಾರೆ</item>
+        <item quantity="other">%d ಜನರು ನಿಮ್ಮನ್ನು ಫಾಲೋ ಮಾಡುತ್ತಿದ್ದಾರೆ</item>
+    </plurals>
+    <plurals name="res_0x7f100013">
+        <item quantity="one">ನೀವು %d ವ್ಯಕ್ತಿಯನ್ನು ಫಾಲೋ ಮಾಡುತ್ತಿರುವಿರಿ</item>
+        <item quantity="other">ನೀವು %d ಜನರನ್ನು ಫಾಲೋ ಮಾಡುತ್ತಿರುವಿರಿ</item>
+    </plurals>
+    <plurals name="res_0x7f100014">
+        <item quantity="one">%s ಇವರು %d ಅನ್ನು ಫಾಲೋ ಮಾಡುತ್ತಿದ್ದಾರೆ</item>
+        <item quantity="other">%s ಇವರು %d ಅನ್ನು ಫಾಲೋ ಮಾಡುತ್ತಿದ್ದಾರೆ</item>
+    </plurals>
+    <plurals name="res_0x7f100016">
+        <item quantity="one">ಕಾಂಟೆಸ್ಟ್</item>
+        <item quantity="other">ಕಾಂಟೆಸ್ಟ್ಸ್</item>
+    </plurals>
+    <plurals name="res_0x7f100017">
+        <item quantity="one">ಟೀಂ</item>
+        <item quantity="other">ಟೀಂ ಗಳು</item>
+    </plurals>
+    <plurals name="res_0x7f100018">
+        <item quantity="one">%d ವರೆಗೆ</item>
+        <item quantity="other">%dವರೆಗೆ</item>
+    </plurals>
+    <plurals name="res_0x7f100019">
+        <item quantity="one">ಈ ಕಾಂಟೆಸ್ಟ್ ಗೆ ಅನುಮತಿಯಿರುವ ಗರಿಷ್ಠ %d ಎಂಟ್ರಿ</item>
+        <item quantity="other">ಈ ಕಾಂಟೆಸ್ಟ್ ಗೆ ಅನುಮತಿಯಿರುವ ಗರಿಷ್ಠ %d ಎಂಟ್ರೀಸ್</item>
+    </plurals>
+    <plurals name="res_0x7f10001a">
+        <item quantity="one">ಸಿಂಗಲ್</item>
+        <item quantity="other">%d ವರೆಗೆ</item>
+    </plurals>
+    <plurals name="res_0x7f10001b">
+        <item quantity="one">%s ನೀವು ಫಾಲೋ ಮಾಡುತ್ತಿರುವವರು ಈ ಮ್ಯಾಚ್ ಅನ್ನು ಆಡಿದ್ದಾರೆ</item>
+        <item quantity="other">%s ನೀವು ಫಾಲೋ ಮಾಡುತ್ತಿರುವವರು ಈ ಮ್ಯಾಚ್ ಅನ್ನು ಆಡಿದ್ದಾರೆ</item>
+    </plurals>
+    <plurals name="res_0x7f10001c">
+        <item quantity="one">%s ನೀವು ಫಾಲೋ ಮಾಡುತ್ತಿರುವವರು ಈ ಮ್ಯಾಚ್ ಅನ್ನು ಆಡುತ್ತಿದ್ದಾರೆ</item>
+        <item quantity="other">%s ನೀವು ಫಾಲೋ ಮಾಡುತ್ತಿರುವವರು ಈ ಮ್ಯಾಚ್ ಅನ್ನು ಆಡುತ್ತಿದ್ದಾರೆ</item>
+    </plurals>
+    <plurals name="res_0x7f10001d">
+        <item quantity="one">ನೀವು ಈ ಕಾಂಟೆಸ್ಟ್ ನಲ್ಲಿ %1$d ಟೀಂ ಅನ್ನು ಎಂಟರ್ ಮಾಡಬಹುದು</item>
+        <item quantity="other">ನೀವು ಈ ಕಾಂಟೆಸ್ಟ್ ನಲ್ಲಿ %1$d ವರೆಗೆ ಟೀಂಗಳನ್ನು ಎಂಟರ್ ಮಾಡಬಹುದು</item>
+    </plurals>
+    <plurals name="res_0x7f10001e">
+        <item quantity="one">%d ಹೊಸ ಅಧಿಸೂಚನೆಗಳು</item>
+        <item quantity="other">%d ಹೊಸ ಅಧಿಸೂಚನೆಗಳು</item>
+    </plurals>
+    <plurals name="res_0x7f10001f">
+        <item quantity="one">%s + %d ಇತರರು ಆಡುತ್ತಿದ್ದಾರೆ</item>
+        <item quantity="other">%s + %d ಇತರರು ಆಡುತ್ತಿದ್ದಾರೆ</item>
+    </plurals>
+    <plurals name="res_0x7f100020">
+        <item quantity="one">%s ಇತರ ಗ್ರೂಪ್</item>
+        <item quantity="other">%s ಇತರ ಗ್ರೂಪ್ ಗಳು</item>
+    </plurals>
+    <plurals name="res_0x7f100021">
+        <item quantity="one">%1$d ಭಾಗವಹಿಸುವವ</item>
+        <item quantity="other">%1$d ಭಾಗವಹಿಸುವವರು</item>
+    </plurals>
+    <plurals name="res_0x7f100022">
+        <item quantity="one">%1$d ಭಾಗವಹಿಸುವವ</item>
+        <item quantity="other">%1$d ಭಾಗವಹಿಸುವವರು</item>
+    </plurals>
+    <plurals name="res_0x7f100028">
+        <item quantity="one">%1$d ಘೋಷಣೆಯಾಗಿಲ್ಲದ ಪ್ಲೇಯರ್ ಅನ್ನು ತೆಗೆಯಲಾಗಿದೆ!</item>
+        <item quantity="other">%1$d ಘೋಷಣೆಯಾಗಿಲ್ಲದ ಪ್ಲೇಯರ್ಸ್ ಅನ್ನು ತೆಗೆಯಲಾಗಿದೆ!</item>
+    </plurals>
+    <plurals name="res_0x7f100029">
+        <item quantity="one">%s ರಿಕ್ವೆಸ್ಟ್</item>
+        <item quantity="other">%s ರಿಕ್ವೆಸ್ಟ್ ಗಳು</item>
+    </plurals>
+    <plurals name="res_0x7f10002d">
+        <item quantity="one">%1$s ಟೈಪ್ ಮಾಡುತ್ತಿದ್ದಾರೆ…</item>
+        <item quantity="other">%1$s ಟೈಪ್ ಮಾಡುತ್ತಿದ್ದಾರೆ…</item>
+    </plurals>
+    <plurals name="res_0x7f10002e">
+        <item quantity="one">%1$d ಘೋಷಣೆಯಾಗಿಲ್ಲದ ಪ್ಲೇಯರ್ ಅನ್ನು ತೆಗೆಯಿರಿ</item>
+        <item quantity="other">%1$d ಘೋಷಣೆಯಾಗಿಲ್ಲದ ಪ್ಲೇಯರ್ ಗಳನ್ನು ತೆಗೆಯಿರಿ</item>
+    </plurals>
+    <plurals name="res_0x7f10002f">
+        <item quantity="one">%1$s ಹೊಸ ಸಂದೇಶ</item>
+        <item quantity="other">%1$s ಹೊಸ ಸಂದೇಶಗಳು</item>
+    </plurals>
+    <plurals name="res_0x7f100032">
+        <item quantity="one">ನೀವುಗಳು %2$d ಈ ಕಾಂಟೆಸ್ಟ್ ನಲ್ಲಿ %1$s ಗೆದ್ದಿದ್ದೀರ.</item>
+        <item quantity="other">ನೀವುಗಳು %2$d ಈ ಕಾಂಟೆಸ್ಟ್ ಗಳಲ್ಲಿ %1$s ಗೆದ್ದಿದ್ದೀರ.</item>
+    </plurals>
+</resources>

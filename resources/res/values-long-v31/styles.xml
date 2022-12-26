@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="_res_0x7f1302a5" parent="@style/_res_0x7f13039f">
+        <item name="android:windowBackground">@drawable/splash_v23</item>
+        <item name="android:background">@drawable/splash_v23</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="postSplashScreenTheme">@style/_res_0x7f130011</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_anim</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item>
+        <item name="windowSplashScreenBackground">@color/d11_color_bg__brandDark</item>
+    </style>
+</resources>

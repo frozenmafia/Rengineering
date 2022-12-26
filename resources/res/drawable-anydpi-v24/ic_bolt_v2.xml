@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="24dp" android:width="24dp" android:viewportWidth="164" android:viewportHeight="36">
+    <path android:fillColor="@drawable/res_0x7f080060_ic_bolt_v2__0" android:pathData="M2,0L162,0A2,2 0,0 1,164 2L164,34A2,2 0,0 1,162 36L2,36A2,2 0,0 1,0 34L0,2A2,2 0,0 1,2 0z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:fillColor="#ffffff" android:pathData="M82.806,18.097l-81.642,141.903l-3.164,0l0,-220l126.071,0l-46.301,80.449l2.547,-1.19l-0,0.001z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:fillColor="#dcdcdc" android:pathData="M3.01,160l-1.861,0l81.659,-141.905l2.547,-1.19z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:fillColor="#dcdcdc" android:pathData="M80.262,19.286l-2.547,1.19l46.352,-80.475l1.861,0z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:fillColor="@drawable/res_0x7f080061_ic_bolt_v2__1" android:pathData="M0,34.5h164v1.5h-164z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+    <path android:fillColor="@drawable/res_0x7f080062_ic_bolt_v2__2" android:pathData="M0,0h164v1.5h-164z" android:strokeColor="#00000000" android:strokeWidth="1" android:fillType="evenOdd"/>
+</vector>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="_res_0x7f13004b" parent="@android:style/TextAppearance.Material.Widget.ActionBar.Menu">
+    </style>
+    <style name="_res_0x7f130055" parent="@android:style/TextAppearance.Material.Widget.Button.Inverse">
+    </style>
+    <style name="_res_0x7f130068" parent="@style/_res_0x7f1300c3">
+    </style>
+    <style name="_res_0x7f13006f" parent="@style/_res_0x7f1300c4">
+    </style>
+    <style name="_res_0x7f1300c3" parent="@style/_res_0x7f1300c1">
+        <item name="res_0x7f040004">?android:attr/actionBarItemBackground</item>
+        <item name="res_0x7f040011">?android:attr/actionMenuTextAppearance</item>
+        <item name="res_0x7f040012">?android:attr/actionMenuTextColor</item>
+        <item name="res_0x7f040022">?android:attr/actionOverflowButtonStyle</item>
+        <item name="res_0x7f040150">@drawable/abc_control_background_material</item>
+        <item name="res_0x7f040434">?android:attr/ratingBarStyleIndicator</item>
+        <item name="res_0x7f040435">?android:attr/ratingBarStyleSmall</item>
+    </style>
+    <style name="_res_0x7f1300c4" parent="@style/_res_0x7f1300c2">
+        <item name="res_0x7f040004">?android:attr/actionBarItemBackground</item>
+        <item name="res_0x7f040011">?android:attr/actionMenuTextAppearance</item>
+        <item name="res_0x7f040012">?android:attr/actionMenuTextColor</item>
+        <item name="res_0x7f040022">?android:attr/actionOverflowButtonStyle</item>
+        <item name="res_0x7f040150">@drawable/abc_control_background_material</item>
+        <item name="res_0x7f040434">?android:attr/ratingBarStyleIndicator</item>
+        <item name="res_0x7f040435">?android:attr/ratingBarStyleSmall</item>
+    </style>
+    <style name="_res_0x7f1300dd" parent="@android:style/Widget.Material.ActionButton.Overflow">
+    </style>
+    <style name="_res_0x7f1300e3" parent="@android:style/Widget.Material.Button.Borderless.Colored">
+    </style>
+    <style name="_res_0x7f1300e5" parent="@android:style/Widget.Material.Button.Colored">
+        <item name="android:textAppearance">@style/_res_0x7f1302df</item>
+    </style>
+    <style name="_res_0x7f1300ef" parent="@android:style/Widget.Material.EditText">
+        <item name="android:breakStrategy">simple</item>
+        <item name="android:hyphenationFrequency">none</item>
+    </style>
+    <style name="_res_0x7f130104" parent="@android:style/Widget.Material.RatingBar.Indicator">
+    </style>
+    <style name="_res_0x7f130105" parent="@android:style/Widget.Material.RatingBar.Small">
+    </style>
+    <style name="_res_0x7f13010b" parent="@android:style/Widget.Material.Spinner.Underlined">
+    </style>
+    <style name="_res_0x7f13010c" parent="@android:style/Widget.Material.TextView">
+        <item name="android:breakStrategy">high_quality</item>
+        <item name="android:hyphenationFrequency">none</item>
+    </style>
+    <style name="_res_0x7f13014e" parent="@style/_res_0x7f130029">
+        <item name="res_0x7f0400ad">?android:attr/colorBackgroundFloating</item>
+    </style>
+    <style name="_res_0x7f1303b0" parent="@style/_res_0x7f130099">
+        <item name="res_0x7f040103">@color/res_0x7f06045b</item>
+    </style>
+    <style name="_res_0x7f1303d6" parent="@style/_res_0x7f13009c">
+        <item name="res_0x7f040103">@color/res_0x7f06045b</item>
+    </style>
+    <style name="_res_0x7f1304a5" parent="@style/_res_0x7f130111">
+        <item name="res_0x7f040060">@drawable/m3_appbar_background</item>
+        <item name="res_0x7f040068">@drawable/m3_appbar_background</item>
+        <item name="res_0x7f040069">@drawable/m3_appbar_background</item>
+    </style>
+    <style name="_res_0x7f1304a6" parent="@style/_res_0x7f130112">
+        <item name="res_0x7f040060">@drawable/m3_appbar_background</item>
+        <item name="res_0x7f040068">@drawable/m3_appbar_background</item>
+    </style>
+    <style name="_res_0x7f1304d8" parent="@style/_res_0x7f130116">
+        <item name="android:background">@drawable/m3_selection_control_ripple</item>
+    </style>
+    <style name="_res_0x7f1304d9" parent="@style/_res_0x7f130117">
+        <item name="android:background">@drawable/m3_radiobutton_ripple</item>
+    </style>
+    <style name="_res_0x7f1304da" parent="@style/_res_0x7f130118">
+        <item name="android:background">@drawable/m3_selection_control_ripple</item>
+    </style>
+    <style name="_res_0x7f1304ec" parent="@style/_res_0x7f13011d">
+        <item name="res_0x7f040060">@drawable/m3_appbar_background</item>
+        <item name="res_0x7f040068">@drawable/m3_appbar_background</item>
+        <item name="res_0x7f040069">@drawable/m3_appbar_background</item>
+    </style>
+    <style name="_res_0x7f13051b" parent="@style/_res_0x7f130121">
+        <item name="android:background">@drawable/m3_tabs_transparent_background</item>
+    </style>
+    <style name="_res_0x7f130581" parent="@style/_res_0x7f130128">
+        <item name="android:popupBackground">?attr/res_0x7f040409</item>
+        <item name="android:popupElevation">8dp</item>
+    </style>
+    <style name="_res_0x7f130582" parent="@style/_res_0x7f130129">
+        <item name="android:popupBackground">?attr/res_0x7f040409</item>
+        <item name="android:popupElevation">8dp</item>
+    </style>
+</resources>

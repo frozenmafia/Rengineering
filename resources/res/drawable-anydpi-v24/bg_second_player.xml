@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:height="100dp" android:width="70dp" android:autoMirrored="true" android:viewportWidth="70" android:viewportHeight="100">
+    <path android:fillColor="@drawable/res_0x7f080014_bg_second_player__0" android:pathData="M0,0L63.21,26.187C67.32,27.89 70,31.901 70,36.349V100H0V0Z"/>
+</vector>
